@@ -1,0 +1,1356 @@
+################## rAthenaID PO File ###################
+# Only Compatible with rAthena File Version:
+# 3d9c6e7763c3d257593ba159a18dffc435b5ff06
+########################################################
+
+#: npc/kafras/kafras.txt
+# mes "[Kafra Leilah]";
+#msgctxt "Kafra Service"
+#msgid "[Kafra Leilah]"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Hm...?";
+#msgctxt "Kafra Service"
+#msgid "Hm...?"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Oh, welcome to";
+msgctxt "Kafra Service"
+msgid "Oh, welcome to"
+msgstr "Oh, selamat datang di"
+#: npc/kafras/kafras.txt
+# mes "the Kafra Corporation";
+msgctxt "Kafra Service"
+msgid "the Kafra Corporation"
+msgstr "Pusat Kafra Corporation"
+#: npc/kafras/kafras.txt
+# mes "Headquarters. Did you";
+msgctxt "Kafra Service"
+msgid "Headquarters. Did you"
+msgstr "Apakah anda"
+#: npc/kafras/kafras.txt
+# mes "need something?";
+msgctxt "Kafra Service"
+msgid "need something?"
+msgstr "membutuhkan sesuatu?"
+#: npc/kafras/kafras.txt
+# switch(select("Save:Use Storage:Rent a Pushcart:Cancel")) {
+msgctxt "Kafra Service"
+msgid "Save:Use Storage:Rent a Pushcart:Cancel"
+msgstr "Simpan posisi:Gunakan storage:Sewa cart:Batal"
+#: npc/kafras/kafras.txt
+# mes "Your Respawn Point has";
+msgctxt "Kafra Service"
+msgid "Your Respawn Point has"
+msgstr "Tempat hidup kembali"
+#: npc/kafras/kafras.txt
+# mes "been saved here, inside";
+msgctxt "Kafra Service"
+msgid "been saved here, inside"
+msgstr "telah disimpan, "
+#: npc/kafras/kafras.txt
+# mes "of the Kafra Corporation";
+msgctxt "Kafra Service"
+msgid "of the Kafra Corporation"
+msgstr "pada informasi kami."
+#: npc/kafras/kafras.txt
+# mes "Headquarters. Thank you.";
+msgctxt "Kafra Service"
+msgid "Headquarters. Thank you."
+msgstr "Terima kasih."
+#: npc/kafras/kafras.txt
+# mes "Please make use of";
+msgctxt "Kafra Service"
+msgid "Please make use of"
+msgstr "Silahkan gunakan"
+#: npc/kafras/kafras.txt
+# mes "the Kafra Services that are";
+msgctxt "Kafra Service"
+msgid "the Kafra Services that are"
+msgstr "layanan kafra yang"
+#: npc/kafras/kafras.txt
+# mes "available throughout all of";
+msgctxt "Kafra Service"
+msgid "available throughout all of"
+msgstr "tersedia di seluruh Rune Midgard"
+#: npc/kafras/kafras.txt
+# mes "Rune Midgard. Thank you for";
+msgctxt "Kafra Service"
+msgid "Rune Midgard. Thank you for"
+msgstr "Terima kasih telah"
+#: npc/kafras/kafras.txt
+# mes "visiting the Kafra Headquarters.";
+msgctxt "Kafra Service"
+msgid "visiting the Kafra Headquarters."
+msgstr "mengunjungi kantor pusat Kafra."
+#: npc/kafras/kafras.txt
+# mes "Excuse me, but it";
+msgctxt "Kafra Service"
+msgid "Excuse me, but it"
+msgstr "Mohon maaf,"
+#: npc/kafras/kafras.txt
+# mes "seems that you don't";
+msgctxt "Kafra Service"
+msgid "seems that you don't"
+msgstr "tampaknya anda tidak memiliki"
+#: npc/kafras/kafras.txt
+# mes "have the 20 zeny to pay";
+msgctxt "Kafra Service"
+msgid "have the 20 zeny to pay"
+msgstr "20 zeny untuk membayar biaya"
+#: npc/kafras/kafras.txt
+# mes "the Storage access fee...";
+msgctxt "Kafra Service"
+msgid "the Storage access fee..."
+msgstr "membuka storage."
+#: npc/kafras/kafras.txt
+# mes "Although this facility is";
+msgctxt "Kafra Service"
+msgid "Although this facility is"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "exclusively intended for";
+msgctxt "Kafra Service"
+msgid "exclusively intended for"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "the training of Kafra Employee";
+msgctxt "Kafra Service"
+msgid "the training of Kafra Employee"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "and administrative functions,";
+msgctxt "Kafra Service"
+msgid "and administrative functions,"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "I'll access your Storage for you.";
+msgctxt "Kafra Service"
+msgid "I'll access your Storage for you."
+msgstr "Saya akan membukakan storage anda."
+#: npc/kafras/kafras.txt
+# mes "In the future, please";
+msgctxt "Kafra Service"
+msgid "In the future, please"
+msgstr "Untuk berikutnya,"
+#: npc/kafras/kafras.txt
+# mes "ask the Kafra Employee on";
+msgctxt "Kafra Service"
+msgid "ask the Kafra Employee on"
+msgstr "harap minta petugas Kafra yang bertugas"
+#: npc/kafras/kafras.txt
+# mes "duty if you wish to use";
+msgctxt "Kafra Service"
+msgid "duty if you wish to use"
+msgstr "jika anda ingin menggunakan"
+#: npc/kafras/kafras.txt
+# mes "any of the Kafra Services.";
+msgctxt "Kafra Service"
+msgid "any of the Kafra Services."
+msgstr "segala layanan Kafra."
+#: npc/kafras/kafras.txt
+# mes "Thank you for your patronage.";
+msgctxt "Kafra Service"
+msgid "Thank you for your patronage."
+msgstr "Terima kasih telah menggunakan layanan kami."
+#: npc/kafras/kafras.txt
+# mes "My apologies, but I'm";
+msgctxt "Kafra Service"
+msgid "My apologies, but I'm"
+msgstr "Homon maaf, tetapi"
+#: npc/kafras/kafras.txt
+# mes "not on duty. I'd assist you";
+msgctxt "Kafra Service"
+msgid "not on duty. I'd assist you"
+msgstr "saya sedang tidak bertugas. Saya ingin membantu"
+#: npc/kafras/kafras.txt
+# mes "if I could, but actually don't";
+msgctxt "Kafra Service"
+msgid "if I could, but actually don't"
+msgstr "jika bisa, tetapi tidak ada"
+#: npc/kafras/kafras.txt
+# mes "have any available Pushcarts.";
+msgctxt "Kafra Service"
+msgid "have any available Pushcarts."
+msgstr "penyewaan Cart yang tersedia."
+#: npc/kafras/kafras.txt
+# mes "Why don't you ask another Kafra";
+msgctxt "Kafra Service"
+msgid "Why don't you ask another Kafra"
+msgstr "Kenapa kamu tidak meminta Kafra yang lain"
+#: npc/kafras/kafras.txt
+# mes "Employee for assistance?";
+msgctxt "Kafra Service"
+msgid "Employee for assistance?"
+msgstr "untuk bantuan?"
+#: npc/kafras/kafras.txt
+# mes "Kafra Employees are";
+msgctxt "Kafra Service"
+msgid "Kafra Employees are"
+msgstr "Petugas Kafra"
+#: npc/kafras/kafras.txt
+# mes "stationed all over the";
+msgctxt "Kafra Service"
+msgid "stationed all over the"
+msgstr "tersedia di semua daerah"
+#: npc/kafras/kafras.txt
+# mes "Rune Midgard continent,";
+msgctxt "Kafra Service"
+msgid "Rune Midgard continent,"
+msgstr "Rune Midgard"
+#: npc/kafras/kafras.txt
+# mes "and you should be able to find";
+msgctxt "Kafra Service"
+msgid "and you should be able to find"
+msgstr "dan kamu dapat menemukannya"
+#: npc/kafras/kafras.txt
+# mes "plenty outside in Al De Baran.";
+msgctxt "Kafra Service"
+msgid "plenty outside in Al De Baran."
+msgstr "banyak di luar daerah Al De Baran."
+#: npc/kafras/kafras.txt
+# mes "^666666*Whew...*^000000";
+#msgctxt "Kafra Service"
+#msgid "^666666*Whew...*^000000"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Great, because I'm";
+msgctxt "Kafra Service"
+msgid "Great, because I'm"
+msgstr "Bagus, karena saya"
+#: npc/kafras/kafras.txt
+# mes "actually on my break";
+msgctxt "Kafra Service"
+msgid "actually on my break"
+msgstr "sesungguhnya sedang beristirahat"
+#: npc/kafras/kafras.txt
+# mes "right now. Choosing";
+msgctxt "Kafra Service"
+msgid "right now. Choosing"
+msgstr "saat ini. Memilih"
+#: npc/kafras/kafras.txt
+# mes "''Cancel'' was a good";
+msgctxt "Kafra Service"
+msgid "''Cancel'' was a good"
+msgstr "''Batal'' adalah pilihan"
+#: npc/kafras/kafras.txt
+# mes "move on your part.";
+msgctxt "Kafra Service"
+msgid "move on your part."
+msgstr "yang bagus."
+#: npc/kafras/kafras.txt
+# mes "[Kafra Employee]";
+#msgctxt "Kafra Employee::kaf_aldebaran"
+#msgid "[Kafra Employee]"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "The Kafra Corporation";
+#msgctxt "Kafra Employee::kaf_aldebaran"
+#msgid "The Kafra Corporation"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "is always working to provide";
+msgctxt "Kafra Employee::kaf_aldebaran"
+msgid "is always working to provide"
+msgstr "selalu bekerja untuk menawarkan"
+#: npc/kafras/kafras.txt
+# mes "you with convenient services.";
+msgctxt "Kafra Employee::kaf_aldebaran"
+msgid "you with convenient services."
+msgstr "layanan yang maksimal untuk Anda."
+#: npc/kafras/kafras.txt
+# mes "How may I be of assistance?";
+msgctxt "Kafra Employee::kaf_aldebaran"
+msgid "How may I be of assistance?"
+msgstr "Adakah yang kamu butuhkan?"
+#: npc/kafras/kafras.txt
+# mes "[Kafra Employee]";
+#msgctxt "Kafra Employee::kaf_geffen"
+#msgid "[Kafra Employee]"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Welcome~!";
+msgctxt "Kafra Employee::kaf_geffen"
+msgid "Welcome~!"
+msgstr "Selamat datang~!"
+#: npc/kafras/kafras.txt
+# mes "The Kafra Services";
+msgctxt "Kafra Employee::kaf_geffen"
+msgid "The Kafra Services"
+msgstr "Layanan Kafra"
+#: npc/kafras/kafras.txt
+# mes "are always on your side.";
+msgctxt "Kafra Employee::kaf_geffen"
+msgid "are always on your side."
+msgstr "akan selalu ada untukmu."
+#: npc/kafras/kafras.txt
+# mes "So how can I help you?";
+msgctxt "Kafra Employee::kaf_geffen"
+msgid "So how can I help you?"
+msgstr "Bagaimana saya dapat membantu Anda?"
+#: npc/kafras/kafras.txt
+# mes "[Kafra Employee]";
+#msgctxt "Kafra Employee::geffen2"
+#msgid "[Kafra Employee]"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Welcome!";
+msgctxt "Kafra Employee::geffen2"
+msgid "Welcome!"
+msgstr "Selamat datang!"
+#: npc/kafras/kafras.txt
+# mes "The Kafra Corporation";
+#msgctxt "Kafra Employee::geffen2"
+#msgid "The Kafra Corporation"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "will always support the";
+msgctxt "Kafra Employee::geffen2"
+msgid "will always support the"
+msgstr "akan selalu mendukung"
+#: npc/kafras/kafras.txt
+# mes "adventurers of Rune-Midgard";
+msgctxt "Kafra Employee::geffen2"
+msgid "adventurers of Rune-Midgard"
+msgstr "petarung dari Rune Midgard"
+#: npc/kafras/kafras.txt
+# mes "with its excellent service. So";
+msgctxt "Kafra Employee::geffen2"
+msgid "with its excellent service. So"
+msgstr "dengan layanan yang prima."
+#: npc/kafras/kafras.txt
+# mes "what can I do for you today?";
+msgctxt "Kafra Employee::geffen2"
+msgid "what can I do for you today?"
+msgstr "Adakah yang dapat saya lakukan hari ini?"
+#: npc/kafras/kafras.txt
+# mes "[Kafra Employee]";
+#msgctxt "Kafra Employee::kaf_morocc"
+#msgid "[Kafra Employee]"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "The Kafra Corporation";
+#msgctxt "Kafra Employee::kaf_morocc"
+#msgid "The Kafra Corporation"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "is always working to provide";
+msgctxt "Kafra Employee::kaf_morocc"
+msgid "is always working to provide"
+msgstr "selalu bekerja untuk menawarkan"
+#: npc/kafras/kafras.txt
+# mes "you with convenient services.";
+msgctxt "Kafra Employee::kaf_morocc"
+msgid "you with convenient services."
+msgstr "layanan yang maksimal untuk Anda."
+#: npc/kafras/kafras.txt
+# mes "How may I be of assistance?";
+msgctxt "Kafra Employee::kaf_morocc"
+msgid "How may I be of assistance?"
+msgstr "Adakah yang kamu butuhkan?"
+#: npc/kafras/kafras.txt
+# mes "[Kafra Employee]";
+#msgctxt "Kafra::kaf_morocc2"
+#msgid "[Kafra Employee]"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Welcome!";
+msgctxt "Kafra::kaf_morocc2"
+msgid "Welcome!"
+msgstr "Selamat datang!"
+#: npc/kafras/kafras.txt
+# mes "The Kafra Corporation";
+msgctxt "Kafra::kaf_morocc2"
+msgid "The Kafra Corporation"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "will always support the";
+msgctxt "Kafra::kaf_morocc2"
+msgid "will always support the"
+msgstr "akan selalu mendukung"
+#: npc/kafras/kafras.txt
+# mes "adventurers of Rune-Midgard";
+msgctxt "Kafra::kaf_morocc2"
+msgid "adventurers of Rune-Midgard"
+msgstr "petarung dari Rune Midgard"
+#: npc/kafras/kafras.txt
+# mes "with its excellent service. So";
+msgctxt "Kafra::kaf_morocc2"
+msgid "with its excellent service. So"
+msgstr "dengan layanan yang prima."
+#: npc/kafras/kafras.txt
+# mes "what can I do for you today?";
+msgctxt "Kafra::kaf_morocc2"
+msgid "what can I do for you today?"
+msgstr "Adakah yang dapat saya lakukan hari ini?"
+#: npc/kafras/kafras.txt
+# mes "[Kafra Employee]";
+#msgctxt "Kafra Employee::kaf_payon"
+#msgid "[Kafra Employee]"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "The Kafra Corporation";
+#msgctxt "Kafra Employee::kaf_payon"
+#msgid "The Kafra Corporation"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "is always working to provide";
+msgctxt "Kafra Employee::kaf_payon"
+msgid "is always working to provide"
+msgstr "selalu bekerja untuk menawarkan"
+#: npc/kafras/kafras.txt
+# mes "you with convenient services.";
+msgctxt "Kafra Employee::kaf_payon"
+msgid "you with convenient services."
+msgstr "layanan yang maksimal untuk Anda."
+#: npc/kafras/kafras.txt
+# mes "How may I be of assistance?";
+msgctxt "Kafra Employee::kaf_payon"
+msgid "How may I be of assistance?"
+msgstr "Adakah yang kamu butuhkan?"
+#: npc/kafras/kafras.txt
+# mes "[Kafra Employee]";
+#msgctxt "Kafra Employee::kaf_payon2"
+#msgid "[Kafra Employee]"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Welcome to the";
+msgctxt "Kafra Employee::kaf_payon2"
+msgid "Welcome to the"
+msgstr "Selamat datang di"
+#: npc/kafras/kafras.txt
+# mes "Kafra Corporation.";
+#msgctxt "Kafra Employee::kaf_payon2"
+#msgid "Kafra Corporation."
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "The Kafra services are";
+msgctxt "Kafra Employee::kaf_payon2"
+msgid "The Kafra services are"
+msgstr "Layanan Kafra"
+#: npc/kafras/kafras.txt
+# mes "always on your side.";
+msgctxt "Kafra Employee::kaf_payon2"
+msgid "always on your side."
+msgstr "akan selalu melayani anda."
+#: npc/kafras/kafras.txt
+# mes "How may I assist you?";
+msgctxt "Kafra Employee::kaf_payon2"
+msgid "How may I assist you?"
+msgstr "Adakah yang dapat saya bantu?"
+#: npc/kafras/kafras.txt
+# mes "[Kafra Employee]";
+#msgctxt "Kafra Employee::kaf_payon3"
+#msgid "[Kafra Employee]"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Welcome to the";
+msgctxt "Kafra Employee::kaf_payon3"
+msgid "Welcome to the"
+msgstr "Selamat datang di"
+#: npc/kafras/kafras.txt
+# mes "Kafra Corporation.";
+#msgctxt "Kafra Employee::kaf_payon3"
+#msgid "Kafra Corporation."
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "The Kafra services";
+msgctxt "Kafra Employee::kaf_payon3"
+msgid "The Kafra services"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "are always on your side.";
+msgctxt "Kafra Employee::kaf_payon3"
+msgid "are always on your side."
+msgstr "akan selalu ada untukmu."
+#: npc/kafras/kafras.txt
+# mes "How may I assist you?";
+msgctxt "Kafra Employee::kaf_payon3"
+msgid "How may I assist you?"
+msgstr "Adakah yang dapat saya bantu?"
+#: npc/kafras/kafras.txt
+# mes "[Kafra Employee]";
+#msgctxt "Kafra Employee::kaf_prontera"
+#msgid "[Kafra Employee]"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Welcome to the";
+msgctxt "Kafra Employee::kaf_prontera"
+msgid "Welcome to the"
+msgstr "Selamat datang di"
+#: npc/kafras/kafras.txt
+# mes "Kafra Corporation~";
+#msgctxt "Kafra Employee::kaf_prontera"
+#msgid "Kafra Corporation~"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "The Kafra Services are";
+msgctxt "Kafra Employee::kaf_prontera"
+msgid "The Kafra services are"
+msgstr "Layanan Kafra"
+#: npc/kafras/kafras.txt
+# mes "always here to support";
+msgctxt "Kafra Employee::kaf_prontera"
+msgid "always here to support"
+msgstr "selalu sedia setiap saat."
+#: npc/kafras/kafras.txt
+# mes "you. So how can I be";
+msgctxt "Kafra Employee::kaf_prontera"
+msgid "you. So how can I be"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "of service today?";
+msgctxt "Kafra Employee::kaf_prontera"
+msgid "of service today?"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "[Kafra Employee]";
+#msgctxt "Kafra Employee::kaf_prontera2"
+#msgid "[Kafra Employee]"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Welcome~!";
+msgctxt "Kafra Employee::kaf_prontera2"
+msgid "Welcome~!"
+msgstr "Selamat datang~!"
+#: npc/kafras/kafras.txt
+# mes "The Kafra Services";
+#msgctxt "Kafra Employee::kaf_prontera2"
+#msgid "The Kafra Services"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "are always on your side.";
+msgctxt "Kafra Employee::kaf_prontera2"
+msgid "are always on your side."
+msgstr "akan selalu ada untukmu."
+#: npc/kafras/kafras.txt
+# mes "So how can I help you?";
+msgctxt "Kafra Employee::kaf_prontera2"
+msgid "So how can I help you?"
+msgstr "Bagaimana saya dapat membantu Anda?"
+#: npc/kafras/kafras.txt
+# mes "[Kafra Employee]";
+#msgctxt "Kafra Employee::kaf_prontera3"
+#msgid "[Kafra Employee]"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "The Kafra Corporation";
+#msgctxt "Kafra Employee::kaf_prontera3"
+#msgid "The Kafra Corporation"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "is always working to provide";
+msgctxt "Kafra Employee::kaf_prontera3"
+msgid "is always working to provide"
+msgstr "selalu bekerja untuk menawarkan"
+#: npc/kafras/kafras.txt
+# mes "you with convenient services.";
+msgctxt "Kafra Employee::kaf_prontera3"
+msgid "you with convenient services."
+msgstr "layanan yang maksimal untuk Anda."
+#: npc/kafras/kafras.txt
+# mes "How may I be of assistance?";
+msgctxt "Kafra Employee::kaf_prontera3"
+msgid "How may I be of assistance?"
+msgstr "Adakah yang kamu butuhkan?"
+#: npc/kafras/kafras.txt
+# mes "[Kafra Employee]";
+#msgctxt "Kafra Employee::kaf_prontera4"
+#msgid "[Kafra Employee]"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Welcome!";
+msgctxt "Kafra Employee::kaf_prontera4"
+msgid "Welcome!"
+msgstr "Selamat datang!"
+#: npc/kafras/kafras.txt
+# mes "The Kafra Corporation";
+#msgctxt "Kafra Employee::kaf_prontera4"
+#msgid "The Kafra Corporation"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "will always support the";
+msgctxt "Kafra Employee::kaf_prontera4"
+msgid "will always support the"
+msgstr "akan selalu mendukung"
+#: npc/kafras/kafras.txt
+# mes "adventurers of Rune-Midgard";
+msgctxt "Kafra Employee::kaf_prontera4"
+msgid "adventurers of Rune-Midgard"
+msgstr "petarung dari Rune Midgard"
+#: npc/kafras/kafras.txt
+# mes "with its excellent service. So";
+msgctxt "Kafra Employee::kaf_prontera4"
+msgid "with its excellent service. So"
+msgstr "dengan layanan yang prima."
+#: npc/kafras/kafras.txt
+# mes "what can I do for you today?";
+msgctxt "Kafra Employee::kaf_prontera4"
+msgid "what can I do for you today?"
+msgstr "Adakah yang dapat saya lakukan hari ini?"
+#: npc/kafras/kafras.txt
+# mes "[Kafra Employee]";
+#msgctxt "Kafra Employee::kaf_prontera5"
+#msgid "[Kafra Employee]"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Welcome to the";
+msgctxt "Kafra Employee::kaf_prontera5"
+msgid "Welcome to the"
+msgstr "Selamat datang di"
+#: npc/kafras/kafras.txt
+# mes "Kafra Corporation.";
+#msgctxt "Kafra Employee::kaf_prontera5"
+#msgid "Kafra Corporation."
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "The Kafra services";
+msgctxt "Kafra Employee::kaf_prontera5"
+msgid "The Kafra services"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "are always on your side.";
+msgctxt "Kafra Employee::kaf_prontera5"
+msgid "are always on your side."
+msgstr "akan selalu ada untukmu."
+#: npc/kafras/kafras.txt
+# mes "How may I assist you?";
+msgctxt "Kafra Employee::kaf_prontera5"
+msgid "How may I assist you?"
+msgstr "Adakah yang dapat saya bantu?"
+#: npc/kafras/kafras.txt
+# mes "[Kafra Employee]";
+#msgctxt "Kafra Employee::kaf_yuno"
+#msgid "[Kafra Employee]"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "The Kafra Corporation";
+msgctxt "Kafra Employee::kaf_yuno"
+msgid "The Kafra Corporation"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "is always working to provide";
+msgctxt "Kafra Employee::kaf_yuno"
+msgid "is always working to provide"
+msgstr "selalu bekerja untuk menawarkan"
+#: npc/kafras/kafras.txt
+# mes "you with convenient services.";
+msgctxt "Kafra Employee::kaf_yuno"
+msgid "you with convenient services."
+msgstr "layanan yang maksimal untuk Anda."
+#: npc/kafras/kafras.txt
+# mes "How may I be of assistance?";
+msgctxt "Kafra Employee::kaf_yuno"
+msgid "How may I be of assistance?"
+msgstr "Adakah yang kamu butuhkan?"
+#: npc/kafras/kafras.txt
+# mes "[Kafra Employee]";
+#msgctxt "Kafra Employee::kaf_yuno2"
+#msgid "[Kafra Employee]"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "The Kafra Corporation";
+#msgctxt "Kafra Employee::kaf_yuno2"
+#msgid "The Kafra Corporation"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "is always working to provide";
+msgctxt "Kafra Employee::kaf_yuno2"
+msgid "is always working to provide"
+msgstr "selalu bekerja untuk menawarkan"
+#: npc/kafras/kafras.txt
+# mes "you with convenient services.";
+msgctxt "Kafra Employee::kaf_yuno2"
+msgid "you with convenient services."
+msgstr "layanan yang maksimal untuk Anda."
+#: npc/kafras/kafras.txt
+# mes "How may I be of assistance?";
+msgctxt "Kafra Employee::kaf_yuno2"
+msgid "How may I be of assistance?"
+msgstr "Adakah yang kamu butuhkan?"
+#: npc/kafras/kafras.txt
+# mes "[Kafra Employee]";
+#msgctxt "Kafra Employee::kaf_yuno3"
+#msgid "[Kafra Employee]"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "The Kafra Corporation";
+#msgctxt "Kafra Employee::kaf_yuno3"
+#msgid "The Kafra Corporation"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "is always working to provide";
+msgctxt "Kafra Employee::kaf_yuno3"
+msgid "is always working to provide"
+msgstr "selalu bekerja untuk menawarkan"
+#: npc/kafras/kafras.txt
+# mes "you with convenient services.";
+msgctxt "Kafra Employee::kaf_yuno3"
+msgid "you with convenient services."
+msgstr "layanan yang maksimal untuk Anda."
+#: npc/kafras/kafras.txt
+# mes "How may I be of assistance?";
+msgctxt "Kafra Employee::kaf_yuno3"
+msgid "How may I be of assistance?"
+msgstr "Adakah yang kamu butuhkan?"
+#: npc/kafras/kafras.txt
+# mes "[Kafra Employee]";
+#msgctxt "Kafra Employee::kaf_alberta"
+#msgid "[Kafra Employee]"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Welcome to the";
+msgctxt "Kafra Employee::kaf_alberta"
+msgid "Welcome to the"
+msgstr "Selamat datang di"
+#: npc/kafras/kafras.txt
+# mes "Kafra Corporation.";
+#msgctxt "Kafra Employee::kaf_alberta"
+#msgid "Kafra Corporation."
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Kafra's Employees are";
+msgctxt "Kafra Employee::kaf_alberta"
+msgid "Kafra's Employees are"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "always ready to serve you.";
+msgctxt "Kafra Employee::kaf_alberta"
+msgid "always ready to serve you."
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "How can I help you today?";
+msgctxt "Kafra Employee::kaf_alberta"
+msgid "How can I help you today?"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "[Kafra Employee]";
+#msgctxt "Kafra Employee::kaf_alberta2"
+#msgid "[Kafra Employee]"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Welcome to the";
+msgctxt "Kafra Employee::kaf_alberta2"
+msgid "Welcome to the"
+msgstr "Selamat datang di"
+#: npc/kafras/kafras.txt
+# mes "Kafra Corporation~";
+#msgctxt "Kafra Employee::kaf_alberta2"
+#msgid "Kafra Corporation~"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "The Kafra Services are";
+msgctxt "Kafra Employee::kaf_alberta2"
+msgid "The Kafra services are"
+msgstr "Layanan Kafra"
+#: npc/kafras/kafras.txt
+# mes "always here to support";
+msgctxt "Kafra Employee::kaf_alberta2"
+msgid "always here to support"
+msgstr "selalu sedia setiap saat."
+#: npc/kafras/kafras.txt
+# mes "you. So how can I be";
+msgctxt "Kafra Employee::kaf_alberta2"
+msgid "you. So how can I be"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "of service today?";
+msgctxt "Kafra Employee::kaf_alberta2"
+msgid "of service today?"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "[Kafra Employee]";
+#msgctxt "Kafra Employee::kaf_comodo"
+#msgid "[Kafra Employee]"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Welcome to the";
+msgctxt "Kafra Employee::kaf_comodo"
+msgid "Welcome to the"
+msgstr "Selamat datang di"
+#: npc/kafras/kafras.txt
+# mes "Kafra Corporation.";
+#msgctxt "Kafra Employee::kaf_comodo"
+#msgid "Kafra Corporation."
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "You know that our";
+msgctxt "Kafra Employee::kaf_comodo"
+msgid "You know that our"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "service is always";
+msgctxt "Kafra Employee::kaf_comodo"
+msgid "service is always"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "on your side~";
+msgctxt "Kafra Employee::kaf_comodo"
+msgid "on your side~"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "[Kafra Employee]";
+#msgctxt "Kafra Employee::kaf_cmd_fild07"
+#msgid "[Kafra Employee]"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Welcome to the";
+msgctxt "Kafra Employee::kaf_cmd_fild07"
+msgid "Welcome to the"
+msgstr "Selamat datang di"
+#: npc/kafras/kafras.txt
+# mes "Kafra Corporation.";
+#msgctxt "Kafra Employee::kaf_cmd_fild07"
+#msgid "Kafra Corporation."
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "You know that our";
+msgctxt "Kafra Employee::kaf_cmd_fild07"
+msgid "You know that our"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "service is always";
+msgctxt "Kafra Employee::kaf_cmd_fild07"
+msgid "service is always"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "on your side~";
+msgctxt "Kafra Employee::kaf_cmd_fild07"
+msgid "on your side~"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "[Kafra Employee]";
+msgctxt "::kaf_izlude"
+msgid "[Kafra Employee]"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Welcome to the";
+msgctxt "::kaf_izlude"
+msgid "Welcome to the"
+msgstr "Selamat datang di"
+#: npc/kafras/kafras.txt
+# mes "Kafra Corporation.";
+msgctxt "::kaf_izlude"
+msgid "Kafra Corporation."
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "The Kafra services";
+msgctxt "::kaf_izlude"
+msgid "The Kafra services"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "are always on your side.";
+msgctxt "::kaf_izlude"
+msgid "are always on your side."
+msgstr "akan selalu ada untukmu."
+#: npc/kafras/kafras.txt
+# mes "How may I assist you?";
+msgctxt "::kaf_izlude"
+msgid "How may I assist you?"
+msgstr "Adakah yang dapat saya bantu?"
+#: npc/kafras/kafras.txt
+# mes "[Kafra Employee]";
+#msgctxt "Kafra Employee::kaf_amatsu"
+#msgid "[Kafra Employee]"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Welcome to the";
+msgctxt "Kafra Employee::kaf_amatsu"
+msgid "Welcome to the"
+msgstr "Selamat datang di"
+#: npc/kafras/kafras.txt
+# mes "Kafra Corporation.";
+#msgctxt "Kafra Employee::kaf_amatsu"
+#msgid "Kafra Corporation."
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Kafra's Employees are";
+msgctxt "Kafra Employee::kaf_amatsu"
+msgid "Kafra's Employees are"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "always ready to serve you.";
+msgctxt "Kafra Employee::kaf_amatsu"
+msgid "always ready to serve you."
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "How can I help you today?";
+msgctxt "Kafra Employee::kaf_amatsu"
+msgid "How can I help you today?"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "[Kafra Employee]";
+#msgctxt "Kafra Employee::kaf_ayothaya"
+#msgid "[Kafra Employee]"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Welcome to the";
+msgctxt "Kafra Employee::kaf_ayothaya"
+msgid "Welcome to the"
+msgstr "Selamat datang di"
+#: npc/kafras/kafras.txt
+# mes "Kafra Corporation.";
+#msgctxt "Kafra Employee::kaf_ayothaya"
+#msgid "Kafra Corporation."
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Kafra's Employees are";
+msgctxt "Kafra Employee::kaf_ayothaya"
+msgid "Kafra's Employees are"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "always ready to serve you.";
+msgctxt "Kafra Employee::kaf_ayothaya"
+msgid "always ready to serve you."
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "How can I help you today?";
+msgctxt "Kafra Employee::kaf_ayothaya"
+msgid "How can I help you today?"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "[Kafra Employee]";
+msgctxt "Kafra Employee#ein3::kaf_einbech"
+msgid "[Kafra Employee]"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Welcome~!";
+msgctxt "Kafra Employee#ein3::kaf_einbech"
+msgid "Welcome~!"
+msgstr "Selamat datang~!"
+#: npc/kafras/kafras.txt
+# mes "The Kafra Services";
+msgctxt "Kafra Employee#ein3::kaf_einbech"
+msgid "The Kafra Services"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "are always on your side.";
+msgctxt "Kafra Employee#ein3::kaf_einbech"
+msgid "are always on your side."
+msgstr "akan selalu ada untukmu."
+#: npc/kafras/kafras.txt
+# mes "So how can I help you?";
+msgctxt "Kafra Employee#ein3::kaf_einbech"
+msgid "So how can I help you?"
+msgstr "Bagaimana saya dapat membantu Anda?"
+#: npc/kafras/kafras.txt
+# mes "[Kafra Employee]";
+msgctxt "Kafra Employee#ein2::kaf_einbroch"
+msgid "[Kafra Employee]"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Welcome to the";
+msgctxt "Kafra Employee#ein2::kaf_einbroch"
+msgid "Welcome to the"
+msgstr "Selamat datang di"
+#: npc/kafras/kafras.txt
+# mes "Kafra Corporation.";
+msgctxt "Kafra Employee#ein2::kaf_einbroch"
+msgid "Kafra Corporation."
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Kafra's Employees are";
+msgctxt "Kafra Employee#ein2::kaf_einbroch"
+msgid "Kafra's Employees are"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "always ready to serve you.";
+msgctxt "Kafra Employee#ein2::kaf_einbroch"
+msgid "always ready to serve you."
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "How can I help you today?";
+msgctxt "Kafra Employee#ein2::kaf_einbroch"
+msgid "How can I help you today?"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "[Kafra Employee]";
+msgctxt "Kafra Employee#ein1::kaf_einbroch2"
+msgid "[Kafra Employee]"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Welcome to the";
+msgctxt "Kafra Employee#ein1::kaf_einbroch2"
+msgid "Welcome to the"
+msgstr "Selamat datang di"
+#: npc/kafras/kafras.txt
+# mes "Kafra Corporation.";
+msgctxt "Kafra Employee#ein1::kaf_einbroch2"
+msgid "Kafra Corporation."
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "The Kafra services";
+msgctxt "Kafra Employee#ein1::kaf_einbroch2"
+msgid "The Kafra services"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "are always on your side.";
+msgctxt "Kafra Employee#ein1::kaf_einbroch2"
+msgid "are always on your side."
+msgstr "akan selalu ada untukmu."
+#: npc/kafras/kafras.txt
+# mes "How may I assist you?";
+msgctxt "Kafra Employee#ein1::kaf_einbroch2"
+msgid "How may I assist you?"
+msgstr "Adakah yang dapat saya bantu?"
+#: npc/kafras/kafras.txt
+# mes "[Kafra Employee]";
+#msgctxt "Kafra Employee::kaf_gonryun"
+#msgid "[Kafra Employee]"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Welcome to the";
+msgctxt "Kafra Employee::kaf_gonryun"
+msgid "Welcome to the"
+msgstr "Selamat datang di"
+#: npc/kafras/kafras.txt
+# mes "Kafra Corporation.";
+#msgctxt "Kafra Employee::kaf_gonryun"
+#msgid "Kafra Corporation."
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Kafra's Employees are";
+msgctxt "Kafra Employee::kaf_gonryun"
+msgid "Kafra's Employees are"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "always ready to serve you.";
+msgctxt "Kafra Employee::kaf_gonryun"
+msgid "always ready to serve you."
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "How can I help you today?";
+msgctxt "Kafra Employee::kaf_gonryun"
+msgid "How can I help you today?"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "[Kafra Employee]";
+#msgctxt "Kafra Employee::kaf_lighthalzen"
+#msgid "[Kafra Employee]"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Welcome to the";
+msgctxt "Kafra Employee::kaf_lighthalzen"
+msgid "Welcome to the"
+msgstr "Selamat datang di"
+#: npc/kafras/kafras.txt
+# mes "Kafra Corporation.";
+#msgctxt "Kafra Employee::kaf_lighthalzen"
+#msgid "Kafra Corporation."
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "The Kafra services";
+msgctxt "Kafra Employee::kaf_lighthalzen"
+msgid "The Kafra services"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "are always on your side.";
+msgctxt "Kafra Employee::kaf_lighthalzen"
+msgid "are always on your side."
+msgstr "akan selalu ada untukmu."
+#: npc/kafras/kafras.txt
+# mes "How may I assist you?";
+msgctxt "Kafra Employee::kaf_lighthalzen"
+msgid "How may I assist you?"
+msgstr "Adakah yang dapat saya bantu?"
+#: npc/kafras/kafras.txt
+# mes "[Kafra Employee]";
+#msgctxt "Kafra Employee::kaf_lighthalzen2"
+#msgid "[Kafra Employee]"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Welcome~!";
+msgctxt "Kafra Employee::kaf_lighthalzen2"
+msgid "Welcome~!"
+msgstr "Selamat datang~!"
+#: npc/kafras/kafras.txt
+# mes "The Kafra Services";
+msgctxt "Kafra Employee::kaf_lighthalzen2"
+msgid "The Kafra Services"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "are always on your side.";
+msgctxt "Kafra Employee::kaf_lighthalzen2"
+msgid "are always on your side."
+msgstr "akan selalu ada untukmu."
+#: npc/kafras/kafras.txt
+# mes "So how can I help you?";
+msgctxt "Kafra Employee::kaf_lighthalzen2"
+msgid "So how can I help you?"
+msgstr "Bagaimana saya dapat membantu Anda?"
+#: npc/kafras/kafras.txt
+# mes "[Kafra Employee]";
+#msgctxt "Kafra Employee::kaf_lhz_in02"
+#msgid "[Kafra Employee]"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Welcome~!";
+msgctxt "Kafra Employee::kaf_lhz_in02"
+msgid "Welcome~!"
+msgstr "Selamat datang~!"
+#: npc/kafras/kafras.txt
+# mes "The Kafra Services";
+msgctxt "Kafra Employee::kaf_lhz_in02"
+msgid "The Kafra Services"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "are always on your side.";
+msgctxt "Kafra Employee::kaf_lhz_in02"
+msgid "are always on your side."
+msgstr "akan selalu ada untukmu."
+#: npc/kafras/kafras.txt
+# mes "So how can I help you?";
+msgctxt "Kafra Employee::kaf_lhz_in02"
+msgid "So how can I help you?"
+msgstr "Bagaimana saya dapat membantu Anda?"
+#: npc/kafras/kafras.txt
+# mes "[Kafra Employee]";
+#msgctxt "Kafra Employee::kaf_louyang"
+#msgid "[Kafra Employee]"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Welcome to the";
+msgctxt "Kafra Employee::kaf_louyang"
+msgid "Welcome to the"
+msgstr "Selamat datang di"
+#: npc/kafras/kafras.txt
+# mes "Kafra Corporation.";
+#msgctxt "Kafra Employee::kaf_louyang"
+#msgid "Kafra Corporation."
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Kafra's Employees are";
+msgctxt "Kafra Employee::kaf_louyang"
+msgid "Kafra's Employees are"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "always ready to serve you.";
+msgctxt "Kafra Employee::kaf_louyang"
+msgid "always ready to serve you."
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "How can I help you today?";
+msgctxt "Kafra Employee::kaf_louyang"
+msgid "How can I help you today?"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "[Kafra Employee]";
+#msgctxt "Kafra Employee::kaf_umbala"
+#msgid "[Kafra Employee]"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Welcome to the";
+msgctxt "Kafra Employee::kaf_umbala"
+msgid "Welcome to the"
+msgstr "Selamat datang di"
+#: npc/kafras/kafras.txt
+# mes "Kafra Corporation.";
+#msgctxt "Kafra Employee::kaf_umbala"
+#msgid "Kafra Corporation."
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "You know that our";
+msgctxt "Kafra Employee::kaf_umbala"
+msgid "You know that our"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "service is always";
+msgctxt "Kafra Employee::kaf_umbala"
+msgid "service is always"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "on your side~";
+msgctxt "Kafra Employee::kaf_umbala"
+msgid "on your side~"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "[Kafra Employee]";
+#msgctxt "Kafra Employee::kaf_izlu2dun"
+#msgid "[Kafra Employee]"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Welcome to the";
+msgctxt "Kafra Employee::kaf_izlu2dun"
+msgid "Welcome to the"
+msgstr "Selamat datang di"
+#: npc/kafras/kafras.txt
+# mes "Kafra Corporation.";
+#msgctxt "Kafra Employee::kaf_izlu2dun"
+#msgid "Kafra Corporation."
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Kafra's Employees are";
+msgctxt "Kafra Employee::kaf_izlu2dun"
+msgid "Kafra's Employees are"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "always ready to serve you.";
+msgctxt "Kafra Employee::kaf_izlu2dun"
+msgid "always ready to serve you."
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "How can I help you today?";
+msgctxt "Kafra Employee::kaf_izlu2dun"
+msgid "How can I help you today?"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "[Kafra Employee]";
+msgctxt "Kafra Employee::prt_fild05"
+msgid "[Kafra Employee]"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Welcome!";
+msgctxt "Kafra Employee::prt_fild05"
+msgid "Welcome!"
+msgstr "Selamat datang!"
+#: npc/kafras/kafras.txt
+# mes "The Kafra Corporation";
+msgctxt "Kafra Employee::prt_fild05"
+msgid "The Kafra Corporation"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "will always support the";
+msgctxt "Kafra Employee::prt_fild05"
+msgid "will always support the"
+msgstr "akan selalu mendukung"
+#: npc/kafras/kafras.txt
+# mes "adventurers of Rune-Midgard";
+msgctxt "Kafra Employee::prt_fild05"
+msgid "adventurers of Rune-Midgard"
+msgstr "petarung dari Rune Midgard"
+#: npc/kafras/kafras.txt
+# mes "with its excellent service. So";
+msgctxt "Kafra Employee::prt_fild05"
+msgid "with its excellent service. So"
+msgstr "dengan layanan yang prima."
+#: npc/kafras/kafras.txt
+# mes "what can I do for you today?";
+msgctxt "Kafra Employee::prt_fild05"
+msgid "what can I do for you today?"
+msgstr "Adakah yang dapat saya lakukan hari ini?"
+#: npc/kafras/kafras.txt
+# mes "[Kafra Employee]";
+#msgctxt "Kafra Employee::kaf_mjolnir_02"
+#msgid "[Kafra Employee]"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Welcome to the";
+msgctxt "Kafra Employee::kaf_mjolnir_02"
+msgid "Welcome to the"
+msgstr "Selamat datang di"
+#: npc/kafras/kafras.txt
+# mes "Kafra Corporation.";
+#msgctxt "Kafra Employee::kaf_mjolnir_02"
+#msgid "Kafra Corporation."
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Kafra's Employees are";
+msgctxt "Kafra Employee::kaf_mjolnir_02"
+msgid "Kafra's Employees are"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "always ready to serve you.";
+msgctxt "Kafra Employee::kaf_mjolnir_02"
+msgid "always ready to serve you."
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "How can I help you today?";
+msgctxt "Kafra Employee::kaf_mjolnir_02"
+msgid "How can I help you today?"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "[Kafra Employee]";
+msgctxt "Kafra Employee::moc_ruins"
+msgid "[Kafra Employee]"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Welcome!";
+msgctxt "Kafra Employee::moc_ruins"
+msgid "Welcome!"
+msgstr "Selamat datang!"
+#: npc/kafras/kafras.txt
+# mes "The Kafra Corporation";
+msgctxt "Kafra Employee::moc_ruins"
+msgid "The Kafra Corporation"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "will always support the";
+msgctxt "Kafra Employee::moc_ruins"
+msgid "will always support the"
+msgstr "akan selalu mendukung"
+#: npc/kafras/kafras.txt
+# mes "adventurers of Rune-Midgard";
+msgctxt "Kafra Employee::moc_ruins"
+msgid "adventurers of Rune-Midgard"
+msgstr "petarung dari Rune Midgard"
+#: npc/kafras/kafras.txt
+# mes "with its excellent service. So";
+msgctxt "Kafra Employee::moc_ruins"
+msgid "with its excellent service. So"
+msgstr "dengan layanan yang prima."
+#: npc/kafras/kafras.txt
+# mes "what can I do for you today?";
+msgctxt "Kafra Employee::moc_ruins"
+msgid "what can I do for you today?"
+msgstr "Adakah yang dapat saya lakukan hari ini?"
+#: npc/kafras/kafras.txt
+# mes "[Kafra Employee]";
+#msgctxt "Kafra Employee::kaf_gef_fild10"
+#msgid "[Kafra Employee]"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Welcome to the";
+msgctxt "Kafra Employee::kaf_gef_fild10"
+msgid "Welcome to the"
+msgstr "Selamat datang di"
+#: npc/kafras/kafras.txt
+# mes "Kafra Corporation.";
+#msgctxt "Kafra Employee::kaf_gef_fild10"
+#msgid "Kafra Corporation."
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Kafra's Employees are";
+msgctxt "Kafra Employee::kaf_gef_fild10"
+msgid "Kafra's Employees are"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "always ready to serve you.";
+msgctxt "Kafra Employee::kaf_gef_fild10"
+msgid "always ready to serve you."
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "How can I help you today?";
+msgctxt "Kafra Employee::kaf_gef_fild10"
+msgid "How can I help you today?"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "[Kafra Employee]";
+#msgctxt "Kafra Employee::kaf_alb2trea"
+#msgid "[Kafra Employee]"
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "Welcome to the";
+msgctxt "Kafra Employee::kaf_alb2trea"
+msgid "Welcome to the"
+msgstr "Selamat datang di"
+#: npc/kafras/kafras.txt
+# mes "Kafra Corporation.";
+#msgctxt "Kafra Employee::kaf_alb2trea"
+#msgid "Kafra Corporation."
+#msgstr ""
+#: npc/kafras/kafras.txt
+# mes "The Kafra services";
+msgctxt "Kafra Employee::kaf_alb2trea"
+msgid "The Kafra services"
+msgstr ""
+#: npc/kafras/kafras.txt
+# mes "are always on your side.";
+msgctxt "Kafra Employee::kaf_alb2trea"
+msgid "are always on your side."
+msgstr "akan selalu ada untukmu."
+#: npc/kafras/kafras.txt
+# mes "How may I assist you?";
+msgctxt "Kafra Employee::kaf_alb2trea"
+msgid "How may I assist you?"
+msgstr "Adakah yang dapat saya bantu?"
+

@@ -1,0 +1,5 @@
+//================ rAthenaID MOTD File ===================
+//= Only Compatible with rAthena File Version:
+//= e0397a6e34a9709e830f25454560eb43f5e2983d
+//========================================================
+Selamat Datang di rAthena! Harap laporkan bug yang ditemukan.

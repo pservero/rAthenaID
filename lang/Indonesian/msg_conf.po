@@ -1,0 +1,4577 @@
+################## rAthenaID PO File ###################
+# Credits:
+# @Cydh
+# @nanakiwurtz
+###
+# Only Compatible with rAthena File Version:
+# 3d9c6e7763c3d257593ba159a18dffc435b5ff06
+########################################################
+
+#: map_msg.conf::[0]
+msgctxt "map_msg.conf"
+msgid "Warped."
+msgstr "Telah berpindah tempat."
+#: map_msg.conf::[1]
+msgctxt "map_msg.conf"
+msgid "Map not found."
+msgstr "Map tidak ditemukan"
+#: map_msg.conf::[2]
+msgctxt "map_msg.conf"
+msgid "Invalid coordinates, using random target cell."
+msgstr "Koordinat salah, menggunakan target cell random."
+#: map_msg.conf::[3]
+msgctxt "map_msg.conf"
+msgid "Character not found."
+msgstr "Karakter tidak ditemukan."
+#: map_msg.conf::[4]
+msgctxt "map_msg.conf"
+msgid "Jump to %s"
+msgstr "Lompat ke %s"
+#: map_msg.conf::[5]
+msgctxt "map_msg.conf"
+msgid "Jump to %d %d"
+msgstr "Lompat ke %d %d"
+#: map_msg.conf::[6]
+msgctxt "map_msg.conf"
+msgid "Your save point has been changed."
+msgstr "Save point telah diubah."
+#: map_msg.conf::[7]
+msgctxt "map_msg.conf"
+msgid "Warping to save point."
+msgstr "Dipindahkan ke save point."
+#: map_msg.conf::[8]
+msgctxt "map_msg.conf"
+msgid "Speed changed."
+msgstr "Speed telah diubah."
+#: map_msg.conf::[9]
+msgctxt "map_msg.conf"
+msgid "Options changed."
+msgstr "Option telah diubah."
+#: map_msg.conf::[10]
+msgctxt "map_msg.conf"
+msgid "Invisible: Off"
+msgstr "Invisible: Tidak Aktif"
+#: map_msg.conf::[11]
+msgctxt "map_msg.conf"
+msgid "Invisible: On"
+msgstr "Invisible: Aktif"
+#: map_msg.conf::[12]
+msgctxt "map_msg.conf"
+msgid "Your job has been changed."
+msgstr "Job telah diubah."
+#: map_msg.conf::[13]
+msgctxt "map_msg.conf"
+msgid "You've died."
+msgstr "Kamu telah meninggal."
+#: map_msg.conf::[14]
+msgctxt "map_msg.conf"
+msgid "Character killed."
+msgstr "Karakter telah dibunuh."
+#: map_msg.conf::[15]
+msgctxt "map_msg.conf"
+msgid "Player warped (message sent to player too)."
+msgstr "Pemain telah berpindah tempat (pesan telah dikirim ke pemain juga)."
+#: map_msg.conf::[16]
+msgctxt "map_msg.conf"
+msgid "You've been revived!"
+msgstr "Kamu telah dihidupkan!"
+#: map_msg.conf::[17]
+msgctxt "map_msg.conf"
+msgid "HP, SP recovered."
+msgstr "HP dan SP telah dipulihkan."
+#: map_msg.conf::[18]
+msgctxt "map_msg.conf"
+msgid "Item created."
+msgstr "Item telah dibuat."
+#: map_msg.conf::[19]
+msgctxt "map_msg.conf"
+msgid "Invalid item ID or name."
+msgstr "ID item atau nama salah."
+#: map_msg.conf::[20]
+msgctxt "map_msg.conf"
+msgid "All of your items have been removed."
+msgstr "Semua item yang Anda miliki telah dihilangkan."
+#: map_msg.conf::[21]
+msgctxt "map_msg.conf"
+msgid "Base level raised."
+msgstr "Base Level dinaikkan."
+#: map_msg.conf::[22]
+msgctxt "map_msg.conf"
+msgid "Base level lowered."
+msgstr "Base Level diturunkan."
+#: map_msg.conf::[23]
+msgctxt "map_msg.conf"
+msgid "Job level can't go any higher."
+msgstr "Job Level tidak dapat lebih tinggi."
+#: map_msg.conf::[24]
+msgctxt "map_msg.conf"
+msgid "Job level raised."
+msgstr "Job Level dinaikkan."
+#: map_msg.conf::[25]
+msgctxt "map_msg.conf"
+msgid "Job level lowered."
+msgstr "Job Level diturunkan."
+#: map_msg.conf::[26]
+msgctxt "map_msg.conf"
+msgid "Help commands:"
+msgstr "Bantuan command:"
+#: map_msg.conf::[27]
+msgctxt "map_msg.conf"
+msgid "Commands help is not available."
+msgstr "Bantuan command tidak tersedia."
+#: map_msg.conf::[28]
+msgctxt "map_msg.conf"
+msgid "No player found."
+msgstr "Pemain tidak ditemukan."
+#: map_msg.conf::[29]
+msgctxt "map_msg.conf"
+msgid "1 player found."
+msgstr "1 pemain ditemukan."
+#: map_msg.conf::[30]
+msgctxt "map_msg.conf"
+msgid "%d players found."
+msgstr "%d pemain ditemukan."
+#: map_msg.conf::[31]
+msgctxt "map_msg.conf"
+msgid "PvP: Off."
+msgstr "PvP: Tidak Aktif."
+#: map_msg.conf::[32]
+msgctxt "map_msg.conf"
+msgid "PvP: On."
+msgstr "PvP: Aktif."
+#: map_msg.conf::[33]
+msgctxt "map_msg.conf"
+msgid "GvG: Off."
+msgstr "GvG: Tidak Aktif."
+#: map_msg.conf::[34]
+msgctxt "map_msg.conf"
+msgid "GvG: On."
+msgstr "GvG: Aktif."
+#: map_msg.conf::[35]
+msgctxt "map_msg.conf"
+msgid "You can't use this command with this class."
+msgstr "Kamu tidak bisa menggunakan perintah ini menggunakan class ini."
+#: map_msg.conf::[36]
+msgctxt "map_msg.conf"
+msgid "Appearance changed."
+msgstr "Penampilan telah berubah."
+#: map_msg.conf::[37]
+msgctxt "map_msg.conf"
+msgid "An invalid number was specified."
+msgstr "Angka yang ditentukan salah."
+#: map_msg.conf::[38]
+msgctxt "map_msg.conf"
+msgid "Invalid location number, or name."
+msgstr "Angka atau nama lokasi salah."
+#: map_msg.conf::[39]
+msgctxt "map_msg.conf"
+msgid "All monsters summoned!"
+msgstr "Semua monster telah dipanggil!"
+#: map_msg.conf::[40]
+msgctxt "map_msg.conf"
+msgid "Invalid monster ID or name."
+msgstr "Nama atau ID monster salah."
+#: map_msg.conf::[41]
+msgctxt "map_msg.conf"
+msgid "Unable to decrease the number/value."
+msgstr "Tidak dapat mengurangi angka/nilai."
+#: map_msg.conf::[42]
+msgctxt "map_msg.conf"
+msgid "Stat changed."
+msgstr "Stat berubah."
+#: map_msg.conf::[43]
+msgctxt "map_msg.conf"
+msgid "You're not in a guild."
+msgstr "Kamu tidak berada dalam guild."
+#: map_msg.conf::[44]
+msgctxt "map_msg.conf"
+msgid "You're not the master of your guild."
+msgstr "Kamu bukan pemimpin dari guild."
+#: map_msg.conf::[45]
+msgctxt "map_msg.conf"
+msgid "Guild level change failed."
+msgstr "Gagal mengubah level guild."
+#: map_msg.conf::[46]
+msgctxt "map_msg.conf"
+msgid "%s recalled!"
+msgstr "%s telah dipanggil!"
+#: map_msg.conf::[47]
+msgctxt "map_msg.conf"
+msgid "Base level can't go any higher."
+msgstr "Level Base tidak dapat lebih tinggi."
+#: map_msg.conf::[48]
+msgctxt "map_msg.conf"
+msgid "Character's job changed."
+msgstr "Job karakter telah diubah."
+#: map_msg.conf::[49]
+msgctxt "map_msg.conf"
+msgid "Invalid job ID."
+msgstr "ID job salah."
+#: map_msg.conf::[50]
+msgctxt "map_msg.conf"
+msgid "You already have some GM powers."
+msgstr "Kamu sudah memiliki beberapa kekuatan GM."
+#: map_msg.conf::[51]
+msgctxt "map_msg.conf"
+msgid "Character revived."
+msgstr "Karakter dihidupkan."
+#: map_msg.conf::[52]
+msgctxt "map_msg.conf"
+msgid "This option cannot be used in PK Mode."
+msgstr "Opsi ini tidak dapat digunakan dalam mode PK."
+#: map_msg.conf::[53]
+msgctxt "map_msg.conf"
+msgid "'%s' stats:"
+msgstr "'%s' stats:"
+#: map_msg.conf::[54]
+msgctxt "map_msg.conf"
+msgid "No player found in map '%s'."
+msgstr "Tidak ada pemain yang ditemukan di map '%s'."
+#: map_msg.conf::[55]
+msgctxt "map_msg.conf"
+msgid "1 player found in map '%s'."
+msgstr "1 pemain ditemukan di map '%s'."
+#: map_msg.conf::[56]
+msgctxt "map_msg.conf"
+msgid "%d players found in map '%s'."
+msgstr "%d pemain ditemukan di map '%s'."
+#: map_msg.conf::[57]
+msgctxt "map_msg.conf"
+msgid "Character's save point changed."
+msgstr "Save point karakter telah diubah."
+#: map_msg.conf::[58]
+msgctxt "map_msg.conf"
+msgid "Character's options changed."
+msgstr "Option pada karakter telah diubah."
+#: map_msg.conf::[59]
+msgctxt "map_msg.conf"
+msgid "Night Mode Activated."
+msgstr "Mode malam telah aktif."
+#: map_msg.conf::[60]
+msgctxt "map_msg.conf"
+msgid "Day Mode Activated."
+msgstr "Mode siang telah aktif."
+#: map_msg.conf::[61]
+msgctxt "map_msg.conf"
+msgid "The holy messenger has given judgement."
+msgstr "Pembawa pesan suci telah memberikan hukuman."
+#: map_msg.conf::[62]
+msgctxt "map_msg.conf"
+msgid "Judgement has passed."
+msgstr "Hukuman telah dilewati."
+#: map_msg.conf::[63]
+msgctxt "map_msg.conf"
+msgid "Mercy has been shown."
+msgstr "Kemurahan hati telah ditunjukkan."
+#: map_msg.conf::[64]
+msgctxt "map_msg.conf"
+msgid "Mercy has been granted."
+msgstr "Kemurahan hati telah diterima."
+#: map_msg.conf::[65]
+msgctxt "map_msg.conf"
+msgid "Character's base level raised."
+msgstr "Base Level karakter ditingkatkan."
+#: map_msg.conf::[66]
+msgctxt "map_msg.conf"
+msgid "Character's base level lowered."
+msgstr "Base Level karakter diturunkan."
+#: map_msg.conf::[67]
+msgctxt "map_msg.conf"
+msgid "Character's job level can't go any higher."
+msgstr "Job Level karakter tidak dapat lebih tinggi."
+#: map_msg.conf::[68]
+msgctxt "map_msg.conf"
+msgid "Character's job level raised."
+msgstr "Job Level karakter ditingkatkan."
+#: map_msg.conf::[69]
+msgctxt "map_msg.conf"
+msgid "Character's job level lowered."
+msgstr "Job Level karakter diturunkan."
+#: map_msg.conf::[70]
+msgctxt "map_msg.conf"
+msgid "You have learned the skill."
+msgstr "Kamu telah mempelajari skill ini."
+#: map_msg.conf::[71]
+msgctxt "map_msg.conf"
+msgid "You have forgotten the skill."
+msgstr "Kamu telah melupakan skill ini."
+#: map_msg.conf::[72]
+msgctxt "map_msg.conf"
+msgid "War of Emperium has been initiated."
+msgstr "War of Emperium telah dimulai."
+#: map_msg.conf::[73]
+msgctxt "map_msg.conf"
+msgid "War of Emperium is currently in progress."
+msgstr "War of Emperium saat ini sedang berlangsung."
+#: map_msg.conf::[74]
+msgctxt "map_msg.conf"
+msgid "War of Emperium has been ended."
+msgstr "War of Emperium telah diakhiri."
+#: map_msg.conf::[75]
+msgctxt "map_msg.conf"
+msgid "War of Emperium is currently not in progress."
+msgstr "War of Emperium saat ini tidak sedang berlangsung."
+#: map_msg.conf::[76]
+msgctxt "map_msg.conf"
+msgid "All skills have been added to your skill tree."
+msgstr "Semua skill telah ditambahkan ke skill tree."
+#: map_msg.conf::[77]
+msgctxt "map_msg.conf"
+msgid "The reference result of '%s' (name: id):"
+msgstr "Hasil referensi dari '%s' (nama: id):"
+#: map_msg.conf::[78]
+msgctxt "map_msg.conf"
+msgid "- %s: %d"
+msgstr "- %s: %d"
+#: map_msg.conf::[79]
+msgctxt "map_msg.conf"
+msgid "It is %d affair above."
+msgstr "Terdapat %d hal di atas."
+#: map_msg.conf::[80]
+msgctxt "map_msg.conf"
+msgid "Give the display name or monster name/id please."
+msgstr "Harap berikan nama tampilan atau nama/id monster."
+#: map_msg.conf::[81]
+msgctxt "map_msg.conf"
+msgid "Your GM level doesn't authorize you to perform this action on the specified player."
+msgstr "Level GM kamu tidak diizinkan untuk untuk melakukan aksi ini pada pemain tertentu."
+#: map_msg.conf::[82]
+msgctxt "map_msg.conf"
+msgid "Please provide a name or number from the list provided:"
+msgstr "Harap berikan nama atau nomor dari daftar yang disediakan:"
+#: map_msg.conf::[83]
+msgctxt "map_msg.conf"
+msgid "Monster 'Emperium' cannot be spawned."
+msgstr "Monster 'Emperium' tidak dapat dipanggil."
+#: map_msg.conf::[84]
+msgctxt "map_msg.conf"
+msgid "All stats changed!"
+msgstr "Semua stats telah diubah!"
+#: map_msg.conf::[85]
+msgctxt "map_msg.conf"
+msgid "Invalid time for %s command (time=%d)."
+msgstr "Waktu salah untuk perintah %s (waktu = %d)."
+#: map_msg.conf::[86]
+msgctxt "map_msg.conf"
+msgid "Sorry, player names have to be at least 4 characters."
+msgstr "Maaf, nama pemain harus setidaknya terdiri dari 4 karakter."
+#: map_msg.conf::[87]
+msgctxt "map_msg.conf"
+msgid "Sorry, player names can be no longer than 23 characters."
+msgstr "Maaf, nama pemain tidak dapat lebih banyak dari 23 karakter."
+#: map_msg.conf::[88]
+msgctxt "map_msg.conf"
+msgid "Sending request to %s server..."
+msgstr "Mengirim permintaan ke %s server."
+#: map_msg.conf::[89]
+msgctxt "map_msg.conf"
+msgid "Night mode is already enabled."
+msgstr "Mode malam sudah aktif."
+#: map_msg.conf::[90]
+msgctxt "map_msg.conf"
+msgid "Day mode is already enabled."
+msgstr "Mode siang sudah aktif."
+#: map_msg.conf::[91]
+msgctxt "map_msg.conf"
+msgid "Character's base level can't go any higher."
+msgstr "Base Level karakter tidak dapat lebih tinggi."
+#: map_msg.conf::[92]
+msgctxt "map_msg.conf"
+msgid "All characters recalled!"
+msgstr "Semua karakter dipanggil!"
+#: map_msg.conf::[93]
+msgctxt "map_msg.conf"
+msgid "All online characters of the %s guild have been recalled to your position."
+msgstr "Semua karakter yang online di guild %s telah dipanggil ke posisimu."
+#: map_msg.conf::[94]
+msgctxt "map_msg.conf"
+msgid "Incorrect name/ID, or no one from the specified guild is online."
+msgstr "Nama/ID salah, atau tidak ada seorang pun dari guild yang ditentukan sedang online."
+#: map_msg.conf::[95]
+msgctxt "map_msg.conf"
+msgid "All online characters of the %s party have been recalled to your position."
+msgstr "Semua karakter yang online di party %s telah dipanggil ke posisimu."
+#: map_msg.conf::[96]
+msgctxt "map_msg.conf"
+msgid "Incorrect name/ID, or no one from the specified party is online."
+msgstr "Nama/ID salah, atau tidak seorang pun dari guild yang ditentukan sedang online."
+#: map_msg.conf::[97]
+msgctxt "map_msg.conf"
+msgid "Item database has been reloaded."
+msgstr "Database item telah dimuat ulang."
+#: map_msg.conf::[98]
+msgctxt "map_msg.conf"
+msgid "Monster database has been reloaded."
+msgstr "Database monster telah dimuat ulang."
+#: map_msg.conf::[99]
+msgctxt "map_msg.conf"
+msgid "Skill database has been reloaded."
+msgstr "Database skill telah dimuat ulang."
+#: map_msg.conf::[100]
+msgctxt "map_msg.conf"
+msgid "Scripts have been reloaded."
+msgstr "Script telah dimuat ulang."
+#: map_msg.conf::[101]
+msgctxt "map_msg.conf"
+msgid "Login-server asked to reload GM accounts and their level."
+msgstr "Login-server telah meminta untuk memuat ulang akun GM dan level mereka."
+#: map_msg.conf::[102]
+msgctxt "map_msg.conf"
+msgid "You have mounted a Peco Peco."
+msgstr "Kamu tidak memiliki Peco Peco."
+#: map_msg.conf::[103]
+msgctxt "map_msg.conf"
+msgid "No longer spying on the %s guild."
+msgstr "Tidak lagi memata-matai guild %s."
+#: map_msg.conf::[104]
+msgctxt "map_msg.conf"
+msgid "Spying on the %s guild."
+msgstr "Memata-matai guild %s."
+#: map_msg.conf::[105]
+msgctxt "map_msg.conf"
+msgid "No longer spying on the %s party."
+msgstr "Tidak lagi memata-matai party %s."
+#: map_msg.conf::[106]
+msgctxt "map_msg.conf"
+msgid "Spying on the %s party."
+msgstr "Memata-matai party %s."
+#: map_msg.conf::[107]
+msgctxt "map_msg.conf"
+msgid "All items have been repaired."
+msgstr "Semua item telah diperbaiki."
+#: map_msg.conf::[108]
+msgctxt "map_msg.conf"
+msgid "No item need to be repaired."
+msgstr "Tidak ada item yang perlu diperbaiki."
+#: map_msg.conf::[109]
+msgctxt "map_msg.conf"
+msgid "Player has been nuked!"
+msgstr "Equip pemain telah dilepas semuanya!"
+#: map_msg.conf::[110]
+msgctxt "map_msg.conf"
+msgid "NPC Enabled."
+msgstr "NPC Diaktifkan."
+#: map_msg.conf::[111]
+msgctxt "map_msg.conf"
+msgid "This NPC doesn't exist."
+msgstr "NPC ini tidak tersedia."
+#: map_msg.conf::[112]
+msgctxt "map_msg.conf"
+msgid "NPC Disabled."
+msgstr "NPC Dinonaktifkan."
+#: map_msg.conf::[113]
+msgctxt "map_msg.conf"
+msgid "%d item(s) removed by a GM."
+msgstr "%d item dibersihkan oleh GM."
+#: map_msg.conf::[114]
+msgctxt "map_msg.conf"
+msgid "%d item(s) removed from the player."
+msgstr "%d item dibersihkan dari pemain."
+#: map_msg.conf::[115]
+msgctxt "map_msg.conf"
+msgid "%d item(s) removed. Player had only %d on %d items."
+msgstr "%d item dibersihkan. Pemain hanya mempunyai %d item dari %d."
+#: map_msg.conf::[116]
+msgctxt "map_msg.conf"
+msgid "Character does not have the specified item."
+msgstr "Karakter tidak memiliki item yang ditentukan."
+#: map_msg.conf::[117]
+msgctxt "map_msg.conf"
+msgid "You have been placed in jail by a GM."
+msgstr "Kamu telah dimasukkan ke penjara oleh GM."
+#: map_msg.conf::[118]
+msgctxt "map_msg.conf"
+msgid "Player warped to jail."
+msgstr "Pemain dipindahkan ke penjara."
+#: map_msg.conf::[119]
+msgctxt "map_msg.conf"
+msgid "This player is not in jail."
+msgstr "Pemain ini tidak berada di penjara."
+#: map_msg.conf::[120]
+msgctxt "map_msg.conf"
+msgid "A GM has discharged you from jail."
+msgstr "GM telah membebaskanmu dari penjara."
+#: map_msg.conf::[121]
+msgctxt "map_msg.conf"
+msgid "Player unjailed."
+msgstr "Pemain dibebaskan."
+#: map_msg.conf::[122]
+msgctxt "map_msg.conf"
+msgid "Disguise applied."
+msgstr "Disguise telah diterapkan."
+#: map_msg.conf::[123]
+msgctxt "map_msg.conf"
+msgid "Invalid Monster/NPC name/ID specified."
+msgstr "Nama/ID Monster/NPC yang ditentukan salah."
+#: map_msg.conf::[124]
+msgctxt "map_msg.conf"
+msgid "Undisguise applied."
+msgstr "Undisguise telah diterapkan."
+#: map_msg.conf::[125]
+msgctxt "map_msg.conf"
+msgid "You're not disguised."
+msgstr "Kamu tidak sedang disguise."
+#: map_msg.conf::[126]
+msgctxt "map_msg.conf"
+msgid "Cannot clone a player of higher GM level than yourself."
+msgstr "Tidak dapat mengklon pemain dengan Level GM yang lebih tinggi darimu."
+#: map_msg.conf::[127]
+msgctxt "map_msg.conf"
+msgid "You've reached your slave clones limit."
+msgstr "Jumlah klon yang kamu miliki telah mencapai batas."
+#: map_msg.conf::[128]
+msgctxt "map_msg.conf"
+msgid "Evil clone spawned."
+msgstr "Klon jahat telah diciptakan."
+#: map_msg.conf::[129]
+msgctxt "map_msg.conf"
+msgid "Unable to spawn evil clone."
+msgstr "Tidak dapat menciptakan klon jahat."
+#: map_msg.conf::[130]
+msgctxt "map_msg.conf"
+msgid "Clone spawned."
+msgstr "Klon diciptakan."
+#: map_msg.conf::[131]
+msgctxt "map_msg.conf"
+msgid "Unable to spawn clone."
+msgstr "TIdak dapat menciptakan klon."
+#: map_msg.conf::[132]
+msgctxt "map_msg.conf"
+msgid "Slave clone spawned."
+msgstr "Klon pembantu diciptakan."
+#: map_msg.conf::[133]
+msgctxt "map_msg.conf"
+msgid "Unable to spawn slave clone."
+msgstr "Tidak dapat menciptakan klon pembantu."
+#: map_msg.conf::[140]
+msgctxt "map_msg.conf"
+msgid "Character's disguise applied."
+msgstr "Disguise karakter diterapkan."
+#: map_msg.conf::[141]
+msgctxt "map_msg.conf"
+msgid "Character's undisguise applied."
+msgstr "Undisguise karakter diterapkan."
+#: map_msg.conf::[142]
+msgctxt "map_msg.conf"
+msgid "Character is not disguised."
+msgstr "Karakter tidak sedang disguise."
+#: map_msg.conf::[143]
+msgctxt "map_msg.conf"
+msgid "Commands are disabled on this map."
+msgstr "Semua perintah tidak dapat digunakan di map ini."
+#: map_msg.conf::[144]
+msgctxt "map_msg.conf"
+msgid "Invalid e-mail. If you have default e-mail, type a@a.com."
+msgstr "E-mail salah. Jika kamu memiliki e-mail default, ketikkan a@a.com."
+#: map_msg.conf::[145]
+msgctxt "map_msg.conf"
+msgid "Invalid new e-mail. Please enter a real e-mail."
+msgstr "E-mail baru salah. Harap masukkan e-mail yang sebenarnya."
+#: map_msg.conf::[146]
+msgctxt "map_msg.conf"
+msgid "New e-mail must be a real e-mail."
+msgstr "E-mail baru haruslah e-mail yang asli."
+#: map_msg.conf::[147]
+msgctxt "map_msg.conf"
+msgid "New e-mail must be different from the current e-mail."
+msgstr "E-mail baru haruslah berbeda dengan e-mail saat ini."
+#: map_msg.conf::[148]
+msgctxt "map_msg.conf"
+msgid "Information sent to login-server via char-server."
+msgstr "Informasi telah dikirimkan ke login-server melalui char-server."
+#: map_msg.conf::[149]
+msgctxt "map_msg.conf"
+msgid "Impossible to increase the number/value."
+msgstr "Tidak mungkin untuk meningkatkan nilai."
+#: map_msg.conf::[150]
+msgctxt "map_msg.conf"
+msgid "No GM found."
+msgstr "Tidak ada GM yang online."
+#: map_msg.conf::[151]
+msgctxt "map_msg.conf"
+msgid "1 GM found."
+msgstr "1 GM sedang online."
+#: map_msg.conf::[152]
+msgctxt "map_msg.conf"
+msgid "%d GMs found."
+msgstr "Ada %d GM sedang online."
+#: map_msg.conf::[153]
+msgctxt "map_msg.conf"
+msgid "%s is Unknown Command."
+msgstr "%s adalah perintah yang tidak diketahui."
+#: map_msg.conf::[154]
+msgctxt "map_msg.conf"
+msgid "%s failed."
+msgstr "%s gagal."
+#: map_msg.conf::[155]
+msgctxt "map_msg.conf"
+msgid "You are unable to change your job."
+msgstr "Kamu tidak bisa berganti job."
+#: map_msg.conf::[156]
+msgctxt "map_msg.conf"
+msgid "HP or/and SP modified."
+msgstr "HP dan/atau SP sudah diubah."
+#: map_msg.conf::[157]
+msgctxt "map_msg.conf"
+msgid "HP and SP have already been recovered."
+msgstr "HP dan SP sudah dipulihkan."
+#: map_msg.conf::[158]
+msgctxt "map_msg.conf"
+msgid "Base level can't go any lower."
+msgstr "Base Level sudah paling rendah."
+#: map_msg.conf::[159]
+msgctxt "map_msg.conf"
+msgid "Job level can't go any lower."
+msgstr "Job Level sudah paling rendah."
+#: map_msg.conf::[160]
+msgctxt "map_msg.conf"
+msgid "PvP is already Off."
+msgstr "PvP sudah Off."
+#: map_msg.conf::[161]
+msgctxt "map_msg.conf"
+msgid "PvP is already On."
+msgstr "PvP sudah On."
+#: map_msg.conf::[162]
+msgctxt "map_msg.conf"
+msgid "GvG is already Off."
+msgstr "GvG sudah Off."
+#: map_msg.conf::[163]
+msgctxt "map_msg.conf"
+msgid "GvG is already On."
+msgstr "GvG sudah On."
+#: map_msg.conf::[164]
+msgctxt "map_msg.conf"
+msgid "Your memo point #%d doesn't exist."
+msgstr "Lokasi memo  #%d tidak ditemukan."
+#: map_msg.conf::[165]
+msgctxt "map_msg.conf"
+msgid "All monsters killed!"
+msgstr "Semua monster sudah dibunuh!"
+#: map_msg.conf::[166]
+msgctxt "map_msg.conf"
+msgid "No item has been refined."
+msgstr "Tidak ada item yang ditempa."
+#: map_msg.conf::[167]
+msgctxt "map_msg.conf"
+msgid "1 item has been refined."
+msgstr "1 item berhasil ditempa."
+#: map_msg.conf::[168]
+msgctxt "map_msg.conf"
+msgid "%d items have been refined."
+msgstr "%d item berhasil ditempa."
+#: map_msg.conf::[169]
+msgctxt "map_msg.conf"
+msgid "The item (%hu: '%s') is not equipable."
+msgstr "Item (%hu: '%s') tidak bisa dipakai."
+#: map_msg.conf::[170]
+msgctxt "map_msg.conf"
+msgid "The item is not equipable."
+msgstr "Item ini tidak bisa dipakai."
+#: map_msg.conf::[171]
+msgctxt "map_msg.conf"
+msgid "%d - void"
+msgstr "%d - sudah habis"
+#: map_msg.conf::[174]
+msgctxt "map_msg.conf"
+msgid "Number of status points changed."
+msgstr "Nilai Status Point sudah diubah."
+#: map_msg.conf::[175]
+msgctxt "map_msg.conf"
+msgid "Number of skill points changed."
+msgstr "Nilai Skill Point sudah diubah."
+#: map_msg.conf::[176]
+msgctxt "map_msg.conf"
+msgid "Current amount of zeny changed."
+msgstr "Nilai zeny sudah diubah."
+#: map_msg.conf::[177]
+msgctxt "map_msg.conf"
+msgid "You cannot decrease that stat anymore."
+msgstr "Kamu tidak bisa mengurangi stat ini lagi."
+#: map_msg.conf::[178]
+msgctxt "map_msg.conf"
+msgid "You cannot increase that stat anymore."
+msgstr "Kamu tidak bisa menambah stat ini lagi."
+#: map_msg.conf::[179]
+msgctxt "map_msg.conf"
+msgid "Guild level changed."
+msgstr "Level Guild sudah diubah."
+#: map_msg.conf::[180]
+msgctxt "map_msg.conf"
+msgid "The monster/egg name/ID doesn't exist."
+msgstr "Monster/Nama telur/ID tidak ditemukan."
+#: map_msg.conf::[181]
+msgctxt "map_msg.conf"
+msgid "You already have a pet."
+msgstr "Kamu sudah memiliki peliharaan."
+#: map_msg.conf::[182]
+msgctxt "map_msg.conf"
+msgid "Pet intimacy changed."
+msgstr "Tingkat keakraban peliharaan sudah diubah."
+#: map_msg.conf::[183]
+msgctxt "map_msg.conf"
+msgid "Pet intimacy is already at maximum."
+msgstr "Tingkat keakraban peliharaan sudah maksimal."
+#: map_msg.conf::[184]
+msgctxt "map_msg.conf"
+msgid "Sorry, but you have no pet."
+msgstr "Maaf, kamu belum mempunyai peliharaan."
+#: map_msg.conf::[185]
+msgctxt "map_msg.conf"
+msgid "Pet hunger changed."
+msgstr "Tingkat kelaparan peliharaan sudah diubah."
+#: map_msg.conf::[186]
+msgctxt "map_msg.conf"
+msgid "Pet hunger is already at maximum."
+msgstr "Tingkat kelaparan peliharaan sudah maksimal."
+#: map_msg.conf::[187]
+msgctxt "map_msg.conf"
+msgid "You can now rename your pet."
+msgstr "Kamu bisa mengubah nama peliharaanmu."
+#: map_msg.conf::[188]
+msgctxt "map_msg.conf"
+msgid "You can already rename your pet."
+msgstr "Kamu sudah mengubah nama peliharaanmu."
+#: map_msg.conf::[189]
+msgctxt "map_msg.conf"
+msgid "This player can now rename his/her pet."
+msgstr "Sekarang pemain ini bisa mengubah nama peliharaannya."
+#: map_msg.conf::[190]
+msgctxt "map_msg.conf"
+msgid "This player can already rename his/her pet."
+msgstr "Pemain ini sudah pernah mengubah nama peliharaannya."
+#: map_msg.conf::[191]
+msgctxt "map_msg.conf"
+msgid "Sorry, but this player has no pet."
+msgstr "Maaf, pemain ini tidak mempunyai peliharaan."
+#: map_msg.conf::[192]
+msgctxt "map_msg.conf"
+msgid "Unable to change the specified character's job."
+msgstr "Job karakter tersebut tidak bisa diubah."
+#: map_msg.conf::[193]
+msgctxt "map_msg.conf"
+msgid "Character's base level can't go any lower."
+msgstr "Base Level karakter sudah paling rendah."
+#: map_msg.conf::[194]
+msgctxt "map_msg.conf"
+msgid "Character's job level can't go any lower."
+msgstr "Job Level karakter sudah paling rendah."
+#: map_msg.conf::[195]
+msgctxt "map_msg.conf"
+msgid "All players have been kicked!"
+msgstr "Semua pemain sudah dikeluarkan!"
+#: map_msg.conf::[196]
+msgctxt "map_msg.conf"
+msgid "You already have this quest skill."
+msgstr "Kamu sudah memiliki Quest skill ini."
+#: map_msg.conf::[197]
+msgctxt "map_msg.conf"
+msgid "This skill number doesn't exist or isn't a quest skill."
+msgstr "Skill tersebut tidak ditemukan atau bukan Quest skill."
+#: map_msg.conf::[198]
+msgctxt "map_msg.conf"
+msgid "This skill number doesn't exist."
+msgstr "Skill tersebut tidak ditemukan."
+#: map_msg.conf::[199]
+msgctxt "map_msg.conf"
+msgid "This player has learned the skill."
+msgstr "Pemain ini sudah memiliki skill tersebut."
+#: map_msg.conf::[200]
+msgctxt "map_msg.conf"
+msgid "This player already has this quest skill."
+msgstr "Pemain ini sudah memiliki skill quest tersebut."
+#: map_msg.conf::[201]
+msgctxt "map_msg.conf"
+msgid "You don't have this quest skill."
+msgstr "Kamu tidak memiliki skill quest ini."
+#: map_msg.conf::[202]
+msgctxt "map_msg.conf"
+msgid "This player has forgotten the skill."
+msgstr "Pemain ini sudah menghapus skill."
+#: map_msg.conf::[203]
+msgctxt "map_msg.conf"
+msgid "This player doesn't have this quest skill."
+msgstr "Pemain ini tidak mempunyai skill quest."
+#: map_msg.conf::[204]
+msgctxt "map_msg.conf"
+msgid "You can't open a shop on this cell."
+msgstr "Kamu tidak membuka toko di sini."
+#: map_msg.conf::[205]
+msgctxt "map_msg.conf"
+msgid "Maybe you meant:"
+msgstr "Mungkin maksud Anda adalah:"
+#: map_msg.conf::[206]
+msgctxt "map_msg.conf"
+msgid "'%s' skill points reset."
+msgstr "'%s' skill poin sudah direset."
+#: map_msg.conf::[207]
+msgctxt "map_msg.conf"
+msgid "'%s' stats points reset."
+msgstr "'%s' status poin sudah direset."
+#: map_msg.conf::[208]
+msgctxt "map_msg.conf"
+msgid "'%s' skill and stat points have been reset."
+msgstr "'%s' skill dan status poin sudah direset."
+#: map_msg.conf::[209]
+msgctxt "map_msg.conf"
+msgid "Character's skill points changed."
+msgstr "Skill poin karakter sudah diubah."
+#: map_msg.conf::[210]
+msgctxt "map_msg.conf"
+msgid "Character's status points changed."
+msgstr "Status poin karakter sudah diubah."
+#: map_msg.conf::[211]
+msgctxt "map_msg.conf"
+msgid "Character's current zeny changed."
+msgstr "Jumlah zeny karakter sudah diubah."
+#: map_msg.conf::[212]
+msgctxt "map_msg.conf"
+msgid "Cannot mount while in disguise."
+msgstr "Tidak bisa menggunakan tunggangan saat berubah wujud."
+#: map_msg.conf::[213]
+msgctxt "map_msg.conf"
+msgid "You can not mount a Peco Peco with your current job."
+msgstr "Job ini tidak bisa menggunakan Peco Peco."
+#: map_msg.conf::[214]
+msgctxt "map_msg.conf"
+msgid "You have released your Peco Peco."
+msgstr "Kamu sudah melepaskan Peco Peco."
+#: map_msg.conf::[215]
+msgctxt "map_msg.conf"
+msgid "This player cannot mount a Peco Peco while in disguise."
+msgstr "Pemain ini tidak bisa menggunakan Peco Peco karena sedang berubah wujud."
+#: map_msg.conf::[216]
+msgctxt "map_msg.conf"
+msgid "This player has mounted a Peco Peco."
+msgstr "Pemain ini sudah menggunakan Peco Peco."
+#: map_msg.conf::[217]
+msgctxt "map_msg.conf"
+msgid "This player cannot mount a Peco Peco with his/her current job."
+msgstr "Pemain ini tidak bisa menggunakan Peco Peco karena jobnya tidak mendukung."
+#: map_msg.conf::[218]
+msgctxt "map_msg.conf"
+msgid "This player's Peco Peco has been released."
+msgstr "Peco Peco dari pemain ini sudah dilepaskan."
+#: map_msg.conf::[219]
+msgctxt "map_msg.conf"
+msgid "%d day"
+msgstr "%d hari"
+#: map_msg.conf::[220]
+msgctxt "map_msg.conf"
+msgid "%d days"
+msgstr "%d hari"
+#: map_msg.conf::[221]
+msgctxt "map_msg.conf"
+msgid "%s %d hour"
+msgstr "%s %d jam"
+#: map_msg.conf::[222]
+msgctxt "map_msg.conf"
+msgid "%s %d hours"
+msgstr "%s %d jam"
+#: map_msg.conf::[223]
+msgctxt "map_msg.conf"
+msgid "%s %d minute"
+msgstr "%s %d menit"
+#: map_msg.conf::[224]
+msgctxt "map_msg.conf"
+msgid "%s %d minutes"
+msgstr "%s %d menit"
+#: map_msg.conf::[225]
+msgctxt "map_msg.conf"
+msgid "%s and %d second"
+msgstr "%s dan %d detik"
+#: map_msg.conf::[226]
+msgctxt "map_msg.conf"
+msgid "%s and %d seconds"
+msgstr "%s dan %d detik"
+#: map_msg.conf::[227]
+msgctxt "map_msg.conf"
+msgid "Party modification is disabled on this map."
+msgstr "Kamu tidak bisa mengubah Party di map ini."
+#: map_msg.conf::[228]
+msgctxt "map_msg.conf"
+msgid "Guild modification is disabled on this map."
+msgstr "Kamu tidak bisa mengubah Guild di map ini."
+#: map_msg.conf::[229]
+msgctxt "map_msg.conf"
+msgid "Your effect has changed."
+msgstr "Efek sudah diubah."
+#: map_msg.conf::[230]
+msgctxt "map_msg.conf"
+msgid "Server time (normal time): %A, %B %d %Y %X."
+msgstr "Waktu Server: %A, %B %d %Y %X."
+#: map_msg.conf::[231]
+msgctxt "map_msg.conf"
+msgid "Game time: The game is in permanent daylight."
+msgstr "Info: Server selalu siang."
+#: map_msg.conf::[232]
+msgctxt "map_msg.conf"
+msgid "Game time: The game is in permanent night."
+msgstr "Info: Server selalu malam."
+#: map_msg.conf::[233]
+msgctxt "map_msg.conf"
+msgid "Game time: The game is in night for %s."
+msgstr "Info: Server sudah berada pada mode malam selama %s."
+#: map_msg.conf::[234]
+msgctxt "map_msg.conf"
+msgid "Game time: After, the game will be in permanent daylight."
+msgstr "Info: Setelah itu, server akan selalu siang."
+#: map_msg.conf::[235]
+msgctxt "map_msg.conf"
+msgid "Game time: The game is in daylight for %s."
+msgstr "Info: Server sudah berada pada mode siang selama %s."
+#: map_msg.conf::[236]
+msgctxt "map_msg.conf"
+msgid "Game time: After, the game will be in permanent night."
+msgstr "Info: Setelah itu, server akan selalu malam."
+#: map_msg.conf::[237]
+msgctxt "map_msg.conf"
+msgid "Game time: After, the game will be in night for %s."
+msgstr "Info: Setelah itu, server akan berganti ke malam selama %s."
+#: map_msg.conf::[238]
+msgctxt "map_msg.conf"
+msgid "Game time: A day cycle has a normal duration of %s."
+msgstr "Info: Durasi 1 hari di dalam game adalah %s."
+#: map_msg.conf::[239]
+msgctxt "map_msg.conf"
+msgid "Game time: After, the game will be in daylight for %s."
+msgstr "Info: Setelah itu, server akan berganti ke siang selama %s."
+#: map_msg.conf::[240]
+msgctxt "map_msg.conf"
+msgid "%d monster(s) summoned!"
+msgstr "%d monster telah dipanggil!"
+#: map_msg.conf::[241]
+msgctxt "map_msg.conf"
+msgid "You can now attack and kill players freely."
+msgstr "Sekarang kamu bisa menyerang dan membunuh pemain lain."
+#: map_msg.conf::[242]
+msgctxt "map_msg.conf"
+msgid "You can now be attacked and killed by players."
+msgstr "Sekarang kamu bisa diserang dan dibunuh oleh pemain lain."
+#: map_msg.conf::[243]
+msgctxt "map_msg.conf"
+msgid "Skills have been disabled on this map."
+msgstr "Semua skill sudah dinonaktifkan di map ini."
+#: map_msg.conf::[244]
+msgctxt "map_msg.conf"
+msgid "Skills have been enabled on this map."
+msgstr "Semua skill sudah diaktifkan di map ini."
+#: map_msg.conf::[245]
+msgctxt "map_msg.conf"
+msgid "Server Uptime: %ld days, %ld hours, %ld minutes, %ld seconds."
+msgstr "Server Online Selama: %ld hari, %ld jam, %ld menit, %ld detik."
+#: map_msg.conf::[246]
+msgctxt "map_msg.conf"
+msgid "Your GM level doesn't authorize you to preform this action."
+msgstr "Level GM kamu tidak cukup untuk melakukan perintah tersebut."
+#: map_msg.conf::[247]
+msgctxt "map_msg.conf"
+msgid "You are not authorized to warp to this map."
+msgstr "Kamu tidak diperbolehkan untuk berpindah ke map tersebut."
+#: map_msg.conf::[248]
+msgctxt "map_msg.conf"
+msgid "You are not authorized to warp from your current map."
+msgstr "Kamu tidak diperbolehkan untuk berpindah dari map ini."
+#: map_msg.conf::[249]
+msgctxt "map_msg.conf"
+msgid "You are not authorized to warp to your save map."
+msgstr "Kamu tidak diperbolehkan untuk berpindah ke tempat save."
+#: map_msg.conf::[250]
+msgctxt "map_msg.conf"
+msgid "You have already opened your storage. Close it first."
+msgstr "Kamu sudah membuka penyimpanan. Tutup terlebih dahulu."
+#: map_msg.conf::[251]
+msgctxt "map_msg.conf"
+msgid "You have already opened your guild storage. Close it first."
+msgstr "Kamu sudah membuka penyimpanan guild. Tutup terlebih dahulu"
+#: map_msg.conf::[252]
+msgctxt "map_msg.conf"
+msgid "You are not in a guild."
+msgstr "Kamu belum bergabung di dalam guild."
+#: map_msg.conf::[254]
+msgctxt "map_msg.conf"
+msgid "GM command configuration has been reloaded."
+msgstr "Konfigurasi perintah GM sudah dimuat ulang."
+#: map_msg.conf::[255]
+msgctxt "map_msg.conf"
+msgid "Battle configuration has been reloaded."
+msgstr "Konfigurasi pertempuran sudah dimuat ulang."
+#: map_msg.conf::[256]
+msgctxt "map_msg.conf"
+msgid "Status database has been reloaded."
+msgstr "Database status sudah dimuat ulang."
+#: map_msg.conf::[257]
+msgctxt "map_msg.conf"
+msgid "Player database has been reloaded."
+msgstr "Database pemain sudah dimuat ulang."
+#: map_msg.conf::[258]
+msgctxt "map_msg.conf"
+msgid "Sent packet 0x%x (%d)"
+msgstr "Paket 0x%x (%d) sudah terkirim."
+#: map_msg.conf::[259]
+msgctxt "map_msg.conf"
+msgid "Invalid packet"
+msgstr "Paket salah."
+#: map_msg.conf::[260]
+msgctxt "map_msg.conf"
+msgid "This item cannot be traded."
+msgstr "Item ini tidak bisa ditransaksikan."
+#: map_msg.conf::[261]
+msgctxt "map_msg.conf"
+msgid "Script could not be loaded."
+msgstr "Script tidak dapat dimuat."
+#: map_msg.conf::[262]
+msgctxt "map_msg.conf"
+msgid "Script loaded."
+msgstr "Script sudah dimuat."
+#: map_msg.conf::[263]
+msgctxt "map_msg.conf"
+msgid "This item cannot be dropped."
+msgstr "Item ini tidak bisa dibuang."
+#: map_msg.conf::[264]
+msgctxt "map_msg.conf"
+msgid "This item cannot be stored."
+msgstr "Item ini tidak bisa disimpan."
+#: map_msg.conf::[265]
+msgctxt "map_msg.conf"
+msgid "%s has bought your item(s)."
+msgstr "%s sudah membeli item darimu."
+#: map_msg.conf::[266]
+msgctxt "map_msg.conf"
+msgid "Some of your items cannot be vended and were removed from the shop."
+msgstr "Beberapa item tidak dapat ditransaksikan dan telah dikeluarkan dari toko."
+#: map_msg.conf::[267]
+msgctxt "map_msg.conf"
+msgid "'%s' designated maps reset."
+msgstr "'%s' map yang dipilih sudah diatur ulang."
+#: map_msg.conf::[268]
+msgctxt "map_msg.conf"
+msgid "Reloaded the Message of the Day."
+msgstr "'Pesan Hari Ini' sudah dimuat ulang."
+#: map_msg.conf::[269]
+msgctxt "map_msg.conf"
+msgid "Displaying first %d out of %d matches"
+msgstr "Menampilkan hasil %d dari %d"
+#: map_msg.conf::[270]
+msgctxt "map_msg.conf"
+msgid "* :%s %s: *"
+msgstr "* :%s %s: *"
+#: map_msg.conf::[271]
+msgctxt "map_msg.conf"
+msgid "You can't drop items on this map."
+msgstr "Kamu tidak bisa membuang item di map ini."
+#: map_msg.conf::[272]
+msgctxt "map_msg.conf"
+msgid "You can't trade on this map."
+msgstr "Kamu tidak bisa bertransaksi di map ini."
+#: map_msg.conf::[273]
+msgctxt "map_msg.conf"
+msgid "Commands available:"
+msgstr "Perintah yang tersedia:"
+#: map_msg.conf::[274]
+msgctxt "map_msg.conf"
+msgid "%d commands found."
+msgstr "%d perintah ditemukan."
+#: map_msg.conf::[275]
+msgctxt "map_msg.conf"
+msgid "No commands found."
+msgstr "Tidak ada perintah yang ditemukan."
+#: map_msg.conf::[276]
+msgctxt "map_msg.conf"
+msgid "You can't open a shop on this map"
+msgstr "Kamu tidak bisa membuka toko di map ini."
+#: map_msg.conf::[277]
+msgctxt "map_msg.conf"
+msgid "Usage: @request <petition/message to online GMs>."
+msgstr "Penggunaan: @request <Pesan untuk GM yang sedang online>."
+#: map_msg.conf::[278]
+msgctxt "map_msg.conf"
+msgid "(@request): %s"
+msgstr "(@request): %s"
+#: map_msg.conf::[279]
+msgctxt "map_msg.conf"
+msgid "@request sent."
+msgstr "@request sudah terkirim."
+#: map_msg.conf::[280]
+msgctxt "map_msg.conf"
+msgid "Invalid name."
+msgstr "Nama salah."
+#: map_msg.conf::[281]
+msgctxt "map_msg.conf"
+msgid "You can't create chat rooms on this map."
+msgstr "Kamu tidak bisa membuka ruangan chat di map ini."
+#: map_msg.conf::[282]
+msgctxt "map_msg.conf"
+msgid "You need to be a party leader to use this command."
+msgstr "Kamu harus menjadi ketua party untuk menggunakan perintah ini."
+#: map_msg.conf::[283]
+msgctxt "map_msg.conf"
+msgid "Target character must be online and in your current party."
+msgstr "Karakter tersebut harus online dan ada di dalam party ini."
+#: map_msg.conf::[284]
+msgctxt "map_msg.conf"
+msgid "Leadership transferred."
+msgstr "Ketua party sudah diganti."
+#: map_msg.conf::[285]
+msgctxt "map_msg.conf"
+msgid "You've become the party leader."
+msgstr "Kamu sudah menjadi ketua party."
+#: map_msg.conf::[286]
+msgctxt "map_msg.conf"
+msgid "There's been no change in the setting."
+msgstr "Pengaturan tidak jadi diubah."
+#: map_msg.conf::[287]
+msgctxt "map_msg.conf"
+msgid "You cannot change party leaders on this map."
+msgstr "Kamu tidak bisa mengganti ketua party di map ini."
+#: map_msg.conf::[288]
+msgctxt "map_msg.conf"
+msgid "You are no longer killable."
+msgstr "Sekarang kamu tidak bisa dibunuh."
+#: map_msg.conf::[289]
+msgctxt "map_msg.conf"
+msgid "The player is now killable."
+msgstr "Sekarang pemain ini bisa dibunuh."
+#: map_msg.conf::[290]
+msgctxt "map_msg.conf"
+msgid "The player is no longer killable."
+msgstr "Pemain ini tidak bisa dibunuh."
+#: map_msg.conf::[291]
+msgctxt "map_msg.conf"
+msgid "Weather effects will dispell on warp/refresh"
+msgstr "Efek cuaca akan hilang saat warp/refresh."
+#: map_msg.conf::[292]
+msgctxt "map_msg.conf"
+msgid "Killer state reset."
+msgstr "'Kondisi pembunuh' diatur ulang."
+#: map_msg.conf::[293]
+msgctxt "map_msg.conf"
+msgid "This bounded item cannot be traded to that character."
+msgstr "Item bound ini tidak dapat diberikan ke karakter tersebut."
+#: map_msg.conf::[294]
+msgctxt "map_msg.conf"
+msgid "This bounded item cannot be stored there."
+msgstr "Item bound tidak dapat disimpan."
+#: map_msg.conf::[295]
+msgctxt "map_msg.conf"
+msgid "Please enter an item name or ID (usage: @item <item name/ID> <quantity> <bound type>)."
+msgstr "Harap masukkan sebuah nama item atau ID. (Penggunaan: @item <nama item/ID> <jumlah> <bound type>)."
+#: map_msg.conf::[296]
+msgctxt "map_msg.conf"
+msgid "Please enter all parameters (usage: @item2 <item name/ID> <quantity>"
+msgstr "Harap masukkan semua parameter. (Penggunaan: @item2 <nama item/ID> <jumlah>"
+#: map_msg.conf::[297]
+msgctxt "map_msg.conf"
+msgid "<identify_flag> <refine> <attribute> <card1> <card2> <card3> <card4> <bound type>)."
+msgstr "<identify_flag> <refine> <attribute> <card1> <card2> <card3> <card4> <bound type>)."
+#: map_msg.conf::[298]
+msgctxt "map_msg.conf"
+msgid "Invalid bound type. Valid types: 1-Account, 2-Guild, 3-Party, 4-Character"
+msgstr "Tipe bound salah. Tipe yang ada adalah: 1-Account, 2-Guild, 3-Party, 4-Character"
+#: map_msg.conf::[300]
+msgctxt "map_msg.conf"
+msgid "None Taken"
+msgstr "Tidak satupun"
+#: map_msg.conf::[301]
+msgctxt "map_msg.conf"
+msgid "One Castle"
+msgstr "Satu Kastil"
+#: map_msg.conf::[302]
+msgctxt "map_msg.conf"
+msgid "Two Castles"
+msgstr "Dua Kastil"
+#: map_msg.conf::[303]
+msgctxt "map_msg.conf"
+msgid "Three Castles"
+msgstr "Tiga Kastil"
+#: map_msg.conf::[304]
+msgctxt "map_msg.conf"
+msgid "Four Castles"
+msgstr "Empat Kastil"
+#: map_msg.conf::[305]
+msgctxt "map_msg.conf"
+msgid "Five Castles"
+msgstr "Lima Kastil"
+#: map_msg.conf::[306]
+msgctxt "map_msg.conf"
+msgid "Six Castles"
+msgstr "Enam Kastil"
+#: map_msg.conf::[307]
+msgctxt "map_msg.conf"
+msgid "Seven Castles"
+msgstr "Tujuh Kastil"
+#: map_msg.conf::[308]
+msgctxt "map_msg.conf"
+msgid "Eight Castles"
+msgstr "Delapan Kastil"
+#: map_msg.conf::[309]
+msgctxt "map_msg.conf"
+msgid "Nine Castles"
+msgstr "Sembilan Kastil"
+#: map_msg.conf::[310]
+msgctxt "map_msg.conf"
+msgid "Ten Castles"
+msgstr "Sepuluh Kastil"
+#: map_msg.conf::[311]
+msgctxt "map_msg.conf"
+msgid "Eleven Castles"
+msgstr "Sebelas Kastil"
+#: map_msg.conf::[312]
+msgctxt "map_msg.conf"
+msgid "Twelve Castles"
+msgstr "Duabelas Kastil"
+#: map_msg.conf::[313]
+msgctxt "map_msg.conf"
+msgid "Thirteen Castles"
+msgstr "Tigabelas Kastil"
+#: map_msg.conf::[314]
+msgctxt "map_msg.conf"
+msgid "Fourteen Castles"
+msgstr "Empatbelas Kastil"
+#: map_msg.conf::[315]
+msgctxt "map_msg.conf"
+msgid "Fifteen Castles"
+msgstr "Limabelas Kastil"
+#: map_msg.conf::[316]
+msgctxt "map_msg.conf"
+msgid "Sixteen Castles"
+msgstr "Enambelas Kastil"
+#: map_msg.conf::[317]
+msgctxt "map_msg.conf"
+msgid "Seventeen Castles"
+msgstr "Tujuhbelas Kastil"
+#: map_msg.conf::[318]
+msgctxt "map_msg.conf"
+msgid "Eighteen Castles"
+msgstr "Delapanbelas Kastil"
+#: map_msg.conf::[319]
+msgctxt "map_msg.conf"
+msgid "Nineteen Castles"
+msgstr "Sembilanbelas Kastil"
+#: map_msg.conf::[320]
+msgctxt "map_msg.conf"
+msgid "Twenty Castles"
+msgstr "Duapuluh Kastil"
+#: map_msg.conf::[321]
+msgctxt "map_msg.conf"
+msgid "Twenty-One Castles"
+msgstr "Duapuluh Satu Kastil"
+#: map_msg.conf::[322]
+msgctxt "map_msg.conf"
+msgid "Twenty-Two Castles"
+msgstr "Duapuluh Dua Kastil"
+#: map_msg.conf::[323]
+msgctxt "map_msg.conf"
+msgid "Twenty-Three Castles"
+msgstr "Duapuluh Tiga Kastil"
+#: map_msg.conf::[324]
+msgctxt "map_msg.conf"
+msgid "Twenty-Four Castles"
+msgstr "Duapuluh Empat Kastil"
+#: map_msg.conf::[325]
+msgctxt "map_msg.conf"
+msgid "Twenty-Five Castles"
+msgstr "Duapuluh Lima Kastil"
+#: map_msg.conf::[326]
+msgctxt "map_msg.conf"
+msgid "Twenty-Six Castles"
+msgstr "Duapuluh Enam Kastil"
+#: map_msg.conf::[327]
+msgctxt "map_msg.conf"
+msgid "Twenty-Seven Castles"
+msgstr "Duapuluh Tujuh Kastil"
+#: map_msg.conf::[328]
+msgctxt "map_msg.conf"
+msgid "Twenty-Eight Castles"
+msgstr "Duapuluh Delapan Kastil"
+#: map_msg.conf::[329]
+msgctxt "map_msg.conf"
+msgid "Twenty-Nine Castles"
+msgstr "Duapuluh Sembilan Kastil"
+#: map_msg.conf::[330]
+msgctxt "map_msg.conf"
+msgid "Thirty Castles"
+msgstr "Tigapuluh Kastil"
+#: map_msg.conf::[331]
+msgctxt "map_msg.conf"
+msgid "Thirty-One Castles"
+msgstr "Tigapuluh Satu Kastil"
+#: map_msg.conf::[332]
+msgctxt "map_msg.conf"
+msgid "Thirty-Two Castles"
+msgstr "Tigapuluh Dua Kastil"
+#: map_msg.conf::[333]
+msgctxt "map_msg.conf"
+msgid "Thirty-Three Castles"
+msgstr "Tigapuluh Tiga Kastil"
+#: map_msg.conf::[334]
+msgctxt "map_msg.conf"
+msgid "Total Domination"
+msgstr "Mendominasi Total!"
+#: map_msg.conf::[343]
+msgctxt "map_msg.conf"
+msgid "Name: %s"
+msgstr "Nama: %s "
+#: map_msg.conf::[344]
+msgctxt "map_msg.conf"
+msgid "(%s)"
+msgstr "(%s) "
+#: map_msg.conf::[345]
+msgctxt "map_msg.conf"
+msgid "| Party: '%s'"
+msgstr "| Party: '%s' "
+#: map_msg.conf::[346]
+msgctxt "map_msg.conf"
+msgid "| Guild: '%s'"
+msgstr "| Guild: '%s'"
+#: map_msg.conf::[347]
+msgctxt "map_msg.conf"
+msgid "| Lv:%d/%d | Job: %s"
+msgstr "| Lv:%d/%d | Job: %s"
+#: map_msg.conf::[348]
+msgctxt "map_msg.conf"
+msgid "| Location: %s %d %d"
+msgstr "| Lokasi: %s %d %d"
+#: map_msg.conf::[349]
+msgctxt "map_msg.conf"
+msgid "Please enter a player name (usage: @fullstrip <char name/ID>)."
+msgstr "Harap masukkan nama pemain (penggunaan: @fullstrip <nama/ID pemain>)."
+#: map_msg.conf::[350]
+msgctxt "map_msg.conf"
+msgid "Duel: You can't use @invite. You aren't a duelist."
+msgstr "Duel: Kamu tidak dapat menggunakan @invite. Kamu bukan duelist."
+#: map_msg.conf::[351]
+msgctxt "map_msg.conf"
+msgid "Duel: The limit of players has been reached."
+msgstr "Duel: Batas pemain sudah terlampaui."
+#: map_msg.conf::[352]
+msgctxt "map_msg.conf"
+msgid "Duel: Player name not found."
+msgstr "Duel: Nama pemain tidak ditemukan."
+#: map_msg.conf::[353]
+msgctxt "map_msg.conf"
+msgid "Duel: The Player is in the duel already."
+msgstr "Duel: Pemain sudah dalam duel."
+#: map_msg.conf::[354]
+msgctxt "map_msg.conf"
+msgid "Duel: Invitation has been sent."
+msgstr "Duel: Undangan duel sudah dikirim."
+#: map_msg.conf::[355]
+msgctxt "map_msg.conf"
+msgid "Duel: You can't use @duel without @reject."
+msgstr "Duel: Kamu tidak dapat menggunakan @duel tanpa @reject."
+#: map_msg.conf::[356]
+msgctxt "map_msg.conf"
+msgid "Duel: You can take part in duel once per %d minutes."
+msgstr "Duel: Kamu dapat mengambil bagian dalam duel hanya sekali dalam %d menit."
+#: map_msg.conf::[357]
+msgctxt "map_msg.conf"
+msgid "Duel: Invalid value."
+msgstr "Duel: Nilai salah."
+#: map_msg.conf::[358]
+msgctxt "map_msg.conf"
+msgid "Duel: You can't use @leave. You aren't a duelist."
+msgstr "Duel: Kamu tidak dapat menggunakan @leave. Kamu bukan duelist."
+#: map_msg.conf::[359]
+msgctxt "map_msg.conf"
+msgid "Duel: You've left the duel."
+msgstr "Duel: Kamu meninggalkan duel."
+#: map_msg.conf::[360]
+msgctxt "map_msg.conf"
+msgid "Duel: You can't use @accept without a duel invitation."
+msgstr "Duel: Kamu tidak dapat menggunakan @accept tanpa undangan duel."
+#: map_msg.conf::[361]
+msgctxt "map_msg.conf"
+msgid "Duel: The duel invitation has been accepted."
+msgstr "Duel: Undangan duel telah diterima."
+#: map_msg.conf::[362]
+msgctxt "map_msg.conf"
+msgid "Duel: You can't use @reject without a duel invitation."
+msgstr "Duel: Kamu tidak dapat menggunakan @reject tanpa undangan duel."
+#: map_msg.conf::[363]
+msgctxt "map_msg.conf"
+msgid "Duel: The duel invitation has been rejected."
+msgstr "Duel: Undangan duel telah ditolak."
+#: map_msg.conf::[364]
+msgctxt "map_msg.conf"
+msgid "Duel: You can't invite %s because he/she isn't on the same map."
+msgstr "Duel: Kamu tidak dapat mengundang %s karena dia tidak berada di map yang sama."
+#: map_msg.conf::[365]
+msgctxt "map_msg.conf"
+msgid "Duel: Can't use %s in duel."
+msgstr "Duel: Tidak dapat menggunakan %s saat duel."
+#: map_msg.conf::[370]
+msgctxt "map_msg.conf"
+msgid "-- Duels: %d/%d, Members: %d/%d, Max players: %d --"
+msgstr "-- Duel: %d/%d, Anggota: %d/%d, Pemain maks.: %d --"
+#: map_msg.conf::[371]
+msgctxt "map_msg.conf"
+msgid "-- Duels: %d/%d, Members: %d/%d --"
+msgstr "-- Duel: %d/%d, Anggota: %d/%d --"
+#: map_msg.conf::[372]
+msgctxt "map_msg.conf"
+msgid "-- Duel has been created (Use @invite/@leave) --"
+msgstr "-- Duel sudah dibuat (Gunakan @invite/@leave) --"
+#: map_msg.conf::[373]
+msgctxt "map_msg.conf"
+msgid "-- Player %s invites %s to duel --"
+msgstr "-- Pemain %s mengundang %s untuk duel --"
+#: map_msg.conf::[374]
+msgctxt "map_msg.conf"
+msgid "Blue -- Player %s invites you to PVP duel (Use @accept/@reject) --"
+msgstr "Biru -- Pemain %s mengundangmu untuk duel PVP (Gunakan @accept/@reject) --"
+#: map_msg.conf::[375]
+msgctxt "map_msg.conf"
+msgid "<- Player %s has left the duel --"
+msgstr "<- Pemain %s meninggalkan duel --"
+#: map_msg.conf::[376]
+msgctxt "map_msg.conf"
+msgid "-> Player %s has accepted the duel --"
+msgstr "-> Pemain %s telah menerima permintaan duel --"
+#: map_msg.conf::[377]
+msgctxt "map_msg.conf"
+msgid "-- Player %s has rejected the duel --"
+msgstr "-- Pemain %s telah menolak permintaan duel --"
+#: map_msg.conf::[378]
+msgctxt "map_msg.conf"
+msgid "Eleanor is now in %s mode."
+msgstr "Eleanor sekarang dalam mode %s."
+#: map_msg.conf::[379]
+msgctxt "map_msg.conf"
+msgid "Item Failed. [%s] is cooling down. Wait %.1f minutes."
+msgstr "Penggunaan item [%s] gagal. Dapat digunakan setelah %1.f menit."
+#: map_msg.conf::[380]
+msgctxt "map_msg.conf"
+msgid "Item Failed. [%s] is cooling down. Wait %d seconds."
+msgstr "Penggunaan item [%s] gagal. Dapat digunakan setelah %d detik."
+#: map_msg.conf::[381]
+msgctxt "map_msg.conf"
+msgid "Skill Failed. [%s] requires %dx %s."
+msgstr "Penggunaan skill [%s] gagal. Membutuhkan %dx %s."
+#: map_msg.conf::[382]
+msgctxt "map_msg.conf"
+msgid "You're too close to a stone or emperium to use this skill."
+msgstr "Kamu terlalu dekat dengan batu atau emperium untuk menggunakan skill ini."
+#: map_msg.conf::[383]
+msgctxt "map_msg.conf"
+msgid "You cannot create a savepoint in an instance."
+msgstr "Kamu tidak dapat membuat save point di instance"
+#: map_msg.conf::[384]
+msgctxt "map_msg.conf"
+msgid "You cannot create a memo in an instance."
+msgstr "Kamu tidak dapat membuat memo di instance"
+#: map_msg.conf::[385]
+msgctxt "map_msg.conf"
+msgid "You're not allowed to change emblem during WOE"
+msgstr "Kamu tidak diizinkan untuk mengubah emblem ketika WOE."
+#: map_msg.conf::[386]
+msgctxt "map_msg.conf"
+msgid "The chosen emblem was detected invalid"
+msgstr "Emblem yang dipilih tidak bisa digunakan"
+#: map_msg.conf::[387]
+msgctxt "map_msg.conf"
+msgid "The chosen emblem was detected invalid as it contain too much transparency (limit=%d)"
+msgstr "Emblem yang dipilih tidak bisa digunakan karena terlalu banyak transparency (batas=%d)"
+#: map_msg.conf::[388]
+msgctxt "map_msg.conf"
+msgid "You cannot use this item while storage is open."
+msgstr "Kamu tidak bis menggunakan item ini ketika storage sedang dibuka."
+#: map_msg.conf::[389]
+msgctxt "map_msg.conf"
+msgid "Speed returned to normal."
+msgstr "Speed kembali ke normal."
+#: map_msg.conf::[390]
+msgctxt "map_msg.conf"
+msgid "Autorejecting is activated."
+msgstr "Penolakan otomatis diaktifkan."
+#: map_msg.conf::[391]
+msgctxt "map_msg.conf"
+msgid "Autorejecting is deactivated."
+msgstr "Penolakan otomatis ditidakaktifkan."
+#: map_msg.conf::[392]
+msgctxt "map_msg.conf"
+msgid "You request has been rejected by autoreject option."
+msgstr "Permintaanmu telah ditolak oleh opsi penolakan otomatis."
+#: map_msg.conf::[393]
+msgctxt "map_msg.conf"
+msgid "Autorejected trade request from %s."
+msgstr "Telah ditolak otomatis permintaan transaksi dari %s."
+#: map_msg.conf::[394]
+msgctxt "map_msg.conf"
+msgid "Autorejected party invite from %s."
+msgstr "Telah ditolak otomatis undangan party dari %s."
+#: map_msg.conf::[395]
+msgctxt "map_msg.conf"
+msgid "Autorejected guild invite from %s."
+msgstr "Telah ditolak otomatis undangan guild dari %s."
+#: map_msg.conf::[396]
+msgctxt "map_msg.conf"
+msgid "Autorejected alliance request from %s."
+msgstr "Telah ditolak otomatis permintaan aliansi dari %s."
+#: map_msg.conf::[397]
+msgctxt "map_msg.conf"
+msgid "Autorejected opposition request from %s."
+msgstr "Telah ditolak otomatis permintaan musuh dari %s."
+#: map_msg.conf::[398]
+msgctxt "map_msg.conf"
+msgid "Autorejected friend request from %s."
+msgstr "Telah ditolak otomatis permintaan pertemanan dari %s."
+#: map_msg.conf::[400]
+msgctxt "map_msg.conf"
+msgid "Usage: @jailfor <time> <character name>"
+msgstr "Penggunaan: @jailfor <waktu> <nama karakter>"
+#: map_msg.conf::[401]
+msgctxt "map_msg.conf"
+msgid "You have been jailed for %d years, %d months, %d days, %d hours and %d minutes"
+msgstr "Kamu telah dipenjarakan selama %d tahun, %d bulan, %d hari, %d jam, %d ,menit."
+#: map_msg.conf::[402]
+msgctxt "map_msg.conf"
+msgid "%s in jail for %d years, %d months, %d days, %d hours and %d minutes"
+msgstr "%s di dalam penjara selama %d tahun, %d bulan, %d hari, %d tahun, %d menit."
+#: map_msg.conf::[403]
+msgctxt "map_msg.conf"
+msgid "War of Emperium SE has been initiated."
+msgstr "War of Emperium SE telah dimulai."
+#: map_msg.conf::[404]
+msgctxt "map_msg.conf"
+msgid "War of Emperium SE is currently in progress."
+msgstr "War of Emperium SE saat ini sedang berlangsung."
+#: map_msg.conf::[405]
+msgctxt "map_msg.conf"
+msgid "War of Emperium SE has been ended."
+msgstr "War of Emperium SE telah dimulai."
+#: map_msg.conf::[406]
+msgctxt "map_msg.conf"
+msgid "War of Emperium SE is currently not in progress."
+msgstr "War of Emperium SE saat ini sedang tidak berlangsung."
+#: map_msg.conf::[408]
+msgctxt "map_msg.conf"
+msgid "Need disconnection to perform change-sex request..."
+msgstr "Dibutuhkan pemutusan koneksi untuk melakukan permintaan ubah jenis kelamin ..."
+#: map_msg.conf::[409]
+msgctxt "map_msg.conf"
+msgid "Your sex has been changed (need disconnection by the server)..."
+msgstr "Jenis kelaminmu telah diganti (membutuhkan pemutusan koneksi oleh server) ..."
+#: map_msg.conf::[410]
+msgctxt "map_msg.conf"
+msgid "Removed %d cash points. Total %d points."
+msgstr "%d Cash Point telah dikurangi. Total point %d."
+#: map_msg.conf::[411]
+msgctxt "map_msg.conf"
+msgid "Removed %d kafra points. Total %d points."
+msgstr "%d Kafra Point telah dikurangi. Total point %d."
+#: map_msg.conf::[412]
+msgctxt "map_msg.conf"
+msgid "Your account has 'Unregistered'."
+msgstr "Akunmu 'Tidak terdaftar'"
+#: map_msg.conf::[413]
+msgctxt "map_msg.conf"
+msgid "Your account has an 'Incorrect Password'..."
+msgstr "Akunmu memiliki 'Password yang salah'..."
+#: map_msg.conf::[414]
+msgctxt "map_msg.conf"
+msgid "Your account has expired."
+msgstr "Akunmu sudah kadaluarsa."
+#: map_msg.conf::[415]
+msgctxt "map_msg.conf"
+msgid "Your account has been rejected from server."
+msgstr "Akunmu telah ditolak oleh server."
+#: map_msg.conf::[416]
+msgctxt "map_msg.conf"
+msgid "Your account has been blocked by the GM Team."
+msgstr "Akunmu telah diblokir oleh Tim GM."
+#: map_msg.conf::[417]
+msgctxt "map_msg.conf"
+msgid "Your Game's EXE file is not the latest version."
+msgstr "File game EXE-mu bukanlah versi terakhir."
+#: map_msg.conf::[418]
+msgctxt "map_msg.conf"
+msgid "Your account has been prohibited to log in."
+msgstr "Akunmu dilarang untuk masuk "
+#: map_msg.conf::[419]
+msgctxt "map_msg.conf"
+msgid "Server is jammed due to over populated."
+msgstr "Server sedang macet karena populasi yang berlebihan."
+#: map_msg.conf::[420]
+msgctxt "map_msg.conf"
+msgid "Your account has not more authorised."
+msgstr "Akunmu sudah tidak diizinkan."
+#: map_msg.conf::[421]
+msgctxt "map_msg.conf"
+msgid "Your account has been totally erased."
+msgstr "Akunmu sudah dihapus keseluruhan."
+#: map_msg.conf::[423]
+msgctxt "map_msg.conf"
+msgid "Your %s has been banished until %s "
+msgstr "Akunmu telah dibuang hingga %s "
+#: map_msg.conf::[424]
+msgctxt "map_msg.conf"
+msgid "Login-serv has been asked to %s the player '%.*s'."
+msgstr "Login-serv meminta untuk %s pemain '%.*s'."
+#: map_msg.conf::[425]
+msgctxt "map_msg.conf"
+msgid "The player '%.*s' doesn't exist."
+msgstr "Pemain '%.*s' tidak ada."
+#: map_msg.conf::[426]
+msgctxt "map_msg.conf"
+msgid "Your GM level doesn't authorise you to %s the player '%.*s'."
+msgstr "Level GM-mu tidak diizinkan untuk %s pemain '%.*s'."
+#: map_msg.conf::[427]
+msgctxt "map_msg.conf"
+msgid "Login-server is offline. Impossible to %s the player '%.*s'."
+msgstr "Login-server sedang offline. Tidak mungkin untuk %s pemain '%.*s'."
+#: map_msg.conf::[428]
+msgctxt "map_msg.conf"
+msgid "block"
+msgstr "block"
+#: map_msg.conf::[429]
+msgctxt "map_msg.conf"
+msgid "ban"
+msgstr "ban"
+#: map_msg.conf::[430]
+msgctxt "map_msg.conf"
+msgid "unblock"
+msgstr "unblock"
+#: map_msg.conf::[431]
+msgctxt "map_msg.conf"
+msgid "unban"
+msgstr "unban"
+#: map_msg.conf::[432]
+msgctxt "map_msg.conf"
+msgid "change the sex of"
+msgstr "mengubah jenis kelamin dari "
+#: map_msg.conf::[433]
+msgctxt "map_msg.conf"
+msgid "This character has been banned until "
+msgstr "Karakter ini diban hingga "
+#: map_msg.conf::[434]
+msgctxt "map_msg.conf"
+msgid "Char-server has been asked to %s the character '%.*s'."
+msgstr "Char-server meminta untuk %s pemain '%.*s'."
+#: map_msg.conf::[435]
+msgctxt "map_msg.conf"
+msgid "Please enter a player name (usage: %s <char name>)."
+msgstr "Harap masukkan nama pemain (penggunaan: @charunblock <nama pemain>)."
+#: map_msg.conf::[436]
+msgctxt "map_msg.conf"
+msgid "VIP"
+msgstr "VIP"
+#: map_msg.conf::[437]
+msgctxt "map_msg.conf"
+msgid "GM's cannot become a VIP."
+msgstr "GM tidak bisa menjadi VIP."
+#: map_msg.conf::[438]
+msgctxt "map_msg.conf"
+msgid "You are no longer VIP."
+msgstr "Kamu sudah bukan VIP lagi."
+#: map_msg.conf::[450]
+msgctxt "map_msg.conf"
+msgid "You already have a homunculus"
+msgstr "Kamu sudah memiliki homunculus"
+#: map_msg.conf::[451]
+msgctxt "map_msg.conf"
+msgid "You can't return your pet because your inventory is full."
+msgstr "Kamu tidak dapat mengembalikan peliharaan kamu karena inventory penuh."
+#: map_msg.conf::[460]
+msgctxt "map_msg.conf"
+msgid "Please enter a valid language (usage: @langtype <language>)."
+msgstr "Harap masukkan tipe bahasa yang valid. (Penggunaan: @langtype <bahasa>)."
+#: map_msg.conf::[461]
+msgctxt "map_msg.conf"
+msgid "Language is now set to %s."
+msgstr "Bahasa saat ini dipilih menjadi %s."
+#: map_msg.conf::[462]
+msgctxt "map_msg.conf"
+msgid "This language is currently disabled."
+msgstr "Bahasa ini saat ini tidak bisa digunakan."
+#: map_msg.conf::[463]
+msgctxt "map_msg.conf"
+msgid "Message configuration has been reloaded."
+msgstr "Pengaturan bahasa telah dimuat ulang."
+#: map_msg.conf::[464]
+msgctxt "map_msg.conf"
+msgid "---- Available languages:"
+msgstr "---- Bahasa yang tersedia:"
+#: map_msg.conf::[480]
+msgctxt "map_msg.conf"
+msgid "----- Players in Map -----"
+msgstr "----- Pemain yang berada di Map -----"
+#: map_msg.conf::[481]
+msgctxt "map_msg.conf"
+msgid "Player '%s' (session #%d) | Location: %d,%d"
+msgstr "Pemain '%s' (sesi #%d) | Lokasi: %d,%d"
+#: map_msg.conf::[482]
+msgctxt "map_msg.conf"
+msgid "----- NPCs in Map -----"
+msgstr "----- NPC yang berada di Map -----"
+#: map_msg.conf::[483]
+msgctxt "map_msg.conf"
+msgid "----- Chats in Map -----"
+msgstr "----- Ruang Chat yang berada di Map -----"
+#: map_msg.conf::[484]
+msgctxt "map_msg.conf"
+msgid "Chat: %s | Player: %s | Location: %d %d"
+msgstr "Chat: %s | Pemain: %s | Lokasi: %d %d"
+#: map_msg.conf::[485]
+msgctxt "map_msg.conf"
+msgid "Users: %d/%d | Password: %s | Public: %s"
+msgstr "   User: %d/%d | Password: %s | Publik: %s"
+#: map_msg.conf::[486]
+msgctxt "map_msg.conf"
+msgid "Yes"
+msgstr "Ya"
+#: map_msg.conf::[487]
+msgctxt "map_msg.conf"
+msgid "No"
+msgstr "Tidak"
+#: map_msg.conf::[488]
+msgctxt "map_msg.conf"
+msgid "Please enter at least one valid list number (usage: @mapinfo <0-3> <map>)."
+msgstr "Harap masukkan setidaknya 1 opsi (Penggunaan: @mapinfo <0-3> <map>)."
+#: map_msg.conf::[489]
+msgctxt "map_msg.conf"
+msgid "NPC %d: %s::%s | Direction: %s | Sprite: %d | Location: %d %d"
+msgstr "NPC %d: %s::%s | Arah: %s | Sprite: %d | Lokasi: %d %d"
+#: map_msg.conf::[490]
+msgctxt "map_msg.conf"
+msgid "NPC %d: %s | Direction: %s | Sprite: %d | Location: %d %d"
+msgstr "NPC %d: %s | Arah: %s | Sprite: %d | Lokasi: %d %d"
+#: map_msg.conf::[491]
+msgctxt "map_msg.conf"
+msgid "North"
+msgstr "Utara"
+#: map_msg.conf::[492]
+msgctxt "map_msg.conf"
+msgid "North West"
+msgstr "Barat Laut"
+#: map_msg.conf::[493]
+msgctxt "map_msg.conf"
+msgid "West"
+msgstr "Barat"
+#: map_msg.conf::[494]
+msgctxt "map_msg.conf"
+msgid "South West"
+msgstr "Barat Daya"
+#: map_msg.conf::[495]
+msgctxt "map_msg.conf"
+msgid "South"
+msgstr "Selatan"
+#: map_msg.conf::[496]
+msgctxt "map_msg.conf"
+msgid "South East"
+msgstr "Tenggara"
+#: map_msg.conf::[497]
+msgctxt "map_msg.conf"
+msgid "East"
+msgstr "Timur"
+#: map_msg.conf::[498]
+msgctxt "map_msg.conf"
+msgid "North East"
+msgstr "Timur Laut"
+#: map_msg.conf::[499]
+msgctxt "map_msg.conf"
+msgid "Unknown"
+msgstr "Tidak diketahui"
+#: map_msg.conf::[501]
+msgctxt "map_msg.conf"
+msgid "Your account time limit is: %d-%m-%Y %H:%M:%S."
+msgstr "Batas akun kamu adalah: %d-%m-%Y %H:%M:%S."
+#: map_msg.conf::[502]
+msgctxt "map_msg.conf"
+msgid "Day Mode is activated"
+msgstr "Mode siang diaktifkan."
+#: map_msg.conf::[503]
+msgctxt "map_msg.conf"
+msgid "Night Mode is activated"
+msgstr "Mode malam diaktifkan."
+#: map_msg.conf::[504]
+msgctxt "map_msg.conf"
+msgid "Used %d kafra points and %d cash points. %d kafra and %d cash points remaining."
+msgstr "%d kafra poin dan %d cash poin sudah digunakan. Sisa: %d kafra dan %d cash poin."
+#: map_msg.conf::[505]
+msgctxt "map_msg.conf"
+msgid "Gained %d cash points. Total %d points."
+msgstr "%d cash poin sudah bertambah. Total %d poin."
+#: map_msg.conf::[506]
+msgctxt "map_msg.conf"
+msgid "Gained %d kafra points. Total %d points."
+msgstr "%d kafra poin sudah bertambah. Total %d poin."
+#: map_msg.conf::[507]
+msgctxt "map_msg.conf"
+msgid "This player has been banned for %d minute(s)."
+msgstr "Pemain ini sudah dihukum selama %d menit."
+#: map_msg.conf::[508]
+msgctxt "map_msg.conf"
+msgid "This player hasn't been banned (Ban option is disabled)."
+msgstr "Pemain ini tidak dapat dihukum (Hukuman dinonaktifkan)."
+#: map_msg.conf::[509]
+msgctxt "map_msg.conf"
+msgid "Script-bound commands:"
+msgstr "Script-bound commands:"
+#: map_msg.conf::[510]
+msgctxt "map_msg.conf"
+msgid "You have %d new emails (%d unread)"
+msgstr "Kamu memiliki %d pesan baru (ada %d pesan yang belum dibaca)"
+#: map_msg.conf::[515]
+msgctxt "map_msg.conf"
+msgid "Your instance has been reloaded."
+msgstr "Intance kamu sudah dimuat ulang."
+#: map_msg.conf::[516]
+msgctxt "map_msg.conf"
+msgid "Instance database has been reloaded."
+msgstr "Database Instance sudah dimuat ulang."
+#: map_msg.conf::[517]
+msgctxt "map_msg.conf"
+msgid "Auction System is disabled."
+msgstr "Sistem Auction tidak tersedia."
+#: map_msg.conf::[518]
+msgctxt "map_msg.conf"
+msgid "Lower Costume Head, "
+msgstr "Lower Costume Head, "
+#: map_msg.conf::[519]
+msgctxt "map_msg.conf"
+msgid "Top Costume Head, "
+msgstr "Top Costume Head, "
+#: map_msg.conf::[520]
+msgctxt "map_msg.conf"
+msgid "Top/Lower Costume Head, "
+msgstr "Top/Lower Costume Head, "
+#: map_msg.conf::[521]
+msgctxt "map_msg.conf"
+msgid "Mid Costume Head, "
+msgstr "Mid Costume Head, "
+#: map_msg.conf::[522]
+msgctxt "map_msg.conf"
+msgid "Mid/Lower Costume Head, "
+msgstr "Mid/Lower Costume Head, "
+#: map_msg.conf::[523]
+msgctxt "map_msg.conf"
+msgid "Top/Mid/Lower Costume Head, "
+msgstr "Top/Mid/Lower Costume Head, "
+#: map_msg.conf::[524]
+msgctxt "map_msg.conf"
+msgid "Costume Robe, "
+msgstr "Costume Robe, "
+#: map_msg.conf::[525]
+msgctxt "map_msg.conf"
+msgid "Costume Floor, "
+msgstr "Costume Floor, "
+#: map_msg.conf::[526]
+msgctxt "map_msg.conf"
+msgid "Ammo, "
+msgstr "Ammo, "
+#: map_msg.conf::[527]
+msgctxt "map_msg.conf"
+msgid "Shadow Body, "
+msgstr "Shadow Body, "
+#: map_msg.conf::[528]
+msgctxt "map_msg.conf"
+msgid "Shadow Right Hand, "
+msgstr "Shadow Right Hand, "
+#: map_msg.conf::[529]
+msgctxt "map_msg.conf"
+msgid "Shadow Left Hand, "
+msgstr "Shadow Left Hand, "
+#: map_msg.conf::[530]
+msgctxt "map_msg.conf"
+msgid "Shadow Both Hands, "
+msgstr "Shadow Both Hands, "
+#: map_msg.conf::[531]
+msgctxt "map_msg.conf"
+msgid "Shadow Shoes, "
+msgstr "Shadow Shoes, "
+#: map_msg.conf::[532]
+msgctxt "map_msg.conf"
+msgid "Shadow Right Accessory, "
+msgstr "Shadow Right Accessory, "
+#: map_msg.conf::[533]
+msgctxt "map_msg.conf"
+msgid "Shadow Left Accessory, "
+msgstr "Shadow Left Accessory, "
+#: map_msg.conf::[534]
+msgctxt "map_msg.conf"
+msgid "Shop is out of stock! Please come back later."
+msgstr "Toko kehabisan stok! Datang lagi nanti."
+#: map_msg.conf::[535]
+msgctxt "map_msg.conf"
+msgid "Possible use of BOT (99%% of chance) or modified client by '%s' (account: %d, char_id: %d). This player ask your name when you are hidden."
+msgstr "Kemungkinan BOT (99%%) atau client yang digunakan sudah dimodifikasi '%s' (akun: %d, char_id: %d). Pemain ini bisa melihat nama kamu saat kamu sedang tidak terlihat."
+#: map_msg.conf::[536]
+msgctxt "map_msg.conf"
+msgid "Character '%s' (account: %d) is trying to use a bot (it tries to detect a fake player)."
+msgstr "Karakter '%s' (akun: %d) sedang mencoba menggunakan bot (Pemain ini sedang mencoba mendeteksi pemain umpan)."
+#: map_msg.conf::[537]
+msgctxt "map_msg.conf"
+msgid "Character '%s' (account: %d) is trying to use a bot (it tries to detect a fake mob)."
+msgstr "Karakter '%s' (akun: %d) sedang mencoba menggunakan bot (Pemain ini sedang mencoba mendeteksi monster umpan)."
+#: map_msg.conf::[538]
+msgctxt "map_msg.conf"
+msgid "Hack on trade: character '%s' (account: %d) try to trade more items that he has."
+msgstr "Hack pada transaksi: Karakter '%s' (akun: %d) sedang mencoba mentransaksikan item lebih dari yang dia punya."
+#: map_msg.conf::[539]
+msgctxt "map_msg.conf"
+msgid "This player has %d of a kind of item (id: %hu), and tried to trade %d of them."
+msgstr "Pemain ini memiliki %d jenis item (id: %hu), dan sedang mencoba untuk mentransaksikan %d item."
+#: map_msg.conf::[540]
+msgctxt "map_msg.conf"
+msgid "This player has been definitivly blocked."
+msgstr "Pemain ini sudah diblok."
+#: map_msg.conf::[541]
+msgctxt "map_msg.conf"
+msgid "'%s' got %s's %s (chance: %0.02f%%)"
+msgstr "'%s' mendapatkan %s's %s (Kemungkinan: %0.02f%%)"
+#: map_msg.conf::[542]
+msgctxt "map_msg.conf"
+msgid "'%s' stole %s's %s (chance: %0.02f%%)"
+msgstr "'%s' mencuri %s's %s (Kemungkinan: %0.02f%%)"
+#: map_msg.conf::[549]
+msgctxt "map_msg.conf"
+msgid "You should have a shop open to use @autotrade."
+msgstr "Kamu harus membuka sebuah toko dulu sebelum menggunakan @autotrade."
+#: map_msg.conf::[550]
+msgctxt "map_msg.conf"
+msgid "Novice"
+msgstr ""
+#: map_msg.conf::[551]
+msgctxt "map_msg.conf"
+msgid "Swordsman"
+msgstr ""
+#: map_msg.conf::[552]
+msgctxt "map_msg.conf"
+msgid "Magician"
+msgstr ""
+#: map_msg.conf::[553]
+msgctxt "map_msg.conf"
+msgid "Archer"
+msgstr ""
+#: map_msg.conf::[554]
+msgctxt "map_msg.conf"
+msgid "Acolyte"
+msgstr ""
+#: map_msg.conf::[555]
+msgctxt "map_msg.conf"
+msgid "Merchant"
+msgstr ""
+#: map_msg.conf::[556]
+msgctxt "map_msg.conf"
+msgid "Thief"
+msgstr ""
+#: map_msg.conf::[557]
+msgctxt "map_msg.conf"
+msgid "Knight"
+msgstr ""
+#: map_msg.conf::[558]
+msgctxt "map_msg.conf"
+msgid "Priest"
+msgstr ""
+#: map_msg.conf::[559]
+msgctxt "map_msg.conf"
+msgid "Wizard"
+msgstr ""
+#: map_msg.conf::[560]
+msgctxt "map_msg.conf"
+msgid "Blacksmith"
+msgstr ""
+#: map_msg.conf::[561]
+msgctxt "map_msg.conf"
+msgid "Hunter"
+msgstr ""
+#: map_msg.conf::[562]
+msgctxt "map_msg.conf"
+msgid "Assassin"
+msgstr ""
+#: map_msg.conf::[563]
+msgctxt "map_msg.conf"
+msgid "Crusader"
+msgstr ""
+#: map_msg.conf::[564]
+msgctxt "map_msg.conf"
+msgid "Monk"
+msgstr ""
+#: map_msg.conf::[565]
+msgctxt "map_msg.conf"
+msgid "Sage"
+msgstr ""
+#: map_msg.conf::[566]
+msgctxt "map_msg.conf"
+msgid "Rogue"
+msgstr ""
+#: map_msg.conf::[567]
+msgctxt "map_msg.conf"
+msgid "Alchemist"
+msgstr ""
+#: map_msg.conf::[568]
+msgctxt "map_msg.conf"
+msgid "Bard"
+msgstr ""
+#: map_msg.conf::[569]
+msgctxt "map_msg.conf"
+msgid "Dancer"
+msgstr ""
+#: map_msg.conf::[570]
+msgctxt "map_msg.conf"
+msgid "Wedding"
+msgstr ""
+#: map_msg.conf::[571]
+msgctxt "map_msg.conf"
+msgid "Super Novice"
+msgstr ""
+#: map_msg.conf::[572]
+msgctxt "map_msg.conf"
+msgid "Gunslinger"
+msgstr ""
+#: map_msg.conf::[573]
+msgctxt "map_msg.conf"
+msgid "Ninja"
+msgstr ""
+#: map_msg.conf::[574]
+msgctxt "map_msg.conf"
+msgid "Christmas"
+msgstr ""
+#: map_msg.conf::[575]
+msgctxt "map_msg.conf"
+msgid "High Novice"
+msgstr ""
+#: map_msg.conf::[576]
+msgctxt "map_msg.conf"
+msgid "High Swordsman"
+msgstr ""
+#: map_msg.conf::[577]
+msgctxt "map_msg.conf"
+msgid "High Magician"
+msgstr ""
+#: map_msg.conf::[578]
+msgctxt "map_msg.conf"
+msgid "High Archer"
+msgstr ""
+#: map_msg.conf::[579]
+msgctxt "map_msg.conf"
+msgid "High Acolyte"
+msgstr ""
+#: map_msg.conf::[580]
+msgctxt "map_msg.conf"
+msgid "High Merchant"
+msgstr ""
+#: map_msg.conf::[581]
+msgctxt "map_msg.conf"
+msgid "High Thief"
+msgstr ""
+#: map_msg.conf::[582]
+msgctxt "map_msg.conf"
+msgid "Lord Knight"
+msgstr ""
+#: map_msg.conf::[583]
+msgctxt "map_msg.conf"
+msgid "High Priest"
+msgstr ""
+#: map_msg.conf::[584]
+msgctxt "map_msg.conf"
+msgid "High Wizard"
+msgstr ""
+#: map_msg.conf::[585]
+msgctxt "map_msg.conf"
+msgid "Whitesmith"
+msgstr ""
+#: map_msg.conf::[586]
+msgctxt "map_msg.conf"
+msgid "Sniper"
+msgstr ""
+#: map_msg.conf::[587]
+msgctxt "map_msg.conf"
+msgid "Assassin Cross"
+msgstr ""
+#: map_msg.conf::[588]
+msgctxt "map_msg.conf"
+msgid "Paladin"
+msgstr ""
+#: map_msg.conf::[589]
+msgctxt "map_msg.conf"
+msgid "Champion"
+msgstr ""
+#: map_msg.conf::[590]
+msgctxt "map_msg.conf"
+msgid "Professor"
+msgstr ""
+#: map_msg.conf::[591]
+msgctxt "map_msg.conf"
+msgid "Stalker"
+msgstr ""
+#: map_msg.conf::[592]
+msgctxt "map_msg.conf"
+msgid "Creator"
+msgstr ""
+#: map_msg.conf::[593]
+msgctxt "map_msg.conf"
+msgid "Clown"
+msgstr ""
+#: map_msg.conf::[594]
+msgctxt "map_msg.conf"
+msgid "Gypsy"
+msgstr ""
+#: map_msg.conf::[595]
+msgctxt "map_msg.conf"
+msgid "Baby Novice"
+msgstr ""
+#: map_msg.conf::[596]
+msgctxt "map_msg.conf"
+msgid "Baby Swordsman"
+msgstr ""
+#: map_msg.conf::[597]
+msgctxt "map_msg.conf"
+msgid "Baby Magician"
+msgstr ""
+#: map_msg.conf::[598]
+msgctxt "map_msg.conf"
+msgid "Baby Archer"
+msgstr ""
+#: map_msg.conf::[599]
+msgctxt "map_msg.conf"
+msgid "Baby Acolyte"
+msgstr ""
+#: map_msg.conf::[600]
+msgctxt "map_msg.conf"
+msgid "Baby Merchant"
+msgstr ""
+#: map_msg.conf::[601]
+msgctxt "map_msg.conf"
+msgid "Baby Thief"
+msgstr ""
+#: map_msg.conf::[602]
+msgctxt "map_msg.conf"
+msgid "Baby Knight"
+msgstr ""
+#: map_msg.conf::[603]
+msgctxt "map_msg.conf"
+msgid "Baby Priest"
+msgstr ""
+#: map_msg.conf::[604]
+msgctxt "map_msg.conf"
+msgid "Baby Wizard"
+msgstr ""
+#: map_msg.conf::[605]
+msgctxt "map_msg.conf"
+msgid "Baby Blacksmith"
+msgstr ""
+#: map_msg.conf::[606]
+msgctxt "map_msg.conf"
+msgid "Baby Hunter"
+msgstr ""
+#: map_msg.conf::[607]
+msgctxt "map_msg.conf"
+msgid "Baby Assassin"
+msgstr ""
+#: map_msg.conf::[608]
+msgctxt "map_msg.conf"
+msgid "Baby Crusader"
+msgstr ""
+#: map_msg.conf::[609]
+msgctxt "map_msg.conf"
+msgid "Baby Monk"
+msgstr ""
+#: map_msg.conf::[610]
+msgctxt "map_msg.conf"
+msgid "Baby Sage"
+msgstr ""
+#: map_msg.conf::[611]
+msgctxt "map_msg.conf"
+msgid "Baby Rogue"
+msgstr ""
+#: map_msg.conf::[612]
+msgctxt "map_msg.conf"
+msgid "Baby Alchemist"
+msgstr ""
+#: map_msg.conf::[613]
+msgctxt "map_msg.conf"
+msgid "Baby Bard"
+msgstr ""
+#: map_msg.conf::[614]
+msgctxt "map_msg.conf"
+msgid "Baby Dancer"
+msgstr ""
+#: map_msg.conf::[615]
+msgctxt "map_msg.conf"
+msgid "Super Baby"
+msgstr ""
+#: map_msg.conf::[616]
+msgctxt "map_msg.conf"
+msgid "Taekwon"
+msgstr ""
+#: map_msg.conf::[617]
+msgctxt "map_msg.conf"
+msgid "Star Gladiator"
+msgstr ""
+#: map_msg.conf::[618]
+msgctxt "map_msg.conf"
+msgid "Soul Linker"
+msgstr ""
+#: map_msg.conf::[621]
+msgctxt "map_msg.conf"
+msgid "Summer"
+msgstr ""
+#: map_msg.conf::[622]
+msgctxt "map_msg.conf"
+msgid "Gangsi"
+msgstr ""
+#: map_msg.conf::[623]
+msgctxt "map_msg.conf"
+msgid "Death Knight"
+msgstr ""
+#: map_msg.conf::[624]
+msgctxt "map_msg.conf"
+msgid "Dark Collector"
+msgstr ""
+#: map_msg.conf::[625]
+msgctxt "map_msg.conf"
+msgid "Rune Knight"
+msgstr ""
+#: map_msg.conf::[626]
+msgctxt "map_msg.conf"
+msgid "Warlock"
+msgstr ""
+#: map_msg.conf::[627]
+msgctxt "map_msg.conf"
+msgid "Ranger"
+msgstr ""
+#: map_msg.conf::[628]
+msgctxt "map_msg.conf"
+msgid "Arch Bishop"
+msgstr ""
+#: map_msg.conf::[629]
+msgctxt "map_msg.conf"
+msgid "Mechanic"
+msgstr ""
+#: map_msg.conf::[630]
+msgctxt "map_msg.conf"
+msgid "Guillotine Cross"
+msgstr ""
+#: map_msg.conf::[631]
+msgctxt "map_msg.conf"
+msgid "Royal Guard"
+msgstr ""
+#: map_msg.conf::[632]
+msgctxt "map_msg.conf"
+msgid "Sorcerer"
+msgstr ""
+#: map_msg.conf::[633]
+msgctxt "map_msg.conf"
+msgid "Minstrel"
+msgstr ""
+#: map_msg.conf::[634]
+msgctxt "map_msg.conf"
+msgid "Wanderer"
+msgstr ""
+#: map_msg.conf::[635]
+msgctxt "map_msg.conf"
+msgid "Sura"
+msgstr ""
+#: map_msg.conf::[636]
+msgctxt "map_msg.conf"
+msgid "Genetic"
+msgstr ""
+#: map_msg.conf::[637]
+msgctxt "map_msg.conf"
+msgid "Shadow Chaser"
+msgstr ""
+#: map_msg.conf::[638]
+msgctxt "map_msg.conf"
+msgid "Baby Rune Knight"
+msgstr ""
+#: map_msg.conf::[639]
+msgctxt "map_msg.conf"
+msgid "Baby Warlock"
+msgstr ""
+#: map_msg.conf::[640]
+msgctxt "map_msg.conf"
+msgid "Baby Ranger"
+msgstr ""
+#: map_msg.conf::[641]
+msgctxt "map_msg.conf"
+msgid "Baby Arch Bishop"
+msgstr ""
+#: map_msg.conf::[642]
+msgctxt "map_msg.conf"
+msgid "Baby Mechanic"
+msgstr ""
+#: map_msg.conf::[643]
+msgctxt "map_msg.conf"
+msgid "Baby Guillotine Cross"
+msgstr ""
+#: map_msg.conf::[644]
+msgctxt "map_msg.conf"
+msgid "Baby Royal Guard"
+msgstr ""
+#: map_msg.conf::[645]
+msgctxt "map_msg.conf"
+msgid "Baby Sorcerer"
+msgstr ""
+#: map_msg.conf::[646]
+msgctxt "map_msg.conf"
+msgid "Baby Minstrel"
+msgstr ""
+#: map_msg.conf::[647]
+msgctxt "map_msg.conf"
+msgid "Baby Wanderer"
+msgstr ""
+#: map_msg.conf::[648]
+msgctxt "map_msg.conf"
+msgid "Baby Sura"
+msgstr ""
+#: map_msg.conf::[649]
+msgctxt "map_msg.conf"
+msgid "Baby Genetic"
+msgstr ""
+#: map_msg.conf::[650]
+msgctxt "map_msg.conf"
+msgid "Baby Shadow Chaser"
+msgstr ""
+#: map_msg.conf::[651]
+msgctxt "map_msg.conf"
+msgid "Expanded Super Novice"
+msgstr ""
+#: map_msg.conf::[652]
+msgctxt "map_msg.conf"
+msgid "Expanded Super Baby"
+msgstr ""
+#: map_msg.conf::[653]
+msgctxt "map_msg.conf"
+msgid "Kagerou"
+msgstr ""
+#: map_msg.conf::[654]
+msgctxt "map_msg.conf"
+msgid "Oboro"
+msgstr ""
+#: map_msg.conf::[655]
+msgctxt "map_msg.conf"
+msgid "Unknown Job"
+msgstr "Job Tidak Diketahui"
+#: map_msg.conf::[656]
+msgctxt "map_msg.conf"
+msgid "Tomb"
+msgstr "Batu nisan"
+#: map_msg.conf::[657]
+msgctxt "map_msg.conf"
+msgid "[ ^EE0000%s^000000 ]"
+msgstr "[ ^EE0000%s^000000 ]"
+#: map_msg.conf::[658]
+msgctxt "map_msg.conf"
+msgid "Has met its demise"
+msgstr "Telah menemui kehancurannya"
+#: map_msg.conf::[659]
+msgctxt "map_msg.conf"
+msgid "Time of death : ^EE0000%s^000000"
+msgstr "Waktu kematian : ^EE0000%s^000000"
+#: map_msg.conf::[660]
+msgctxt "map_msg.conf"
+msgid "Defeated by"
+msgstr "Dikalahkan oleh"
+#: map_msg.conf::[661]
+msgctxt "map_msg.conf"
+msgid "[^EE0000%s^000000]"
+msgstr "[^EE0000%s^000000]"
+#: map_msg.conf::[662]
+msgctxt "map_msg.conf"
+msgid "You must be at least %d cells away from any NPC."
+msgstr "Kamu harus setidaknya %d kotak jauhnya dari NPC."
+#: map_msg.conf::[663]
+msgctxt "map_msg.conf"
+msgid "Duel: Can't use this item in duel."
+msgstr "Duel: Tidak dapat menggunakan item ini saat duel."
+#: map_msg.conf::[664]
+msgctxt "map_msg.conf"
+msgid "You cannot use this command when dead."
+msgstr "Kamu tidak dapat menggunakan perintah ini ketika mati."
+#: map_msg.conf::[665]
+msgctxt "map_msg.conf"
+msgid "Can't create chat rooms in this area."
+msgstr "Tidak dapat membuat ruang chat di area ini."
+#: map_msg.conf::[666]
+msgctxt "map_msg.conf"
+msgid "Pets are not allowed in Guild Wars."
+msgstr "Peliharaan tidak diperbolehkan di Guild Wars."
+#: map_msg.conf::[667]
+msgctxt "map_msg.conf"
+msgid "You're not dead."
+msgstr "Kamu tidak mati."
+#: map_msg.conf::[668]
+msgctxt "map_msg.conf"
+msgid "Your actual memo positions are:"
+msgstr "Posisi memomu saat ini adalah:"
+#: map_msg.conf::[669]
+msgctxt "map_msg.conf"
+msgid "You broke the target's weapon."
+msgstr "Kamu menghancurkan senajta lawan."
+#: map_msg.conf::[670]
+msgctxt "map_msg.conf"
+msgid "You can't leave battleground guilds."
+msgstr "Kamu tidak dapat meninggalkan guild battleground."
+#: map_msg.conf::[671]
+msgctxt "map_msg.conf"
+msgid "Friend already exists."
+msgstr "Teman sudah ada."
+#: map_msg.conf::[672]
+msgctxt "map_msg.conf"
+msgid "Name not found in list."
+msgstr "Nama tidak ditemukan di daftar."
+#: map_msg.conf::[673]
+msgctxt "map_msg.conf"
+msgid "This action can't be performed at the moment. Please try again later."
+msgstr "Aksi ini tidak dapat dilakukan pada saat ini. Cobalah beberapa saat lagi."
+#: map_msg.conf::[674]
+msgctxt "map_msg.conf"
+msgid "Friend removed."
+msgstr "Teman dihilangkan."
+#: map_msg.conf::[675]
+msgctxt "map_msg.conf"
+msgid "Cannot send mails too fast!!"
+msgstr "Tidak dapat mengirimkan beberapa surat terlalu cepat!"
+#: map_msg.conf::[676]
+msgctxt "map_msg.conf"
+msgid "Alliances cannot be made during Guild Wars!"
+msgstr "Aliansi tidak dapat dibuat ketika Guild Wars!"
+#: map_msg.conf::[677]
+msgctxt "map_msg.conf"
+msgid "Alliances cannot be broken during Guild Wars!"
+msgstr "Aliansi tidak dapat dibatalkan saat Guild Wars!"
+#: map_msg.conf::[678]
+msgctxt "map_msg.conf"
+msgid "You are no longer the Guild Master."
+msgstr "Kamu bukan lagi Ketua Guild."
+#: map_msg.conf::[679]
+msgctxt "map_msg.conf"
+msgid "You have become the Guild Master!"
+msgstr "Kamu telah menjadi Ketua Guild!"
+#: map_msg.conf::[680]
+msgctxt "map_msg.conf"
+msgid "You have been recovered!"
+msgstr "Kamu telah dipulihkan!"
+#: map_msg.conf::[681]
+msgctxt "map_msg.conf"
+msgid "Rune Knight T"
+msgstr ""
+#: map_msg.conf::[682]
+msgctxt "map_msg.conf"
+msgid "Warlock T"
+msgstr ""
+#: map_msg.conf::[683]
+msgctxt "map_msg.conf"
+msgid "Ranger T"
+msgstr ""
+#: map_msg.conf::[684]
+msgctxt "map_msg.conf"
+msgid "Arch Bishop T"
+msgstr ""
+#: map_msg.conf::[685]
+msgctxt "map_msg.conf"
+msgid "Mechanic T"
+msgstr ""
+#: map_msg.conf::[686]
+msgctxt "map_msg.conf"
+msgid "Guillotine Cross T"
+msgstr ""
+#: map_msg.conf::[687]
+msgctxt "map_msg.conf"
+msgid "Royal Guard T"
+msgstr ""
+#: map_msg.conf::[688]
+msgctxt "map_msg.conf"
+msgid "Sorcerer T"
+msgstr ""
+#: map_msg.conf::[689]
+msgctxt "map_msg.conf"
+msgid "Minstrel T"
+msgstr ""
+#: map_msg.conf::[690]
+msgctxt "map_msg.conf"
+msgid "Wanderer T"
+msgstr ""
+#: map_msg.conf::[691]
+msgctxt "map_msg.conf"
+msgid "Sura T"
+msgstr ""
+#: map_msg.conf::[692]
+msgctxt "map_msg.conf"
+msgid "Genetic T"
+msgstr ""
+#: map_msg.conf::[693]
+msgctxt "map_msg.conf"
+msgid "Shadow Chaser T"
+msgstr ""
+#: map_msg.conf::[694]
+msgctxt "map_msg.conf"
+msgid "Hanbok"
+msgstr ""
+#: map_msg.conf::[695]
+msgctxt "map_msg.conf"
+msgid "Rebellion"
+msgstr ""
+#: map_msg.conf::[696]
+msgctxt "map_msg.conf"
+msgid "Oktoberfest"
+msgstr ""
+#: map_msg.conf::[700]
+msgctxt "map_msg.conf"
+msgid "Usage: @vip <time> <character name>"
+msgstr "Penggunaan: @vip <waktu> <nama pemain>"
+#: map_msg.conf::[701]
+msgctxt "map_msg.conf"
+msgid "Invalid time for VIP command."
+msgstr "Waktu yang dimasukkan salah."
+#: map_msg.conf::[702]
+msgctxt "map_msg.conf"
+msgid "Time parameter format is +/-<value> to alter. y/a = Year, m = Month, d/j = Day, h = Hour, n/mn = Minute, s = Second."
+msgstr "Format waktu yang digunakan +/-<nilai> untuk mengubah. y/a = Tahun, m = Bulan, d/j = Hari, h = Jam, n/mn = Menit, s = Detik."
+#: map_msg.conf::[703]
+msgctxt "map_msg.conf"
+msgid "GM has removed your VIP time."
+msgstr "GM telah menghilangkan waktu VIP anda."
+#: map_msg.conf::[704]
+msgctxt "map_msg.conf"
+msgid "Player is no longer VIP."
+msgstr "Pemain sudah tidak VIP."
+#: map_msg.conf::[705]
+msgctxt "map_msg.conf"
+msgid "Your VIP status is valid for %d years, %d months, %d days, %d hours and %d minutes."
+msgstr "Status VIP anda berlaku dalam %d tahun, %d bulan, %d hari, %d jam dan %d menit."
+#: map_msg.conf::[706]
+msgctxt "map_msg.conf"
+msgid "Player '%s' is now VIP for %d years, %d months, %d days, %d hours and %d minutes."
+msgstr "Pemain '%s' saat ini VIP untuk %d tahun, %d bulan, %d hari, %d jam dan %d menit."
+#: map_msg.conf::[707]
+msgctxt "map_msg.conf"
+msgid "You are VIP until: %s"
+msgstr "VIP anda berlaku hingga: %s"
+#: map_msg.conf::[708]
+msgctxt "map_msg.conf"
+msgid "The player is now VIP until: %s"
+msgstr "Status VIP pemain aktif hingga: %s"
+#: map_msg.conf::[709]
+msgctxt "map_msg.conf"
+msgid "Item %hu has been removed from your inventory."
+msgstr "Item %hu telah dihapus dari inventory anda."
+#: map_msg.conf::[710]
+msgctxt "map_msg.conf"
+msgid "Item %hu has been removed from your cart."
+msgstr "Item %hu telah dihapus dari cart anda."
+#: map_msg.conf::[711]
+msgctxt "map_msg.conf"
+msgid "Item %hu has been removed from your storage."
+msgstr "Item %hu telah dihapus dari storage anda."
+#: map_msg.conf::[712]
+msgctxt "map_msg.conf"
+msgid "You do not have enough %s (%hu)."
+msgstr "%s (%hu) yang kamu miliki tidak cukup."
+#: map_msg.conf::[713]
+msgctxt "map_msg.conf"
+msgid "You do not have enough '%s'."
+msgstr "'%s' yang kamu miliki tidak cukup."
+#: map_msg.conf::[714]
+msgctxt "map_msg.conf"
+msgid "Item Shop List: %s (%hu)"
+msgstr "Item Shop: %s (%hu)"
+#: map_msg.conf::[715]
+msgctxt "map_msg.conf"
+msgid "Point Shop List: '%s'"
+msgstr "Point Shop: '%s'"
+#: map_msg.conf::[716]
+msgctxt "map_msg.conf"
+msgid "Your '%s' now: %d"
+msgstr "'%s' milikmu saat ini: %d"
+#: map_msg.conf::[717]
+msgctxt "map_msg.conf"
+msgid "[%s] has won [%s] from '%s'"
+msgstr "[%s] mendapatkan [%s] dari '%s'"
+#: map_msg.conf::[718]
+msgctxt "map_msg.conf"
+msgid "Personal rate information is not displayed now."
+msgstr "Informasi mengenai rate pribadi tidak akan ditampilkan lagi."
+#: map_msg.conf::[719]
+msgctxt "map_msg.conf"
+msgid "Personal rate information will be shown."
+msgstr "Informasi mengenai rate pribadi akan ditampilkan kembali."
+#: map_msg.conf::[720]
+msgctxt "map_msg.conf"
+msgid "%s is required."
+msgstr "Membutuhkan %s."
+#: map_msg.conf::[721]
+msgctxt "map_msg.conf"
+msgid "[%s] Poison effect was applied to the weapon."
+msgstr "Efek [%s] Poison diberikan ke senjata."
+#: map_msg.conf::[722]
+msgctxt "map_msg.conf"
+msgid "Please equipped with a %s."
+msgstr "Butuh memakai %s."
+#: map_msg.conf::[723]
+msgctxt "map_msg.conf"
+msgid "'%s' is an unknown costume"
+msgstr "Kotum '%s' tidak diketahui."
+#: map_msg.conf::[724]
+msgctxt "map_msg.conf"
+msgid "You're already wearing a(n) '%s' costume, type '@costume' to remove it."
+msgstr "Kamu sudah menggunakan kostum '%s', keti '@costume' untuk melepasnya."
+#: map_msg.conf::[725]
+msgctxt "map_msg.conf"
+msgid "-- %s"
+msgstr "-- %s"
+#: map_msg.conf::[726]
+msgctxt "map_msg.conf"
+msgid "- Available Costumes"
+msgstr "- Kostum yang tersedia"
+#: map_msg.conf::[727]
+msgctxt "map_msg.conf"
+msgid "'%s' Costume removed."
+msgstr "Kostum '%s' telah dilepas."
+#: map_msg.conf::[728]
+msgctxt "map_msg.conf"
+msgid "Traaaansformation-!! %s form!!"
+msgstr "Berubaaaaaaaaaah-!! Wujud %s!!"
+#: map_msg.conf::[729]
+msgctxt "map_msg.conf"
+msgid "Cannot transform into monster while in disguise."
+msgstr "Tidat dapat berubah menjadi monster ketika sedang disguise."
+#: map_msg.conf::[730]
+msgctxt "map_msg.conf"
+msgid "Character cannot be disguised while in monster form."
+msgstr "Karakter tidak dapat disguise ketika sedang berwujud monster."
+#: map_msg.conf::[731]
+msgctxt "map_msg.conf"
+msgid "Transforming into monster is not allowed in Guild Wars."
+msgstr "Perubahan menjadi monster tidak diizinkan dalam Guild Wars."
+#: map_msg.conf::[732]
+msgctxt "map_msg.conf"
+msgid "Item cannot be opened when your inventory is full."
+msgstr "Item tidak dapat dibuka ketika inventory penuh."
+#: map_msg.conf::[733]
+msgctxt "map_msg.conf"
+msgid "Item '%s' has not yet saved to your cart. Please re-log in order to correctly save your Vending information."
+msgstr "Item '%s' belum tersimpan di gerobak. Harap masuk kembali untuk dapat menyimpan informasi vending dengan benar."
+#: map_msg.conf::[734]
+msgctxt "map_msg.conf"
+msgid "Cannot clone your own %s."
+msgstr "Tidak dapat mengkloning %s diri sendiri."
+#: map_msg.conf::[735]
+msgctxt "map_msg.conf"
+msgid "Please enter char_id or \"char name\"."
+msgstr "Harap masukkan id_karakter atau \"nama karakter\"."
+#: map_msg.conf::[736]
+msgctxt "map_msg.conf"
+msgid "Cannot clone %s from this player."
+msgstr "Tidak dapat mengkloning %s dari player ini."
+#: map_msg.conf::[737]
+msgctxt "map_msg.conf"
+msgid "'%s' (%d) cannot be cloned, limit (%d)."
+msgstr "Status '%s' (%d) tidak dapat ditiru, batas status (%d)."
+#: map_msg.conf::[738]
+msgctxt "map_msg.conf"
+msgid "Clone '%s' is done."
+msgstr "Kloning '%s' selesai."
+#: map_msg.conf::[900]
+msgctxt "map_msg.conf"
+msgid "Usage:"
+msgstr "Penggunaan:"
+#: map_msg.conf::[901]
+msgctxt "map_msg.conf"
+msgid "@send len <packet hex number>"
+msgstr "   @send len <nomor hex dari paket yang akan dikirim>"
+#: map_msg.conf::[902]
+msgctxt "map_msg.conf"
+msgid "@send <packet hex number> {<value>}*"
+msgstr "    @send <nomor hex dari paket yang akan dikirim> {<data>}*"
+#: map_msg.conf::[903]
+msgctxt "map_msg.conf"
+msgid "Value: <type=B(default),W,L><number> or S<length>\"<string>\""
+msgstr "    Data: <tipe=B(default),W,L><nomor> atau S<panjang>\"<string>\""
+#: map_msg.conf::[904]
+msgctxt "map_msg.conf"
+msgid "Packet 0x%x length: %d"
+msgstr "Paket 0x%x panjang: %d"
+#: map_msg.conf::[905]
+msgctxt "map_msg.conf"
+msgid "Unknown packet: 0x%x"
+msgstr "Paket tidak diketahui: 0x%x"
+#: map_msg.conf::[906]
+msgctxt "map_msg.conf"
+msgid "Not a string:"
+msgstr "Bukan sebuah string:"
+#: map_msg.conf::[907]
+msgctxt "map_msg.conf"
+msgid "Not a hexadecimal digit:"
+msgstr "Bukan nomor hexadecimal:"
+#: map_msg.conf::[908]
+msgctxt "map_msg.conf"
+msgid "Unknown type of value in:"
+msgstr "Tipe yang tidak diketahui dari data:"
+#: map_msg.conf::[909]
+msgctxt "map_msg.conf"
+msgid "Please enter a map (usage: @warp/@rura/@mapmove <mapname> <x> <y>)."
+msgstr "Harap masukkan nama map (Penggunaan: @warp/@rura/@mapmove <nama map> <x> <y>)."
+#: map_msg.conf::[910]
+msgctxt "map_msg.conf"
+msgid "Please enter a player name (usage: @where <char name>)."
+msgstr "Harap masukkan nama pemain (Penggunaan: @where <nama karakter>)."
+#: map_msg.conf::[911]
+msgctxt "map_msg.conf"
+msgid "Please enter a player name (usage: @jumpto/@warpto/@goto <char name/ID>)."
+msgstr "Harap masukkan nama pemain (Penggunaan: @jumpto/@warpto/@goto <nama karakter/ID>)."
+#: map_msg.conf::[912]
+msgctxt "map_msg.conf"
+msgid "(CID:%d/AID:%d)"
+msgstr "(CID:%d/AID:%d) "
+#: map_msg.conf::[913]
+msgctxt "map_msg.conf"
+msgid "Name: %s (GM)"
+msgstr "Nama: %s (GM)"
+#: map_msg.conf::[914]
+msgctxt "map_msg.conf"
+msgid "Name: %s (GM:%d) | Location: %s %d %d"
+msgstr "Nama: %s (GM:%d) | Lokasi: %s %d %d"
+#: map_msg.conf::[915]
+msgctxt "map_msg.conf"
+msgid "BLvl: %d | Job: %s (Lvl: %d)"
+msgstr "      BLvl: %d | Job: %s (Lvl: %d)"
+#: map_msg.conf::[916]
+msgctxt "map_msg.conf"
+msgid "Party: '%s' | Guild: '%s'"
+msgstr "      Party: '%s' | Guild: '%s'"
+#: map_msg.conf::[917]
+msgctxt "map_msg.conf"
+msgid "None"
+msgstr "Tidak ada"
+#: map_msg.conf::[918]
+msgctxt "map_msg.conf"
+msgid "Please enter a speed value (usage: @speed <%d-%d>)."
+msgstr "Harap masukkan angka (Penggunaan: @speed <%d-%d>)."
+#: map_msg.conf::[919]
+msgctxt "map_msg.conf"
+msgid "Storage opened."
+msgstr "Penyimpanan sudah dibuka."
+#: map_msg.conf::[920]
+msgctxt "map_msg.conf"
+msgid "Guild storage opened."
+msgstr "Penyimpanan Guild sudah dibuka."
+#: map_msg.conf::[921]
+msgctxt "map_msg.conf"
+msgid "Please enter at least one option."
+msgstr "Harap masukkan minimal 1 opsi."
+#: map_msg.conf::[922]
+msgctxt "map_msg.conf"
+msgid "Please enter a job ID."
+msgstr "Harap masukkan ID Job."
+#: map_msg.conf::[923]
+msgctxt "map_msg.conf"
+msgid "You can not change to this job by command."
+msgstr "Kamu tidak bisa berganti job menggunakan perintah ini."
+#: map_msg.conf::[980]
+msgctxt "map_msg.conf"
+msgid "Please enter a message (usage: @kami <message>)."
+msgstr "Harap masukkan pesan (Penggunaan: @kami <pesan>)."
+#: map_msg.conf::[981]
+msgctxt "map_msg.conf"
+msgid "Please enter color and message (usage: @kamic <color> <message>)."
+msgstr "Harap masukkan pesan dan warnanya (Penggunaan: @kamic <warna> <pesan>)."
+#: map_msg.conf::[982]
+msgctxt "map_msg.conf"
+msgid "Invalid color."
+msgstr "Warna salah."
+#: map_msg.conf::[983]
+msgctxt "map_msg.conf"
+msgid "Please enter an item name or ID (usage: @item <item name/ID> <quantity>)."
+msgstr "Harap masukkan nama item atau ID (Penggunaan: @item <nama item/ID> <jumlah>)."
+#: map_msg.conf::[984]
+msgctxt "map_msg.conf"
+msgid "Please enter all parameters (usage: @item2 <item name/ID> <quantity>"
+msgstr "Harap masukkan semua parameter (Penggunaan: @item2 <nama item/ID> <jumlah>"
+#: map_msg.conf::[985]
+msgctxt "map_msg.conf"
+msgid "<identify_flag> <refine> <attribute> <card1> <card2> <card3> <card4>)."
+msgstr "  <identifikasi> <level tempa> <atribut> <kartu1> <kartu2> <kartu3> <kartu4>)."
+#: map_msg.conf::[986]
+msgctxt "map_msg.conf"
+msgid "Please enter a level adjustment (usage: @lvup/@blevel/@baselvlup <number of levels>)."
+msgstr "Harap masukkan base level (Penggunaan: @lvup/@blevel/@baselvlup <jumlah level>)."
+#: map_msg.conf::[987]
+msgctxt "map_msg.conf"
+msgid "Please enter a level adjustment (usage: @joblvup/@jlevel/@joblvlup <number of levels>)."
+msgstr "Harap masukkan job level (Penggunaan: @joblvup/@jlevel/@joblvlup <jumlah level>)."
+#: map_msg.conf::[988]
+msgctxt "map_msg.conf"
+msgid "There is no help for %c%s."
+msgstr "Tidak ada informasi yang tersedia untuk %c%s."
+#: map_msg.conf::[989]
+msgctxt "map_msg.conf"
+msgid "Help for command %c%s:"
+msgstr "Informasi untuk perintah %c%s:"
+#: map_msg.conf::[990]
+msgctxt "map_msg.conf"
+msgid "Available aliases:"
+msgstr "Alias yang tersedia:"
+#: map_msg.conf::[991]
+msgctxt "map_msg.conf"
+msgid "Please enter at least one value (usage: @model <hair ID: %d-%d> <hair color: %d-%d> <clothes color: %d-%d>)."
+msgstr "Harap masukkan setidaknya 1 angka (Penggunaan: @model <ID model rambut: %d-%d> <warna rambut: %d-%d> <warna pakaian: %d-%d>)."
+#: map_msg.conf::[992]
+msgctxt "map_msg.conf"
+msgid "Please enter a clothes color (usage: @dye/@ccolor <clothes color: %d-%d>)."
+msgstr "Harap masukkan warna pakaian (Penggunaan: @dye/@ccolor <warna pakaian: %d-%d>)."
+#: map_msg.conf::[993]
+msgctxt "map_msg.conf"
+msgid "Please enter a hair style (usage: @hairstyle/@hstyle <hair ID: %d-%d>)."
+msgstr "Harap masukkan model rambut (Penggunaan: @hairstyle/@hstyle <ID model rambut: %d-%d>)."
+#: map_msg.conf::[994]
+msgctxt "map_msg.conf"
+msgid "Please enter a hair color (usage: @haircolor/@hcolor <hair color: %d-%d>)."
+msgstr "Harap masukkan warna rambut (Penggunaan: @haircolor/@hcolor <warna rambut: %d-%d>)."
+#: map_msg.conf::[995]
+msgctxt "map_msg.conf"
+msgid "You cannot use @go on this map."
+msgstr "Kamu tidak bisa menggunakan @go di map ini."
+#: map_msg.conf::[996]
+msgctxt "map_msg.conf"
+msgid "Please enter a position and an amount (usage: @refine <equip position> <+/- amount>)."
+msgstr "Harap masukkan posisi dan jumlah level tempanya (Penggunaan: @refine <posisi item equip> <+/-jumlah>)."
+#: map_msg.conf::[997]
+msgctxt "map_msg.conf"
+msgid "%d: Lower Headgear"
+msgstr "%d: Kepala bagian bawah"
+#: map_msg.conf::[998]
+msgctxt "map_msg.conf"
+msgid "%d: Right Hand"
+msgstr "%d: Tangan kanan"
+#: map_msg.conf::[999]
+msgctxt "map_msg.conf"
+msgid "%d: Garment"
+msgstr "%d: Jubah"
+#: map_msg.conf::[1000]
+msgctxt "map_msg.conf"
+msgid "%d: Left Accessory"
+msgstr "%d: Aksesoris kiri"
+#: map_msg.conf::[1001]
+msgctxt "map_msg.conf"
+msgid "%d: Body Armor"
+msgstr "%d: Pakaian"
+#: map_msg.conf::[1002]
+msgctxt "map_msg.conf"
+msgid "%d: Left Hand"
+msgstr "%d: Tangan kiri"
+#: map_msg.conf::[1003]
+msgctxt "map_msg.conf"
+msgid "%d: Shoes"
+msgstr "%d: Sepatu"
+#: map_msg.conf::[1004]
+msgctxt "map_msg.conf"
+msgid "%d: Right Accessory"
+msgstr "%d: Aksesoris kanan"
+#: map_msg.conf::[1005]
+msgctxt "map_msg.conf"
+msgid "%d: Top Headgear"
+msgstr "%d: Kepala bagian atas"
+#: map_msg.conf::[1006]
+msgctxt "map_msg.conf"
+msgid "%d: Mid Headgear"
+msgstr "%d: Kepala bagian tengah"
+#: map_msg.conf::[1007]
+msgctxt "map_msg.conf"
+msgid "Please enter at least one item name/ID (usage: @produce <equip name/ID> <element> <# of very's>)."
+msgstr "Harap masukkan minimal 1 ID/nama item. (Penggunaan: @produce <nama item equip/ID> <elemen> <# star crumb>)."
+#: map_msg.conf::[1008]
+msgctxt "map_msg.conf"
+msgid "Please enter a valid position (usage: @memo <memo_position:%d-%d>)."
+msgstr "Harap masukkan posisi yang benar. (Penggunaan: @memo <posisi memo:%d-%d>)."
+#: map_msg.conf::[1009]
+msgctxt "map_msg.conf"
+msgid "Please enter a status type/flag (usage: @displaystatus <status type> <flag> <tick> {<val1> {<val2> {<val3>}}})."
+msgstr "Harap masukkan tipe status. (Penggunaan: @displaystatus <tipe status> <flag> <tick> {<val1> {<val2> {<val3>}}})."
+#: map_msg.conf::[1010]
+msgctxt "map_msg.conf"
+msgid "Please enter a number (usage: @stpoint <number of points>)."
+msgstr "Harap masukkan angka. (Penggunaan: @stpoint <jumlah point>)."
+#: map_msg.conf::[1011]
+msgctxt "map_msg.conf"
+msgid "Please enter a number (usage: @skpoint <number of points>)."
+msgstr "Harap masukkan angka. (penggunaan: @skpoint <jumlah point>)."
+#: map_msg.conf::[1012]
+msgctxt "map_msg.conf"
+msgid "Please enter an amount (usage: @zeny <amount>)."
+msgstr "Harap masukkan jumlah. (Penggunaan: @zeny <jumlah>)."
+#: map_msg.conf::[1013]
+msgctxt "map_msg.conf"
+msgid "Please enter a valid value (usage: @str/@agi/@vit/@int/@dex/@luk <+/-adjustment>)."
+msgstr "Harap masukkan angka yang benar. (Penggunaan: @str/@agi/@vit/@int/@dex/@luk <+/-angka>)."
+#: map_msg.conf::[1014]
+msgctxt "map_msg.conf"
+msgid "Please enter a valid level (usage: @guildlvup/@guildlvlup <# of levels>)."
+msgstr "Harap masukkan level yang benar. (Penggunaan: @guildlvup/@guildlvlup <# level>)."
+#: map_msg.conf::[1015]
+msgctxt "map_msg.conf"
+msgid "Please enter a monster/egg name/ID (usage: @makeegg <pet>)."
+msgstr "Harap masukkan nama monster/nama telur/ID (Penggunaan: @makeegg <peliharaan>)."
+#: map_msg.conf::[1016]
+msgctxt "map_msg.conf"
+msgid "Please enter a valid value (usage: @petfriendly <0-1000>)."
+msgstr "Harap masukkan angka yang benar. (Penggunaan: @petfriendly <0-1000>)."
+#: map_msg.conf::[1017]
+msgctxt "map_msg.conf"
+msgid "Please enter a valid number (usage: @pethungry <0-100>)."
+msgstr "Harap masukkan angka yang benar. (Penggunaan: @pethungry <0-100>)."
+#: map_msg.conf::[1018]
+msgctxt "map_msg.conf"
+msgid "Please enter a player name (usage: @recall <char name/ID>)."
+msgstr "Harap masukkan nama pemain. (Penggunaan: @recall <nama karakter/ID>)."
+#: map_msg.conf::[1019]
+msgctxt "map_msg.conf"
+msgid "You are not authorized to warp someone to this map."
+msgstr "Kamu tidak diperbolehkan untuk menggunakan warp pada orang lain di map ini."
+#: map_msg.conf::[1020]
+msgctxt "map_msg.conf"
+msgid "You are not authorized to warp this player from their map."
+msgstr "Kamu tidak diperbolehkan untuk memindahkan pemain tersebut."
+#: map_msg.conf::[1021]
+msgctxt "map_msg.conf"
+msgid "Please enter a player name (usage: %s <char name>)."
+msgstr "Harap masukkan nama pemain. (Penggunaan: %s <nama karakter>)."
+#: map_msg.conf::[1022]
+msgctxt "map_msg.conf"
+msgid "Please enter ban time and a player name (usage: %s <time> <char name>)."
+msgstr "Harap masukkan waktu hukuman dan nama pemain. (Penggunaan: %s <waktu> <nama karakter>)"
+#: map_msg.conf::[1023]
+msgctxt "map_msg.conf"
+msgid "You are not allowed to alter the time of a ban."
+msgstr "Kamu tidak diperbolehkan untuk mengubah waktu hukuman."
+#: map_msg.conf::[1026]
+msgctxt "map_msg.conf"
+msgid "Please enter a player name (usage: @kick <char name/ID>)."
+msgstr "Harap masukkan nama pemain. (Penggunaan: @kick <nama karakter/ID>)."
+#: map_msg.conf::[1027]
+msgctxt "map_msg.conf"
+msgid "Please enter a quest skill number."
+msgstr "Harap masukkan angka skill quest."
+#: map_msg.conf::[1028]
+msgctxt "map_msg.conf"
+msgid "Please enter an amount (usage: @spiritball <number: 0-%d>)."
+msgstr "Harap masukkan angka. (Penggunaan: @spiritball <jumlah: 0-%d>)."
+#: map_msg.conf::[1029]
+msgctxt "map_msg.conf"
+msgid "Please enter a party name (usage: @party <party_name>)."
+msgstr "Harap masukkan nama party. (Penggunaan: @party <nama party>)."
+#: map_msg.conf::[1030]
+msgctxt "map_msg.conf"
+msgid "Please enter a guild name (usage: @guild <guild_name>)."
+msgstr "Harap masukkan nama guild. (Penggunaan: @guild <nama guild>)."
+#: map_msg.conf::[1031]
+msgctxt "map_msg.conf"
+msgid "Please enter part of an item name (usage: @idsearch <part_of_item_name>)."
+msgstr "Harap masukkan sebagian dari nama item yang akan dicari. (Penggunaan: @idsearch <semua/sebagian dari nama item>)."
+#: map_msg.conf::[1032]
+msgctxt "map_msg.conf"
+msgid "You are not authorized to warp someone to your current map."
+msgstr "Kamu tidak diperbolehkan untuk memindahkan orang lain dari map ini."
+#: map_msg.conf::[1033]
+msgctxt "map_msg.conf"
+msgid "Because you are not authorized to warp from some maps, %d player(s) have not been recalled."
+msgstr "Karena kamu tidak diperbolehkan untuk memindahkan orang dari beberapa map tertentu, %d pemain tidak bisa dipindahkan."
+#: map_msg.conf::[1034]
+msgctxt "map_msg.conf"
+msgid "Please enter a guild name/ID (usage: @guildrecall <guild_name/ID>)."
+msgstr "Harap masukkan nama guild/ID. (Penggunaan: @guildrecall <nama guild/ID>)."
+#: map_msg.conf::[1035]
+msgctxt "map_msg.conf"
+msgid "Please enter a party name/ID (usage: @partyrecall <party_name/ID>)."
+msgstr "Harap masukkan nama party/ID. (Penggunaan: @partyrecall <nama party/ID>)."
+#: map_msg.conf::[1036]
+msgctxt "map_msg.conf"
+msgid "Error reading groups.conf, reload failed."
+msgstr "Terjadi kesalahan saat membaca groups.conf, tidak berhasil dimuat ulang."
+#: map_msg.conf::[1037]
+msgctxt "map_msg.conf"
+msgid "Error reading atcommand_athena.conf, reload failed."
+msgstr "Terjadi kesalahan saat membaca atcommand_athena.conf, tidak berhasil dimuat ulang."
+#: map_msg.conf::[1038]
+msgctxt "map_msg.conf"
+msgid "Please enter at least one valid list number (usage: @mapinfo <0-3> <map>)."
+msgstr "Harap masukkan setidaknya 1 pilihan. (Penggunaan: @mapinfo <0-3> <map>)."
+#: map_msg.conf::[1039]
+msgctxt "map_msg.conf"
+msgid "------ Map Info ------"
+msgstr "------ Map Info ------"
+#: map_msg.conf::[1040]
+msgctxt "map_msg.conf"
+msgid "Map: %s | Players: %d | NPCs: %d | Chats: %d | Vendings: %d"
+msgstr "Map: %s | Pemain: %d | NPC: %d | Ruang Chat: %d | Toko: %d"
+#: map_msg.conf::[1041]
+msgctxt "map_msg.conf"
+msgid "------ Map Flags ------"
+msgstr "------ Map Flags ------"
+#: map_msg.conf::[1042]
+msgctxt "map_msg.conf"
+msgid "Town Map"
+msgstr "Kota"
+#: map_msg.conf::[1043]
+msgctxt "map_msg.conf"
+msgid "Autotrade Enabled"
+msgstr "Autotrade diaktifkan"
+#: map_msg.conf::[1044]
+msgctxt "map_msg.conf"
+msgid "Autotrade Disabled"
+msgstr "Autotrade dinonaktifkan"
+#: map_msg.conf::[1045]
+msgctxt "map_msg.conf"
+msgid "Battlegrounds ON (type %d)"
+msgstr "Battleground ON (tipe %d)"
+#: map_msg.conf::[1046]
+msgctxt "map_msg.conf"
+msgid "PvP Flags:"
+msgstr "PvP Flags: "
+#: map_msg.conf::[1047]
+msgctxt "map_msg.conf"
+msgid "GvG Flags:"
+msgstr "GvG Flags: "
+#: map_msg.conf::[1048]
+msgctxt "map_msg.conf"
+msgid "Teleport Flags:"
+msgstr "Teleport Flags: "
+#: map_msg.conf::[1049]
+msgctxt "map_msg.conf"
+msgid "Weather Flags:"
+msgstr "Cuaca: "
+#: map_msg.conf::[1050]
+msgctxt "map_msg.conf"
+msgid "Other Flags:"
+msgstr "Flag Lainnya: "
+#: map_msg.conf::[1051]
+msgctxt "map_msg.conf"
+msgid "Other Flags2:"
+msgstr "Flag Lainnya2:"
+#: map_msg.conf::[1052]
+msgctxt "map_msg.conf"
+msgid "Skill Damage Adjustments:"
+msgstr "Skill Damage Adjustments:"
+#: map_msg.conf::[1065]
+msgctxt "map_msg.conf"
+msgid "No Exp Penalty: %s | No Zeny Penalty: %s"
+msgstr "Tidak ada pengurangan exp: %s | Tidak ada pengurangan zeny: %s"
+#: map_msg.conf::[1066]
+msgctxt "map_msg.conf"
+msgid "On"
+msgstr "Hidup"
+#: map_msg.conf::[1067]
+msgctxt "map_msg.conf"
+msgid "Off"
+msgstr "Mati"
+#: map_msg.conf::[1068]
+msgctxt "map_msg.conf"
+msgid "No Save (Return to last Save Point)"
+msgstr "Tidak bisa menggunakan Save (Kembali ke Save Point terakhir)"
+#: map_msg.conf::[1069]
+msgctxt "map_msg.conf"
+msgid "No Save, Save Point: %s,Random"
+msgstr "Tidak bisa menggunakan Save, Save Point: %s,Acak"
+#: map_msg.conf::[1070]
+msgctxt "map_msg.conf"
+msgid "No Save, Save Point: %s,%d,%d"
+msgstr "Tidak bisa menggunakan Save, Save Point: %s,%d,%d"
+#: map_msg.conf::[1119]
+msgctxt "map_msg.conf"
+msgid "You have mounted your Dragon."
+msgstr "Kamu sudah menaiki seekor naga."
+#: map_msg.conf::[1120]
+msgctxt "map_msg.conf"
+msgid "You have released your Dragon."
+msgstr "Kamu sudah melepaskan nagamu."
+#: map_msg.conf::[1121]
+msgctxt "map_msg.conf"
+msgid "You have mounted your Warg."
+msgstr "Kamu sudah menaiki seekor Warg."
+#: map_msg.conf::[1122]
+msgctxt "map_msg.conf"
+msgid "You have released your Warg."
+msgstr "Kamu sudah melepaskan Warg."
+#: map_msg.conf::[1123]
+msgctxt "map_msg.conf"
+msgid "You have mounted your Mado Gear."
+msgstr "Kamu sudah menaiki sebuah Mado Gear."
+#: map_msg.conf::[1124]
+msgctxt "map_msg.conf"
+msgid "You have released your Mado Gear."
+msgstr "Kamu sudah melepaskan Mado Gear."
+#: map_msg.conf::[1125]
+msgctxt "map_msg.conf"
+msgid "The mapserver has spy command support disabled."
+msgstr "Perintah 'spy' (memata-matai) dinonaktifkan di mapserver."
+#: map_msg.conf::[1126]
+msgctxt "map_msg.conf"
+msgid "Please enter a guild name/ID (usage: @guildspy <guild_name/ID>)."
+msgstr "Harap masukkan nama/ID guild. (Penggunaan: @guildspy <nama/ID guild>)."
+#: map_msg.conf::[1127]
+msgctxt "map_msg.conf"
+msgid "Please enter a party name/ID (usage: @partyspy <party_name/ID>)."
+msgstr "Harap masukkan nama/ID party. (Penggunaan: @partyspy <nama/ID party>)."
+#: map_msg.conf::[1128]
+msgctxt "map_msg.conf"
+msgid "Please enter a player name (usage: @nuke <char name>)."
+msgstr "Harap masukkan nama pemain. (Penggunaan: @nuke <nama karakter>)."
+#: map_msg.conf::[1129]
+msgctxt "map_msg.conf"
+msgid "Please enter a NPC name (usage: @tonpc <NPC_name>)."
+msgstr "Harap masukkan nama NPC. (Penggunaan: @tonpc <nama npc>)."
+#: map_msg.conf::[1130]
+msgctxt "map_msg.conf"
+msgid "Please enter a NPC name (usage: @enablenpc <NPC_name>)."
+msgstr "Harap masukkan nama NPC. (Penggunaan: @enablenpc <nama npc>)."
+#: map_msg.conf::[1131]
+msgctxt "map_msg.conf"
+msgid "Please enter a NPC name (usage: @hidenpc <NPC_name>)."
+msgstr "Harap masukkan nama NPC. (Penggunaan: @hidenpc <nama npc>)."
+#: map_msg.conf::[1132]
+msgctxt "map_msg.conf"
+msgid "Please enter a script file name (usage: @loadnpc <file name>)."
+msgstr "Harap masukkan nama file (full path). (Penggunaan: @loadnpc <nama file>)."
+#: map_msg.conf::[1133]
+msgctxt "map_msg.conf"
+msgid "Please enter a NPC name (usage: @unloadnpc <NPC_name>)."
+msgstr "Harap masukkan nama NPC. (Penggunaan: @unloadnpc <nama npc>)."
+#: map_msg.conf::[1134]
+msgctxt "map_msg.conf"
+msgid "Please enter a player name (usage: @jail <char_name>)."
+msgstr "Harap masukkan nama pemain. (Penggunaan: @jail <nama karakter>)."
+#: map_msg.conf::[1135]
+msgctxt "map_msg.conf"
+msgid "Please enter a player name (usage: @unjail/@discharge <char_name>)."
+msgstr "Harap masukkan nama pemain. (Penggunaan: @unjail/@discharge <nama karakter>)."
+#: map_msg.conf::[1136]
+msgctxt "map_msg.conf"
+msgid "Invalid time for jail command."
+msgstr "Waktu yang digunakan salah."
+#: map_msg.conf::[1137]
+msgctxt "map_msg.conf"
+msgid "You are now"
+msgstr "Kamu sekarang "
+#: map_msg.conf::[1138]
+msgctxt "map_msg.conf"
+msgid "This player is now"
+msgstr "Pemain ini sekarang "
+#: map_msg.conf::[1139]
+msgctxt "map_msg.conf"
+msgid "You are not in jail."
+msgstr "Kamu tidak sedang dipenjara."
+#: map_msg.conf::[1140]
+msgctxt "map_msg.conf"
+msgid "You have been jailed indefinitely."
+msgstr "Kamu sudah dipenjara untuk waktu yang lama."
+#: map_msg.conf::[1141]
+msgctxt "map_msg.conf"
+msgid "You have been jailed for an unknown amount of time."
+msgstr "Kamu dipenjara untuk waktu yang tidak ditentukan."
+#: map_msg.conf::[1142]
+msgctxt "map_msg.conf"
+msgid "You will remain"
+msgstr "Kamu akan tetap "
+#: map_msg.conf::[1143]
+msgctxt "map_msg.conf"
+msgid "Please enter a Monster/NPC name/ID (usage: @disguise <name/ID>)."
+msgstr "Harap masukkan nama/ID Monster/NPC. (Penggunaan: @disguise <nama/ID>)."
+#: map_msg.conf::[1144]
+msgctxt "map_msg.conf"
+msgid "Character cannot be disguised while mounted."
+msgstr "Karakter ini tidak bisa berubah wujud karena sedang menunggangi sesuatu."
+#: map_msg.conf::[1145]
+msgctxt "map_msg.conf"
+msgid "Please enter a Monster/NPC name/ID (usage: @disguiseall <name/ID>)."
+msgstr "Harap masukkan nama/ID Monster/NPC. (Penggunaan: @disguiseall <nama/ID>)."
+#: map_msg.conf::[1146]
+msgctxt "map_msg.conf"
+msgid "Please enter a mob name/ID and guild name/ID (usage: @disguiseguild <mob name/ID>, <guild name/ID>)."
+msgstr "Harap masukkan nama/ID monster dan nama/iD guild. (Penggunaan: @disguiseguild <nama/ID monster>, <nama/ID guild>)."
+#: map_msg.conf::[1147]
+msgctxt "map_msg.conf"
+msgid "Please enter guild name/ID (usage: @undisguiseguild <guild name/ID>)."
+msgstr "Harap masukkan nama/ID guild. (Penggunaan: @undisguiseguild <nama/ID guild>)."
+#: map_msg.conf::[1148]
+msgctxt "map_msg.conf"
+msgid "Base Level: %d (%.3f%%) | Job Level: %d (%.3f%%)"
+msgstr "Base Level: %d (%.3f%%) | Job Level: %d (%.3f%%)"
+#: map_msg.conf::[1149]
+msgctxt "map_msg.conf"
+msgid "Please enter a message (usage: @broadcast <message>)."
+msgstr "Harap masukkan pesan. (Penggunaan: @broadcast <pesan>)."
+#: map_msg.conf::[1150]
+msgctxt "map_msg.conf"
+msgid "Please enter a message (usage: @localbroadcast <message>)."
+msgstr "Harap masukkan pesan. (Penggunaan: @localbroadcast <pesan>)."
+#: map_msg.conf::[1151]
+msgctxt "map_msg.conf"
+msgid "Please enter 2 emails (usage: @email <actual@email> <new@email>)."
+msgstr "Harap masukkan 2 alamat email. (Penggunaan: @email <lama@email> <baru@email>)."
+#: map_msg.conf::[1152]
+msgctxt "map_msg.conf"
+msgid "Please enter an effect number (usage: @effect <effect number>)."
+msgstr "Harap masukkan nomor efek. (Penggunaan: @effect <nomor efek>)."
+#: map_msg.conf::[1153]
+msgctxt "map_msg.conf"
+msgid "Usage: @npcmove <X> <Y> <npc_name>"
+msgstr "Penggunaan: @npcmove <X> <Y> <nama_npc>"
+#: map_msg.conf::[1154]
+msgctxt "map_msg.conf"
+msgid "NPC is not on this map."
+msgstr "NPC tidak berada di map ini."
+#: map_msg.conf::[1155]
+msgctxt "map_msg.conf"
+msgid "NPC moved."
+msgstr "NPC dipindahkan."
+#: map_msg.conf::[1156]
+msgctxt "map_msg.conf"
+msgid "Usage: @addwarp <mapname> <X> <Y> <npc name>"
+msgstr "Penggunaan: @addwarp <nama map> <X> <Y> <nama npc>"
+#: map_msg.conf::[1157]
+msgctxt "map_msg.conf"
+msgid "Unknown map '%s'."
+msgstr "Map tidak diketahui '%s'."
+#: map_msg.conf::[1158]
+msgctxt "map_msg.conf"
+msgid "New warp NPC '%s' created."
+msgstr "NPC warp baru  '%s' dibuat."
+#: map_msg.conf::[1159]
+msgctxt "map_msg.conf"
+msgid "Follow mode OFF."
+msgstr "Mode Follow OFF."
+#: map_msg.conf::[1160]
+msgctxt "map_msg.conf"
+msgid "Follow mode ON."
+msgstr "Mode Follow ON."
+#: map_msg.conf::[1161]
+msgctxt "map_msg.conf"
+msgid "You currently cannot open your storage."
+msgstr "Saat ini kamu tidak bisa membuka penyimpanan."
+#: map_msg.conf::[1162]
+msgctxt "map_msg.conf"
+msgid "All items stored."
+msgstr "Semua item disimpan."
+#: map_msg.conf::[1163]
+msgctxt "map_msg.conf"
+msgid "Please enter a skill name to look up (usage: @skillid <skill name>)."
+msgstr "Harap masukkan nama skill untuk dilihat. (Penggunaan: @skillid <nama skill>)."
+#: map_msg.conf::[1164]
+msgctxt "map_msg.conf"
+msgid "skill %d: %s (%s)"
+msgstr "skill %d: %s (%s)"
+#: map_msg.conf::[1165]
+msgctxt "map_msg.conf"
+msgid "Usage: @useskill <skill ID> <skill level> <target>"
+msgstr "Penggunaan: @useskill <ID skill> <level skill> <sasaran>"
+#: map_msg.conf::[1166]
+msgctxt "map_msg.conf"
+msgid "Usage: @displayskill <skill ID> {<skill level>}"
+msgstr "Penggunaan: @displayskill <ID skill> {<level skill>}"
+#: map_msg.conf::[1167]
+msgctxt "map_msg.conf"
+msgid "Usage: @skilltree <skill ID> <target>"
+msgstr "Penggunaan: @skilltree <ID skill> <sasaran>"
+#: map_msg.conf::[1168]
+msgctxt "map_msg.conf"
+msgid "Player is using %s skill tree (%d basic points)."
+msgstr "Pemain menggunakan pohon skill %s (%d point dasar)."
+#: map_msg.conf::[1169]
+msgctxt "map_msg.conf"
+msgid "The player cannot use that skill."
+msgstr "Pemain tidak dapat menggunakan skill tersebut."
+#: map_msg.conf::[1170]
+msgctxt "map_msg.conf"
+msgid "Player requires level %d of skill %s."
+msgstr "Pemain membutuhkan level %d dari skill %s."
+#: map_msg.conf::[1171]
+msgctxt "map_msg.conf"
+msgid "The player meets all the requirements for that skill."
+msgstr "Pemain memenuhi semua persyaratan untuk skill tersebut."
+#: map_msg.conf::[1172]
+msgctxt "map_msg.conf"
+msgid "Usage: @marry <char name>"
+msgstr "Penggunaan: @marry <nama karakter>"
+#: map_msg.conf::[1173]
+msgctxt "map_msg.conf"
+msgid "They are married... wish them well."
+msgstr "Mereka berdua telah dinikahkan... Selamat menempuh hidup baru!"
+#: map_msg.conf::[1174]
+msgctxt "map_msg.conf"
+msgid "The two cannot wed because one is either a baby or already married."
+msgstr "Mereka tidak dapat menikah karena satu diantaranya adalah baby atau sudah menikah."
+#: map_msg.conf::[1175]
+msgctxt "map_msg.conf"
+msgid "'%s' is not married."
+msgstr "'%s' tidak menikah."
+#: map_msg.conf::[1176]
+msgctxt "map_msg.conf"
+msgid "'%s' and his/her partner are now divorced."
+msgstr "'%s' dan pasangannya sekarang bercerai."
+#: map_msg.conf::[1177]
+msgctxt "map_msg.conf"
+msgid "Usage: @changelook {<position>} <view id>"
+msgstr "Penggunaan: @changelook {<posisi>} <view id>"
+#: map_msg.conf::[1178]
+msgctxt "map_msg.conf"
+msgid "Position: 1-Top 2-Middle 3-Bottom 4-Weapon 5-Shield 6-Shoes 7-Robe"
+msgstr "Posisi: 1-Kepala bagian atas 2-Kepala bagian tengah 3-Kepala bagian bawah 4-Senjata 5-Perisai 6-Sepatu 7-Jubah"
+#: map_msg.conf::[1179]
+msgctxt "map_msg.conf"
+msgid "Autotrade is not allowed on this map."
+msgstr "Autotrade tidak diizinkan di map ini."
+#: map_msg.conf::[1180]
+msgctxt "map_msg.conf"
+msgid "You cannot autotrade when dead."
+msgstr "Kamu tidak dapat menggunakan autotrade ketika mati."
+#: map_msg.conf::[1181]
+msgctxt "map_msg.conf"
+msgid "You need to be a Guild Master to use this command."
+msgstr "Kamu harus menjadi Pemimpin Guild untuk menggunakan perintah ini."
+#: map_msg.conf::[1182]
+msgctxt "map_msg.conf"
+msgid "You cannot change guild leaders on this map."
+msgstr "Kamu tidak dapat mengubah kepemimpinan guild di map ini."
+#: map_msg.conf::[1183]
+msgctxt "map_msg.conf"
+msgid "Usage: @changegm <guild_member_name>"
+msgstr "Penggunaan: @changegm <nama naggota guild>"
+#: map_msg.conf::[1184]
+msgctxt "map_msg.conf"
+msgid "Target character must be online and be a guild member."
+msgstr "Karakter yang dituju harus online dan menjadi anggota guild."
+#: map_msg.conf::[1185]
+msgctxt "map_msg.conf"
+msgid "Usage: @changeleader <party_member_name>"
+msgstr "Penggunaan: @changeleader <nama anggota party>"
+#: map_msg.conf::[1186]
+msgctxt "map_msg.conf"
+msgid "Usage: @partyoption <pickup share: yes/no> <item distribution: yes/no>"
+msgstr "Penggunaan: @partyoption <berbagi item yang didapat: yes/no> <distribusi item: yes/no>"
+#: map_msg.conf::[1187]
+msgctxt "map_msg.conf"
+msgid "Autolooting items with drop rates of %0.02f%% and below."
+msgstr "Mengambil item secara otomatis dengan drop rate %0.02f%% ke bawah."
+#: map_msg.conf::[1188]
+msgctxt "map_msg.conf"
+msgid "Autoloot is now off."
+msgstr "Pengambilan otomatis dimatikan."
+#: map_msg.conf::[1189]
+msgctxt "map_msg.conf"
+msgid "Item not found."
+msgstr "Item tidak ditemukan."
+#: map_msg.conf::[1190]
+msgctxt "map_msg.conf"
+msgid "You're already autolooting this item."
+msgstr "Kamu sudah mengambil secara otomatis item ini."
+#: map_msg.conf::[1191]
+msgctxt "map_msg.conf"
+msgid "Your autolootitem list is full. Remove some items first with @autolootid -<item name or ID>."
+msgstr "Daftar autolooitem penuh. Hilangkan sebagian terlebih dahulu dengan @autolootid -<nama/ID item>."
+#: map_msg.conf::[1192]
+msgctxt "map_msg.conf"
+msgid "Autolooting item: '%s'/'%s' {%hu}"
+msgstr "Mengambil item secara otomatis: '%s'/'%s' {%hu}"
+#: map_msg.conf::[1193]
+msgctxt "map_msg.conf"
+msgid "You're currently not autolooting this item."
+msgstr "Kamu saat ini sedang tidak mengambil item ini secara otomatis."
+#: map_msg.conf::[1194]
+msgctxt "map_msg.conf"
+msgid "Removed item: '%s'/'%s' {%hu} from your autolootitem list."
+msgstr "Item dihilangkan: '%s'/'%s' {%hu} dari daftar pengambilan otomatismu."
+#: map_msg.conf::[1195]
+msgctxt "map_msg.conf"
+msgid "You can have %d items on your autolootitem list."
+msgstr "Kamu hanya memiliki item %d di daftarmu."
+#: map_msg.conf::[1196]
+msgctxt "map_msg.conf"
+msgid "To add an item to the list, use \"@alootid +<item name or ID>\". To remove an item, use \"@alootid -<item name or ID>\"."
+msgstr "Untuk menambahkan item ke daftar, gunakan \"@alootid +<ID atau nama item>\". Untuk menghilangkannya, gunakan \"@alootid -<ID atau nama item>\"."
+#: map_msg.conf::[1197]
+msgctxt "map_msg.conf"
+msgid "\"@alootid reset\" will clear your autolootitem list."
+msgstr "\"@alootid reset\" akan membersihkan daftar autolootitem."
+#: map_msg.conf::[1198]
+msgctxt "map_msg.conf"
+msgid "Your autolootitem list is empty."
+msgstr "Daftar autolootitemmu kosong."
+#: map_msg.conf::[1199]
+msgctxt "map_msg.conf"
+msgid "Items on your autolootitem list:"
+msgstr "Item yang berada di daftar autolootitem:"
+#: map_msg.conf::[1200]
+msgctxt "map_msg.conf"
+msgid "Your autolootitem list has been reset."
+msgstr "Daftar autolootitem telah direset."
+#: map_msg.conf::[1203]
+msgctxt "map_msg.conf"
+msgid "Snow has stopped falling."
+msgstr "Salju berhenti turun."
+#: map_msg.conf::[1204]
+msgctxt "map_msg.conf"
+msgid "It has started to snow."
+msgstr "Mulai turun salju."
+#: map_msg.conf::[1205]
+msgctxt "map_msg.conf"
+msgid "Cherry tree leaves no longer fall."
+msgstr "Sakura tidak lagi berjatuhan."
+#: map_msg.conf::[1206]
+msgctxt "map_msg.conf"
+msgid "Cherry tree leaves have begun to fall."
+msgstr "Sakura mulai berjatuhan."
+#: map_msg.conf::[1207]
+msgctxt "map_msg.conf"
+msgid "The clouds has disappear."
+msgstr "Awan menghilang."
+#: map_msg.conf::[1208]
+msgctxt "map_msg.conf"
+msgid "Clouds appear."
+msgstr "Awan muncul."
+#: map_msg.conf::[1209]
+msgctxt "map_msg.conf"
+msgid "The alternative clouds disappear."
+msgstr "Awan alternatif sudah menghilang."
+#: map_msg.conf::[1210]
+msgctxt "map_msg.conf"
+msgid "Alternative clouds appear."
+msgstr "Awan alternatif muncul."
+#: map_msg.conf::[1211]
+msgctxt "map_msg.conf"
+msgid "The fog has gone."
+msgstr "Kabut telah hilang."
+#: map_msg.conf::[1212]
+msgctxt "map_msg.conf"
+msgid "Fog hangs over."
+msgstr "Saat ini berkabut."
+#: map_msg.conf::[1213]
+msgctxt "map_msg.conf"
+msgid "Leaves no longer fall."
+msgstr "Daun tidak lagi berjatuh."
+#: map_msg.conf::[1214]
+msgctxt "map_msg.conf"
+msgid "Fallen leaves fall."
+msgstr "Daun musim gugur berjatuhan."
+#: map_msg.conf::[1215]
+msgctxt "map_msg.conf"
+msgid "Fireworks have ended."
+msgstr "Kembang api diakhiri."
+#: map_msg.conf::[1216]
+msgctxt "map_msg.conf"
+msgid "Fireworks are launched."
+msgstr "Kembang api diluncurkan."
+#: map_msg.conf::[1217]
+msgctxt "map_msg.conf"
+msgid "Please enter a sound filename (usage: @sound <filename>)."
+msgstr "Harap masukkan nama file suara. (Penggunaan: @sound <nama file>)."
+#: map_msg.conf::[1218]
+msgctxt "map_msg.conf"
+msgid "Please enter a monster name (usage: @mobsearch <monster name>)."
+msgstr "Harap masukkan nama monster. (Penggunaan: @mobsearch <nama monster>)."
+#: map_msg.conf::[1219]
+msgctxt "map_msg.conf"
+msgid "Invalid mob ID %s!"
+msgstr "ID monster salah: %s!"
+#: map_msg.conf::[1220]
+msgctxt "map_msg.conf"
+msgid "Mob Search... %s %s"
+msgstr "Mencari monster... %s %s"
+#: map_msg.conf::[1221]
+msgctxt "map_msg.conf"
+msgid "All dropped items have been cleaned up."
+msgstr "Semua barang yang terjatuh sudah dibersihkan."
+#: map_msg.conf::[1222]
+msgctxt "map_msg.conf"
+msgid "Please enter the correct parameters (usage: @npctalk <npc name>, <message>)."
+msgstr "Harap masukkan parameter yang benar. (Penggunaan: @npctalk <nama npc>, <pesan>)."
+#: map_msg.conf::[1223]
+msgctxt "map_msg.conf"
+msgid "Please enter the correct parameters (usage: @npctalkc <color> <npc name>, <message>)."
+msgstr "Harap masukkan parameter yang benar. (Penggunaan: @npctalkc <warna> <nama npc>, <pesan>)."
+#: map_msg.conf::[1224]
+msgctxt "map_msg.conf"
+msgid "Please enter a message (usage: @pettalk <message>)."
+msgstr "Harap masukkan pesan. (Penggunaan: @pettalk <pesan>)."
+#: map_msg.conf::[1225]
+msgctxt "map_msg.conf"
+msgid "Please enter a monster name (usage: @summon <monster name> {duration})."
+msgstr "Harap masukkan nama monster. (Penggunaan: @summon <nama monster> {durasi})."
+#: map_msg.conf::[1226]
+msgctxt "map_msg.conf"
+msgid "Usage: @adjgroup <group_id>"
+msgstr "Penggunaan: @adjgroup <id_group>"
+#: map_msg.conf::[1227]
+msgctxt "map_msg.conf"
+msgid "Specified group does not exist."
+msgstr "Grup yang ditentukan tidak ada."
+#: map_msg.conf::[1228]
+msgctxt "map_msg.conf"
+msgid "Group changed successfully."
+msgstr "Sukses mengubah grup."
+#: map_msg.conf::[1229]
+msgctxt "map_msg.conf"
+msgid "Your group has changed."
+msgstr "Grup anda sudah diubah."
+#: map_msg.conf::[1230]
+msgctxt "map_msg.conf"
+msgid "Please enter a player name (usage: @trade <char name>)."
+msgstr "Harap masukkan nama pemain. (Penggunaan: @trade <nama pemain>)."
+#: map_msg.conf::[1231]
+msgctxt "map_msg.conf"
+msgid "Usage: @setbattleflag <flag> <value>"
+msgstr "Penggunaan: @setbattleflag <flag> <nilai>"
+#: map_msg.conf::[1232]
+msgctxt "map_msg.conf"
+msgid "Unknown battle_config flag."
+msgstr "Flag battle_config tidak diketahui."
+#: map_msg.conf::[1233]
+msgctxt "map_msg.conf"
+msgid "Set battle_config as requested."
+msgstr "Mengatur battle_config seperti yang diminta."
+#: map_msg.conf::[1234]
+msgctxt "map_msg.conf"
+msgid "Please enter a player name (usage: @unmute <char name>)."
+msgstr "Harap masukkan nama pemain. (Penggunaan: @unmute <nama karakter>)."
+#: map_msg.conf::[1235]
+msgctxt "map_msg.conf"
+msgid "Player is not muted."
+msgstr "Pemain dapat berbicara."
+#: map_msg.conf::[1236]
+msgctxt "map_msg.conf"
+msgid "Player unmuted."
+msgstr "Pemain dibisukan."
+#: map_msg.conf::[1237]
+msgctxt "map_msg.conf"
+msgid "Usage: @mute <time> <char name>"
+msgstr "Penggunaan: @mute <waktu> <nama karakter>"
+#: map_msg.conf::[1238]
+msgctxt "map_msg.conf"
+msgid "There are no items to appraise."
+msgstr "Tidak ada barang untuk diidentifikasi."
+#: map_msg.conf::[1239]
+msgctxt "map_msg.conf"
+msgid "Please enter a monster name/ID (usage: @mobinfo <monster_name_or_monster_ID>)."
+msgstr "Harap masukkan nama/ID monster. (Penggunaan: @mobinfo <ID/nama monster>)."
+#: map_msg.conf::[1240]
+msgctxt "map_msg.conf"
+msgid "MVP Monster: '%s'/'%s'/'%s' (%d)"
+msgstr "MVP Monster: '%s'/'%s'/'%s' (%d)"
+#: map_msg.conf::[1241]
+msgctxt "map_msg.conf"
+msgid "Monster: '%s'/'%s'/'%s' (%d)"
+msgstr "Monster: '%s'/'%s'/'%s' (%d)"
+#: map_msg.conf::[1242]
+msgctxt "map_msg.conf"
+msgid "Lv:%d  HP:%d  Base EXP:%u  Job EXP:%u  HIT:%d  FLEE:%d"
+msgstr "Lv:%d  HP:%d  Base EXP:%u  Job EXP:%u  HIT:%d  FLEE:%d"
+#: map_msg.conf::[1243]
+msgctxt "map_msg.conf"
+msgid "DEF:%d  MDEF:%d  STR:%d  AGI:%d  VIT:%d  INT:%d  DEX:%d  LUK:%d"
+msgstr "DEF:%d  MDEF:%d  STR:%d  AGI:%d  VIT:%d  INT:%d  DEX:%d  LUK:%d"
+#: map_msg.conf::[1244]
+msgctxt "map_msg.conf"
+msgid "ATK:%d~%d  Range:%d~%d~%d  Size:%s  Race: %s  Element: %s (Lv:%d)"
+msgstr "ATK:%d~%d  Jarak:%d~%d~%d  Ukuran:%s  Race: %s  Elemen: %s (Lv:%d)"
+#: map_msg.conf::[1245]
+msgctxt "map_msg.conf"
+msgid "Drops:"
+msgstr "Barang yang dijatuhkan:"
+#: map_msg.conf::[1246]
+msgctxt "map_msg.conf"
+msgid "This monster has no drops."
+msgstr "Monster ini tidak menjatuhkan barang."
+#: map_msg.conf::[1247]
+msgctxt "map_msg.conf"
+msgid "MVP Bonus EXP:%u"
+msgstr "Bonus EXP MVP:%u"
+#: map_msg.conf::[1248]
+msgctxt "map_msg.conf"
+msgid "MVP Items:"
+msgstr "Item MVP:"
+#: map_msg.conf::[1249]
+msgctxt "map_msg.conf"
+msgid "This monster has no MVP prizes."
+msgstr "Monster ini tidak memiliki bonus MVP."
+#: map_msg.conf::[1250]
+msgctxt "map_msg.conf"
+msgid "Invalid mob id %s!"
+msgstr "ID monster salah %s!"
+#: map_msg.conf::[1251]
+msgctxt "map_msg.conf"
+msgid "Can't show boss mobs!"
+msgstr "Tidak dapat menampilkan bos monster!"
+#: map_msg.conf::[1252]
+msgctxt "map_msg.conf"
+msgid "Mob Search... %s %s"
+msgstr "Mencari monster... %s %s"
+#: map_msg.conf::[1253]
+msgctxt "map_msg.conf"
+msgid "Please enter a level adjustment (usage: @homlevel <number of levels>)."
+msgstr "Harap masukkan level yang diinginkan. (Penggunaan: @homlevel <level>)."
+#: map_msg.conf::[1254]
+msgctxt "map_msg.conf"
+msgid "You do not have a homunculus."
+msgstr "Kamu tidak memiliki homunculus."
+#: map_msg.conf::[1255]
+msgctxt "map_msg.conf"
+msgid "Your homunculus doesn't evolve."
+msgstr "Homunculusmu tidak berkembang."
+#: map_msg.conf::[1256]
+msgctxt "map_msg.conf"
+msgid "Please enter a homunculus ID (usage: @makehomun <homunculus id>)."
+msgstr "Harap masukkan ID homunculus (usage: @makehomun <id homunculus>)."
+#: map_msg.conf::[1257]
+msgctxt "map_msg.conf"
+msgid "Invalid Homunculus ID."
+msgstr "ID Homunculus salah."
+#: map_msg.conf::[1258]
+msgctxt "map_msg.conf"
+msgid "Please enter a friendly value (usage: @homfriendly <friendly value [0-1000]>)."
+msgstr "Harap masukkan nilai persahabatan (usage: @homfriendly <nilai persahabatan [0-1000]>)."
+#: map_msg.conf::[1259]
+msgctxt "map_msg.conf"
+msgid "Please enter a hunger value (usage: @homhungry <hunger value [0-100]>)."
+msgstr "Harap masukkan nilai tingkat kelaparan. (Penggunaan: @homhungry <nilai tingkat kelaparan [0-100]>)."
+#: map_msg.conf::[1260]
+msgctxt "map_msg.conf"
+msgid "Please enter a message (usage: @homtalk <message>)."
+msgstr "Harap masukkan sebuah pesan. (Penggunaan: @homtalk <pesan>)."
+#: map_msg.conf::[1261]
+msgctxt "map_msg.conf"
+msgid "Homunculus stats:"
+msgstr "Status Homunculus:"
+#: map_msg.conf::[1262]
+msgctxt "map_msg.conf"
+msgid "HP: %d/%d - SP: %d/%d"
+msgstr "HP: %d/%d - SP: %d/%d"
+#: map_msg.conf::[1263]
+msgctxt "map_msg.conf"
+msgid "ATK: %d - MATK: %d~%d"
+msgstr "ATK: %d - MATK: %d~%d"
+#: map_msg.conf::[1264]
+msgctxt "map_msg.conf"
+msgid "Hungry: %d - Intimacy: %u"
+msgstr "Tingkat Kelaparan: %d - Keakraban: %u"
+#: map_msg.conf::[1265]
+msgctxt "map_msg.conf"
+msgid "Stats: Str %d / Agi %d / Vit %d / Int %d / Dex %d / Luk %d"
+msgstr "Status: Str %d / Agi %d / Vit %d / Int %d / Dex %d / Luk %d"
+#: map_msg.conf::[1266]
+msgctxt "map_msg.conf"
+msgid "Homunculus growth stats (Lv %d %s):"
+msgstr "Pertumbuhan status Homunculus (Lv %d %s):"
+#: map_msg.conf::[1267]
+msgctxt "map_msg.conf"
+msgid "Max HP: %d (%d~%d)"
+msgstr "Maks. HP: %d (%d~%d)"
+#: map_msg.conf::[1268]
+msgctxt "map_msg.conf"
+msgid "Max SP: %d (%d~%d)"
+msgstr "Maks. SP: %d (%d~%d)"
+#: map_msg.conf::[1269]
+msgctxt "map_msg.conf"
+msgid "Str: %d (%d~%d)"
+msgstr "Str: %d (%d~%d)"
+#: map_msg.conf::[1270]
+msgctxt "map_msg.conf"
+msgid "Agi: %d (%d~%d)"
+msgstr "Agi: %d (%d~%d)"
+#: map_msg.conf::[1271]
+msgctxt "map_msg.conf"
+msgid "Vit: %d (%d~%d)"
+msgstr "Vit: %d (%d~%d)"
+#: map_msg.conf::[1272]
+msgctxt "map_msg.conf"
+msgid "Int: %d (%d~%d)"
+msgstr "Int: %d (%d~%d)"
+#: map_msg.conf::[1273]
+msgctxt "map_msg.conf"
+msgid "Dex: %d (%d~%d)"
+msgstr "Dex: %d (%d~%d)"
+#: map_msg.conf::[1274]
+msgctxt "map_msg.conf"
+msgid "Luk: %d (%d~%d)"
+msgstr "Luk: %d (%d~%d)"
+#: map_msg.conf::[1275]
+msgctxt "map_msg.conf"
+msgid "Homunculus stats altered."
+msgstr "Status Homunculus diubah."
+#: map_msg.conf::[1276]
+msgctxt "map_msg.conf"
+msgid "Please enter an item name/ID (usage: @ii/@iteminfo <item name/ID>)."
+msgstr "Harap masukkan nama/ID item. (Penggunaan: @ii/@iteminfo <nama/ID item>)."
+#: map_msg.conf::[1277]
+msgctxt "map_msg.conf"
+msgid "Item: '%s'/'%s'[%d] (%hu) Type: %s | Extra Effect: %s"
+msgstr "Item: '%s'/'%s'[%d] (%hu) Jenis: %s | Efek tambahan: %s"
+#: map_msg.conf::[1278]
+msgctxt "map_msg.conf"
+msgid "None"
+msgstr "Tidak ada"
+#: map_msg.conf::[1279]
+msgctxt "map_msg.conf"
+msgid "With script"
+msgstr "Dengan script."
+#: map_msg.conf::[1280]
+msgctxt "map_msg.conf"
+msgid "NPC Buy:%dz, Sell:%dz | Weight: %.1f"
+msgstr "NPC Harga Beli:%dz, Harga jual:%dz | Berat: %.1f "
+#: map_msg.conf::[1281]
+msgctxt "map_msg.conf"
+msgid "- Available in the shops only."
+msgstr " - Hanya tersedia di toko."
+#: map_msg.conf::[1282]
+msgctxt "map_msg.conf"
+msgid "- Maximal monsters drop chance: %02.02f%%"
+msgstr " - Kemungkiman monster menjatuhkan item: %02.02f%%"
+#: map_msg.conf::[1283]
+msgctxt "map_msg.conf"
+msgid "- Monsters don't drop this item."
+msgstr " - Monster tidak menjatuhkan item ini."
+#: map_msg.conf::[1284]
+msgctxt "map_msg.conf"
+msgid "Please enter item name/ID (usage: @whodrops <item name/ID>)."
+msgstr "Harap masukkan nama/ID item. (Penggunaan: @whodrops <nama/ID item>)."
+#: map_msg.conf::[1285]
+msgctxt "map_msg.conf"
+msgid "Item: '%s'[%d] (ID:%hu)"
+msgstr "Item: '%s'[%d] (ID:%hu)"
+#: map_msg.conf::[1286]
+msgctxt "map_msg.conf"
+msgid "- Item is not dropped by mobs."
+msgstr " - Item ini tidak dijatuhkan dari monster."
+#: map_msg.conf::[1287]
+msgctxt "map_msg.conf"
+msgid "- Common mobs with highest drop chance (only max %d are listed):"
+msgstr " - Monster biasa dengan kemungkinan menjatuhkan barang tertinggi. (Maks. hanya %d yang ditampilkan):"
+#: map_msg.conf::[1288]
+msgctxt "map_msg.conf"
+msgid "Please enter a monster name/ID (usage: @whereis <monster_name_or_monster_ID>)."
+msgstr "Harap masukkan sebuah nama/ID monster. (Penggunaan: @whereis <nama_atau_ID_monster>)."
+#: map_msg.conf::[1289]
+msgctxt "map_msg.conf"
+msgid "%s spawns in:"
+msgstr "%s berada di:"
+#: map_msg.conf::[1290]
+msgctxt "map_msg.conf"
+msgid "This monster does not spawn normally."
+msgstr "Monster ini tidak keluar secara normal."
+#: map_msg.conf::[1291]
+msgctxt "map_msg.conf"
+msgid "Usage: @adopt <father>,<mother>,<child>"
+msgstr "Penggunaan: @adopt <ayah>,<ibu>,<anak>"
+#: map_msg.conf::[1292]
+msgctxt "map_msg.conf"
+msgid "Adopting: --%s--%s--%s--\\n"
+msgstr "Mengadopsi: --%s--%s--%s--\\n"
+#: map_msg.conf::[1293]
+msgctxt "map_msg.conf"
+msgid "Cannot find player %s online."
+msgstr "Tidak dapat menemukan pemain %s sedang online.."
+#: map_msg.conf::[1294]
+msgctxt "map_msg.conf"
+msgid "They are family... wish them luck."
+msgstr "Sekarang mereka adalah satu keluarga... Selamat!!"
+#: map_msg.conf::[1295]
+msgctxt "map_msg.conf"
+msgid "rAthena Version %s %s"
+msgstr "Versi rAthena %s %s"
+#: map_msg.conf::[1296]
+msgctxt "map_msg.conf"
+msgid "Cannot determine SVN/Git version."
+msgstr "Tidak dapat mendapatkan versi saat ini."
+#: map_msg.conf::[1297]
+msgctxt "map_msg.conf"
+msgid "Please enter a time in minutes (usage: @mutearea/@stfu <time in minutes>)."
+msgstr "Harap masukkan waktu dalam menit. (Penggunaan: @mutearea/@stfu <waktu dalam menit>)."
+#: map_msg.conf::[1298]
+msgctxt "map_msg.conf"
+msgid "Experience rates: Base %.2fx / Job %.2fx"
+msgstr "Rate Experience: Base %.2fx / Job %.2fx"
+#: map_msg.conf::[1299]
+msgctxt "map_msg.conf"
+msgid "Normal Drop Rates: Common %.2fx / Healing %.2fx / Usable %.2fx / Equipment %.2fx / Card %.2fx"
+msgstr "Rate Drop Normal: Common %.2fx / Healing %.2fx / Usable %.2fx / Equipment %.2fx / Card %.2fx"
+#: map_msg.conf::[1300]
+msgctxt "map_msg.conf"
+msgid "Boss Drop Rates: Common %.2fx / Healing %.2fx / Usable %.2fx / Equipment %.2fx / Card %.2fx"
+msgstr "Rate Drop Boss: Common %.2fx / Healing %.2fx / Usable %.2fx / Equipment %.2fx / Card %.2fx"
+#: map_msg.conf::[1301]
+msgctxt "map_msg.conf"
+msgid "Other Drop Rates: MvP %.2fx / Card-Based %.2fx / Treasure %.2fx"
+msgstr "Rate Drop Lainnya: MvP %.2fx / Card-Based %.2fx / Treasure %.2fx"
+#: map_msg.conf::[1302]
+msgctxt "map_msg.conf"
+msgid "Please enter a message (usage: @me <message>)."
+msgstr "Masukkan sebuah pesan. (Penggunaan: @me <pesan>)."
+#: map_msg.conf::[1303]
+msgctxt "map_msg.conf"
+msgid "Size change applied."
+msgstr "Perubahan ukuran diterapkan."
+#: map_msg.conf::[1304]
+msgctxt "map_msg.conf"
+msgid "Please enter guild name/ID (usage: @sizeguild <size> <guild name/ID>)."
+msgstr "Harap masukkan nama/ID guild. (Penggunaan: @sizeguild <ukuran> <nama/ID guild>)."
+#: map_msg.conf::[1305]
+msgctxt "map_msg.conf"
+msgid "You are now immune to attacks."
+msgstr "Kamu sekarang kebal dari serangan."
+#: map_msg.conf::[1306]
+msgctxt "map_msg.conf"
+msgid "Returned to normal state."
+msgstr "Kembali ke kondisi normal."
+#: map_msg.conf::[1307]
+msgctxt "map_msg.conf"
+msgid "Returned to real name."
+msgstr "Kembali ke nama asli."
+#: map_msg.conf::[1308]
+msgctxt "map_msg.conf"
+msgid "You must enter a name."
+msgstr "Kamu harus memasukkan sebuah nama."
+#: map_msg.conf::[1309]
+msgctxt "map_msg.conf"
+msgid "Fake name must be at least two characters."
+msgstr "Nama palsu haruslah setidaknya terdiri dari 2 karakter."
+#: map_msg.conf::[1310]
+msgctxt "map_msg.conf"
+msgid "Fake name enabled."
+msgstr "Nama palsu diaktifkan."
+#: map_msg.conf::[1311]
+msgctxt "map_msg.conf"
+msgid "Enabled Mapflags in this map:"
+msgstr "Mapflag yang ada di map ini:"
+#: map_msg.conf::[1312]
+msgctxt "map_msg.conf"
+msgid "Usage: \"@mapflag monster_noteleport 1\" (0=Off | 1=On)"
+msgstr "Penggunaan: \"@mapflag monster_noteleport 1\" (0=Mati | 1=Hidup)"
+#: map_msg.conf::[1313]
+msgctxt "map_msg.conf"
+msgid "Type \"@mapflag available\" to list the available mapflags."
+msgstr "Ketikkan \"@mapflag available\" untuk melihat daftar mapflag yang tersedia."
+#: map_msg.conf::[1314]
+msgctxt "map_msg.conf"
+msgid "Invalid flag name or flag."
+msgstr "Flag atau nama flag salah."
+#: map_msg.conf::[1315]
+msgctxt "map_msg.conf"
+msgid "Available Flags:"
+msgstr "Flag yang tersedia:"
+#: map_msg.conf::[1316]
+msgctxt "map_msg.conf"
+msgid "Gained exp will not be shown."
+msgstr "Perolehan exp tidak akan ditampilkan."
+#: map_msg.conf::[1317]
+msgctxt "map_msg.conf"
+msgid "Gained exp is now shown."
+msgstr "Perolehan exp ditampilkan."
+#: map_msg.conf::[1318]
+msgctxt "map_msg.conf"
+msgid "Gained zeny will not be shown."
+msgstr "Perolehan zeny tidak akan ditampilkan."
+#: map_msg.conf::[1319]
+msgctxt "map_msg.conf"
+msgid "Gained zeny is now shown."
+msgstr "Perolehan zeny ditampilkan."
+#: map_msg.conf::[1320]
+msgctxt "map_msg.conf"
+msgid "Skill delay failures will not be shown."
+msgstr "Delay skill yang gagal tidak akan ditampilkan."
+#: map_msg.conf::[1321]
+msgctxt "map_msg.conf"
+msgid "Skill delay failures are now shown."
+msgstr "Delay skill yang gagal ditampilkan sekarang."
+#: map_msg.conf::[1322]
+msgctxt "map_msg.conf"
+msgid "Please enter an amount."
+msgstr "Harap masukkan jumlah."
+#: map_msg.conf::[1323]
+msgctxt "map_msg.conf"
+msgid "You must enter a player name or ID."
+msgstr "Kamu harus memasukkan nama atau ID pemain."
+#: map_msg.conf::[1324]
+msgctxt "map_msg.conf"
+msgid "Reset 'Feeling' maps."
+msgstr "Mengatur ulang map 'Feeling'."
+#: map_msg.conf::[1325]
+msgctxt "map_msg.conf"
+msgid "[ K.S Protection Inactive ]"
+msgstr "[ K.S Protection Tidak Aktif ]"
+#: map_msg.conf::[1326]
+msgctxt "map_msg.conf"
+msgid "[ K.S Protection Active - Option: Party ]"
+msgstr "[ K.S Protection Active - Option: Party ]"
+#: map_msg.conf::[1327]
+msgctxt "map_msg.conf"
+msgid "[ K.S Protection Active - Option: Self ]"
+msgstr "[ K.S Protection Active - Option: Self ]"
+#: map_msg.conf::[1328]
+msgctxt "map_msg.conf"
+msgid "[ K.S Protection Active - Option: Guild ]"
+msgstr "[ K.S Protection Active - Option: Guild ]"
+#: map_msg.conf::[1329]
+msgctxt "map_msg.conf"
+msgid "Usage: @noks <self|party|guild>"
+msgstr "Penggunaan: @noks <self|party|guild>"
+#: map_msg.conf::[1330]
+msgctxt "map_msg.conf"
+msgid "[ Map K.S Protection Active ]"
+msgstr "[ Map K.S Protection Aktif ]"
+#: map_msg.conf::[1331]
+msgctxt "map_msg.conf"
+msgid "[ Map K.S Protection Inactive ]"
+msgstr "[ Map K.S Protection Tidak Aktif ]"
+#: map_msg.conf::[1332]
+msgctxt "map_msg.conf"
+msgid "------ %s items list of '%s' ------"
+msgstr "------ %s daftar item dari '%s' ------"
+#: map_msg.conf::[1333]
+msgctxt "map_msg.conf"
+msgid "| Equipped:"
+msgstr " | Lokasi: "
+#: map_msg.conf::[1334]
+msgctxt "map_msg.conf"
+msgid "Garment,"
+msgstr "Jubah, "
+#: map_msg.conf::[1335]
+msgctxt "map_msg.conf"
+msgid "Left Accessory,"
+msgstr "Aksesori kiri, "
+#: map_msg.conf::[1336]
+msgctxt "map_msg.conf"
+msgid "Body/Armor,"
+msgstr "Badan/armor, "
+#: map_msg.conf::[1337]
+msgctxt "map_msg.conf"
+msgid "Right Hand,"
+msgstr "Tangan kanan, "
+#: map_msg.conf::[1338]
+msgctxt "map_msg.conf"
+msgid "Left Hand,"
+msgstr "Tangan kiri, "
+#: map_msg.conf::[1339]
+msgctxt "map_msg.conf"
+msgid "Both Hands,"
+msgstr "Kedua tangan, "
+#: map_msg.conf::[1340]
+msgctxt "map_msg.conf"
+msgid "Feet,"
+msgstr "Kaki, "
+#: map_msg.conf::[1341]
+msgctxt "map_msg.conf"
+msgid "Right Accessory,"
+msgstr "Aksesori kanan, "
+#: map_msg.conf::[1342]
+msgctxt "map_msg.conf"
+msgid "Lower Head,"
+msgstr "Kepala bagian bawah, "
+#: map_msg.conf::[1343]
+msgctxt "map_msg.conf"
+msgid "Top Head,"
+msgstr "Kepala bagian atas, "
+#: map_msg.conf::[1344]
+msgctxt "map_msg.conf"
+msgid "Top/Lower Head,"
+msgstr "Kepala bagian bawah/atas, "
+#: map_msg.conf::[1345]
+msgctxt "map_msg.conf"
+msgid "Mid Head,"
+msgstr "Kepala bagian tengah, "
+#: map_msg.conf::[1346]
+msgctxt "map_msg.conf"
+msgid "Mid/Lower Head,"
+msgstr "Kepala bagian bawah/tengah, "
+#: map_msg.conf::[1347]
+msgctxt "map_msg.conf"
+msgid "Top/Mid/Lower Head,"
+msgstr "Kepala bagian bawah/tengah/atas, "
+#: map_msg.conf::[1348]
+msgctxt "map_msg.conf"
+msgid "-> (pet egg, pet id: %u, named)"
+msgstr " -> (telur peliharaan, id peliharaan: %u, sudah diberi nama)"
+#: map_msg.conf::[1349]
+msgctxt "map_msg.conf"
+msgid "-> (pet egg, pet id: %u, unnamed)"
+msgstr " -> (telur peliharaan, id peliharaan: %u, belum diberi nama)"
+#: map_msg.conf::[1350]
+msgctxt "map_msg.conf"
+msgid "-> (crafted item, creator id: %u, star crumbs %d, element %d)"
+msgstr " -> (item buatan, id pembuat: %u, %d star crumb, elemen %d)"
+#: map_msg.conf::[1351]
+msgctxt "map_msg.conf"
+msgid "-> (produced item, creator id: %u)"
+msgstr " -> (item produksi, id pembuat: %u)"
+#: map_msg.conf::[1352]
+msgctxt "map_msg.conf"
+msgid "-> (card(s):"
+msgstr " -> (kartu: "
+#: map_msg.conf::[1353]
+msgctxt "map_msg.conf"
+msgid "No item found in this player's %s."
+msgstr "Tidak ada item yang ditemukan di %s pemain."
+#: map_msg.conf::[1354]
+msgctxt "map_msg.conf"
+msgid "%d item(s) found in %d %s slots."
+msgstr "%d item ditemukan di slot %d %s."
+#: map_msg.conf::[1355]
+msgctxt "map_msg.conf"
+msgid "Please enter an item name/ID, a quantity, and a player name (usage: #delitem <player> <item_name_or_ID> <quantity>)."
+msgstr "Harap masukkan sebuah ID/Nama item, jumlah, dan nama pemain. (Penggunaan: #delitem <pemain> <ID/Nama_item> <jumlah>)."
+#: map_msg.conf::[1356]
+msgctxt "map_msg.conf"
+msgid "Returning to normal font."
+msgstr "Mengembalikan ke font normal."
+#: map_msg.conf::[1357]
+msgctxt "map_msg.conf"
+msgid "Use @font <1-9> to change your message font."
+msgstr "Gunakan @font <1-9> untuk mengganti font pesanmu."
+#: map_msg.conf::[1358]
+msgctxt "map_msg.conf"
+msgid "Use 0 or no parameter to return to normal font."
+msgstr "Gunakan 0 atau tanpa parameter untuk mengembalikan ke font normal."
+#: map_msg.conf::[1359]
+msgctxt "map_msg.conf"
+msgid "Invalid font. Use a value from 0 to 9."
+msgstr "Font salah. Gunakan nilai dari 0 sampai 9."
+#: map_msg.conf::[1360]
+msgctxt "map_msg.conf"
+msgid "Font changed."
+msgstr "Font diubah."
+#: map_msg.conf::[1361]
+msgctxt "map_msg.conf"
+msgid "Already using this font."
+msgstr "Sudah menggunakan font ini."
+#: map_msg.conf::[1362]
+msgctxt "map_msg.conf"
+msgid "NOTICE: If you crash with mount your LUA is outdated."
+msgstr "CATATAN: Jika kamu mengalami 'crash' saat menggunakan mount tersebut berarti file LUA-mu harus diperbarui."
+#: map_msg.conf::[1363]
+msgctxt "map_msg.conf"
+msgid "You have mounted."
+msgstr "Kamu memiliki mount."
+#: map_msg.conf::[1364]
+msgctxt "map_msg.conf"
+msgid "You have released your mount."
+msgstr "Kamu telah melepaskan mount."
+#: map_msg.conf::[1365]
+msgctxt "map_msg.conf"
+msgid "Usage: @accinfo/@accountinfo <account_id/char name>"
+msgstr "Penggunaan: @accinfo/@accountinfo <id_akun/nama karakter>"
+#: map_msg.conf::[1366]
+msgctxt "map_msg.conf"
+msgid "You may search partial name by making use of '%' in the search, ex. \"@accinfo %Mario%\" lists all characters whose name contains \"Mario\"."
+msgstr "Kamu boleh mencari bagian nama dengan menggunakan '%' dalam pencarian, misal \"@accinfo %Mario%\" akan menampilkan daftar semua karakter dengan nama \"Mario\"."
+#: map_msg.conf::[1367]
+msgctxt "map_msg.conf"
+msgid "Usage: @set <variable name> <value>"
+msgstr "Penggunaan: @set <nama variable> <nilai>"
+#: map_msg.conf::[1368]
+msgctxt "map_msg.conf"
+msgid "Usage: ex. \"@set PoringCharVar 50\""
+msgstr "Contoh penggunaan: \"@set PoringCharVar 50\""
+#: map_msg.conf::[1369]
+msgctxt "map_msg.conf"
+msgid "Usage: ex. \"@set PoringCharVarSTR$ Super Duper String\""
+msgstr "Contoh penggunaan: \"@set PoringCharVarSTR$ Super Duper String\""
+#: map_msg.conf::[1370]
+msgctxt "map_msg.conf"
+msgid "Usage: ex. \"@set PoringCharVarSTR$\" outputs its value, Super Duper String."
+msgstr "Contoh penggunaan: \"@set PoringCharVarSTR$\" menampilkan nilainya, Super Duper String."
+#: map_msg.conf::[1371]
+msgctxt "map_msg.conf"
+msgid "NPC variables may not be used with @set."
+msgstr "Variabel pada NPC tidak boleh digunakan dengan @set."
+#: map_msg.conf::[1372]
+msgctxt "map_msg.conf"
+msgid "Instance variables may not be used with @set."
+msgstr "Variabel instansi tidak boleh digunakan dengan @set."
+#: map_msg.conf::[1373]
+msgctxt "map_msg.conf"
+msgid "%s value is now: %d"
+msgstr "Nilai %s saat ini: %d"
+#: map_msg.conf::[1374]
+msgctxt "map_msg.conf"
+msgid "%s value is now: %s"
+msgstr "Nilai %s saat ini: %s"
+#: map_msg.conf::[1375]
+msgctxt "map_msg.conf"
+msgid "%s is blank."
+msgstr "%s kosong"
+#: map_msg.conf::[1376]
+msgctxt "map_msg.conf"
+msgid "%s data type is not supported: %u"
+msgstr "Jenis data %s tidak didukung: %u"
+#: map_msg.conf::[1377]
+msgctxt "map_msg.conf"
+msgid "Quest database has been reloaded."
+msgstr "Database Quest sudah dimuat ulang."
+#: map_msg.conf::[1378]
+msgctxt "map_msg.conf"
+msgid "Usage: %s <permission_name>"
+msgstr "Penggunaan: %s <nama_izin>"
+#: map_msg.conf::[1379]
+msgctxt "map_msg.conf"
+msgid "-- Permission List"
+msgstr "-- Daftar izin"
+#: map_msg.conf::[1380]
+msgctxt "map_msg.conf"
+msgid "'%s' is unknown permission."
+msgstr "Izin '%s' tidak diketahui."
+#: map_msg.conf::[1381]
+msgctxt "map_msg.conf"
+msgid "User '%s' already possesses the '%s' permission."
+msgstr "Pemain '%s' sudah memiliki izin '%s'."
+#: map_msg.conf::[1382]
+msgctxt "map_msg.conf"
+msgid "User '%s' doesn't possess the '%s' permission."
+msgstr "Pemain '%s' tidak memiliki izin '%s'."
+#: map_msg.conf::[1383]
+msgctxt "map_msg.conf"
+msgid "-- User '%s' Permissions"
+msgstr "-- Izin pemain '%s'"
+#: map_msg.conf::[1384]
+msgctxt "map_msg.conf"
+msgid "User '%s' permissions updated successfully. The changes are temporary."
+msgstr "izin pemain '%s' diperbaruhi dengan sukses. Perubahan tersebut hanya sementara."
+#: map_msg.conf::[1385]
+msgctxt "map_msg.conf"
+msgid "Usage: @unloadnpcfile <file name>"
+msgstr "Penggunaan: @unloadnpcfile <nama file>"
+#: map_msg.conf::[1386]
+msgctxt "map_msg.conf"
+msgid "File unloaded. Be aware that mapflags and monsters spawned directly are not removed."
+msgstr "File tidak dimuatkan. Hati-hati, mapflag dan monster yang dikeluarkan secara langsung tidak akan dihilangkan."
+#: map_msg.conf::[1387]
+msgctxt "map_msg.conf"
+msgid "File not found."
+msgstr "File tidak ditemukan."
+#: map_msg.conf::[1388]
+msgctxt "map_msg.conf"
+msgid "Charcommand failed (usage: %c<command> <char name> <parameters>)."
+msgstr "Charcommand gagal (penggunaan: %c<perintah> <nama karakter> <parameter>)."
+#: map_msg.conf::[1389]
+msgctxt "map_msg.conf"
+msgid "%s failed. Player not found."
+msgstr "%s gagal. Pemain tidak ditemukan."
+#: map_msg.conf::[1390]
+msgctxt "map_msg.conf"
+msgid "Unknown Cart (usage: %s <0-%d>)."
+msgstr "Cart tidak diketahui (penggunaan: %s <0-%d>)."
+#: map_msg.conf::[1391]
+msgctxt "map_msg.conf"
+msgid "You do not possess a cart to be removed"
+msgstr "Kamu tidak memiliki cart yang akan dihapus."
+#: map_msg.conf::[1392]
+msgctxt "map_msg.conf"
+msgid "Cart Added."
+msgstr "Cart ditambahkan."
+#: map_msg.conf::[1393]
+msgctxt "map_msg.conf"
+msgid "You can't use commands while dead."
+msgstr "Kamu tidak bisa menggunakan perintah ini ketika mati."
+#: map_msg.conf::[1394]
+msgctxt "map_msg.conf"
+msgid "Your storage was cleaned."
+msgstr "Storagemu sudah dibersihkan."
+#: map_msg.conf::[1395]
+msgctxt "map_msg.conf"
+msgid "Your guild storage was cleaned."
+msgstr "Storage Guildmu sudah dibersihkan."
+#: map_msg.conf::[1396]
+msgctxt "map_msg.conf"
+msgid "You do not have a cart to be cleaned."
+msgstr "Kamu tidak mempunyai cart untuk dibersihkan."
+#: map_msg.conf::[1397]
+msgctxt "map_msg.conf"
+msgid "Your cart was cleaned."
+msgstr "Cart anda sudah dibersihkan."
+#: map_msg.conf::[1398]
+msgctxt "map_msg.conf"
+msgid "-- Displaying first %d partial matches:"
+msgstr "-- Menampilkan %d bagian pertama yang cocok:"
+#: map_msg.conf::[1399]
+msgctxt "map_msg.conf"
+msgid "Unknown channel (usage: %s <#channel_name>)."
+msgstr "Channel tidak diketahui. (Penggunaan: %s <#nama_channel>)."
+#: map_msg.conf::[1400]
+msgctxt "map_msg.conf"
+msgid "Unknown channel '%s' (usage: %s <#channel_name>)."
+msgstr "Channel '%s' tidak diketahui. (Penggunaan: %s <#nama_channel>)."
+#: map_msg.conf::[1401]
+msgctxt "map_msg.conf"
+msgid "Channel '%s' is password-protected (usage: %s <#channel_name> <password>)."
+msgstr "Channel '%s' menggunakan password. (Penggunaan: %s <#nama_channel> <password>)."
+#: map_msg.conf::[1402]
+msgctxt "map_msg.conf"
+msgid "You're not in that channel (use '@join <#channel_name>')."
+msgstr "Kamu tidak berada di channel tersebut (gunakan '@join <#nama_channel>')."
+#: map_msg.conf::[1403]
+msgctxt "map_msg.conf"
+msgid "You're now in the '%s' channel."
+msgstr "Kamu sekarang berada di channel '%s'."
+#: map_msg.conf::[1404]
+msgctxt "map_msg.conf"
+msgid "%s failed."
+msgstr "%s gagal."
+#: map_msg.conf::[1405]
+msgctxt "map_msg.conf"
+msgid "Channel name must start with '#'."
+msgstr "Nama Channel harus dimulai dengan '#'."
+#: map_msg.conf::[1406]
+msgctxt "map_msg.conf"
+msgid "Channel length must be between 3 and %d."
+msgstr "Panjang nama channel harus di antara 3 dan %d."
+#: map_msg.conf::[1407]
+msgctxt "map_msg.conf"
+msgid "Channel '%s' is not available."
+msgstr "Channel '%s' tidak tersedia."
+#: map_msg.conf::[1408]
+msgctxt "map_msg.conf"
+msgid "Channel password may not contain spaces."
+msgstr "Password Channel tidak boleh menggunakan spasi."
+#: map_msg.conf::[1409]
+msgctxt "map_msg.conf"
+msgid "- #%s (%d users)"
+msgstr "- #%s (%d pengguna)"
+#: map_msg.conf::[1410]
+msgctxt "map_msg.conf"
+msgid "---- Public Channels ----"
+msgstr "---- Channel Umum ----"
+#: map_msg.conf::[1411]
+msgctxt "map_msg.conf"
+msgid "Unknown color '%s'."
+msgstr "Warna '%s' tidak diketahui."
+#: map_msg.conf::[1412]
+msgctxt "map_msg.conf"
+msgid "You're not the owner of channel '%s'."
+msgstr "Kamu bukanlah pemilik channel '%s'."
+#: map_msg.conf::[1413]
+msgctxt "map_msg.conf"
+msgid "'%s' channel color updated to '%s'."
+msgstr "Warna channel '%s' diubah menjadi '%s'."
+#: map_msg.conf::[1414]
+msgctxt "map_msg.conf"
+msgid "---- Available options:"
+msgstr "---- Opsi yang tersedia:"
+#: map_msg.conf::[1415]
+msgctxt "map_msg.conf"
+msgid "* %s create <#channel_name> <channel_password>"
+msgstr "* %s create <#nama_channel> <password_channel>"
+#: map_msg.conf::[1416]
+msgctxt "map_msg.conf"
+msgid "-- Creates a new channel."
+msgstr "-- Membuat sebuah channel."
+#: map_msg.conf::[1417]
+msgctxt "map_msg.conf"
+msgid "* %s list"
+msgstr "* %s list"
+#: map_msg.conf::[1418]
+msgctxt "map_msg.conf"
+msgid "-- Lists all public channels."
+msgstr "-- Mendaftar semua channel umum."
+#: map_msg.conf::[1419]
+msgctxt "map_msg.conf"
+msgid "* %s list colors"
+msgstr "* %s list colors"
+#: map_msg.conf::[1420]
+msgctxt "map_msg.conf"
+msgid "-- Lists all available colors for custom channels."
+msgstr "-- Mendaftar semua warna yang tersedia untuk channel."
+#: map_msg.conf::[1421]
+msgctxt "map_msg.conf"
+msgid "* %s setcolor <#channel_name> <color_name>"
+msgstr "* %s setcolor <#nama_channel> <nama_warna>"
+#: map_msg.conf::[1422]
+msgctxt "map_msg.conf"
+msgid "-- Changes channel text to the specified color (channel owners only)."
+msgstr "-- Mengubah teks channel ke warna yang ditentukan (hanya untuk pemilik channel)."
+#: map_msg.conf::[1423]
+msgctxt "map_msg.conf"
+msgid "* %s leave <#channel_name>"
+msgstr "* %s leave <#nama_channel>"
+#: map_msg.conf::[1424]
+msgctxt "map_msg.conf"
+msgid "-- Leaves the specified channel."
+msgstr "-- Meninggalkan channel yang ditentukan."
+#: map_msg.conf::[1425]
+msgctxt "map_msg.conf"
+msgid "You're not part of the '%s' channel."
+msgstr "Kamu bukan bagian dari channel '%s'."
+#: map_msg.conf::[1426]
+msgctxt "map_msg.conf"
+msgid "You've left the '%s' channel."
+msgstr "Kamu meninggalkan channel '%s'."
+#: map_msg.conf::[1427]
+msgctxt "map_msg.conf"
+msgid "* %s bindto <#channel_name>"
+msgstr "* %s bindto <#nama_channel>"
+#: map_msg.conf::[1428]
+msgctxt "map_msg.conf"
+msgid "-- Binds your global chat to the specified channel, sending all global messages to that channel."
+msgstr "-- Mengikat chat globalmu ke channel yang ditentukan, mengirim semua pesan global ke channel tersebut."
+#: map_msg.conf::[1429]
+msgctxt "map_msg.conf"
+msgid "* %s unbind"
+msgstr "* %s unbind"
+#: map_msg.conf::[1430]
+msgctxt "map_msg.conf"
+msgid "-- Unbinds your global chat from the attached channel, if any."
+msgstr "-- Melepaskan chat globalmu dari channel yang diikuti, jika ada."
+#: map_msg.conf::[1431]
+msgctxt "map_msg.conf"
+msgid "Your global chat is now binded to the '%s' channel."
+msgstr "Chat globalmu sudah diikatkan ke channel '%s'."
+#: map_msg.conf::[1432]
+msgctxt "map_msg.conf"
+msgid "Your global chat is not binded to any channel."
+msgstr "Chat globalmu tidak diikatkan ke channel manapun."
+#: map_msg.conf::[1433]
+msgctxt "map_msg.conf"
+msgid "Your global chat is now unbinded from the '#%s' channel."
+msgstr "Chat globalmu sudah dilepaskan dari channel '#%s'."
+#: map_msg.conf::[1434]
+msgctxt "map_msg.conf"
+msgid "You're already in the '%s' channel."
+msgstr "Kamu telah berada di channel '%s'."
+#: map_msg.conf::[1435]
+msgctxt "map_msg.conf"
+msgid "You're now in the '#%s' channel for '%s'."
+msgstr "Kamu sekarang berada di channel '#%s' untuk '%s'."
+#: map_msg.conf::[1436]
+msgctxt "map_msg.conf"
+msgid "Channel password can't be over %d characters."
+msgstr "Password channel tidak dapat lebih banyak dari %d."
+#: map_msg.conf::[1437]
+msgctxt "map_msg.conf"
+msgid "Player '%s' is banned from the '%s' channel."
+msgstr "Pemain '%s' diban dari channel '%s'."
+#: map_msg.conf::[1438]
+msgctxt "map_msg.conf"
+msgid "You're currently banned from the '%s' channel."
+msgstr "Kamu saat ini diban dari channel '%s'."
+#: map_msg.conf::[1439]
+msgctxt "map_msg.conf"
+msgid "Channel '%s' contains no banned players."
+msgstr "Channel '%s' tidak memiliki pemain yang diban."
+#: map_msg.conf::[1440]
+msgctxt "map_msg.conf"
+msgid "Player '%s' is not banned from this channel."
+msgstr "Pemain '%s' tidak diban dari channel ini."
+#: map_msg.conf::[1441]
+msgctxt "map_msg.conf"
+msgid "Player '%s' is unbanned from the '%s' channel."
+msgstr "Pemain '%s' diunban dari channel '%s' saat ini."
+#: map_msg.conf::[1442]
+msgctxt "map_msg.conf"
+msgid "Cleared all bans from the '%s' channel."
+msgstr "Semua pemain yang diban dari channel '%s' sudah dibersihkan."
+#: map_msg.conf::[1443]
+msgctxt "map_msg.conf"
+msgid "---- '#%s' Ban List:"
+msgstr "---- Daftar 'ban' '#%s':"
+#: map_msg.conf::[1444]
+msgctxt "map_msg.conf"
+msgid "---- Available Colors ----"
+msgstr "---- Warna yang tersedia ----"
+#: map_msg.conf::[1445]
+msgctxt "map_msg.conf"
+msgid "- %s"
+msgstr "- %s"
+#: map_msg.conf::[1446]
+msgctxt "map_msg.conf"
+msgid "You need to input an option."
+msgstr "Kamu butuh untuk memasukkan sebuah pilihan."
+#: map_msg.conf::[1447]
+msgctxt "map_msg.conf"
+msgid "Unknown channel option '%s'."
+msgstr "'%s' adalah pilihan channel yang tidak diketahui."
+#: map_msg.conf::[1448]
+msgctxt "map_msg.conf"
+msgid "Channel '%s' deleted."
+msgstr "Channel %s dihapus."
+#: map_msg.conf::[1449]
+msgctxt "map_msg.conf"
+msgid "Option '%s' is already enabled (use '@channel setopt %s 0' to disable)."
+msgstr "Pilihan '%s' sudah diaktifkan, (gunakan '@channel setopt %s 0' untuk mematikannya)."
+#: map_msg.conf::[1450]
+msgctxt "map_msg.conf"
+msgid "Option '%s' is enabled for channel '#%s'."
+msgstr "Pilihan '%s' saat ini diaktifkan untuk channel '#%s'."
+#: map_msg.conf::[1451]
+msgctxt "map_msg.conf"
+msgid "Value '%d' for option '%s' is out of range (limit 0-10)."
+msgstr "Nilai '%d' keluar dari batas untuk option '%s' (batasnya 0-10)."
+#: map_msg.conf::[1452]
+msgctxt "map_msg.conf"
+msgid "Option '%s' is enabled for channel '#%s' at %d seconds."
+msgstr "Pilihan '%s' sekarang diaktifkan untuk channel '#%s' dalam %d detik."
+#: map_msg.conf::[1453]
+msgctxt "map_msg.conf"
+msgid "Option '%s' is disabled for channel '#%s'."
+msgstr "Pilihan '%s' sekarang dimatikan untuk channel '#%s'."
+#: map_msg.conf::[1454]
+msgctxt "map_msg.conf"
+msgid "Color set to '%s'."
+msgstr "Warna telah diatur menjadi '%s'."
+#: map_msg.conf::[1455]
+msgctxt "map_msg.conf"
+msgid "You're talking too fast!"
+msgstr "Kamu berbicara terlalu cepat!"
+#: map_msg.conf::[1456]
+msgctxt "map_msg.conf"
+msgid "* %s ban <#channel_name> <player>"
+msgstr "* %s ban <#nama_channel> <pemain>"
+#: map_msg.conf::[1457]
+msgctxt "map_msg.conf"
+msgid "-- Bans the specified player from the channel."
+msgstr "-- Ban pemain yang ditentukan dari channel."
+#: map_msg.conf::[1458]
+msgctxt "map_msg.conf"
+msgid "* %s banlist <#channel_name>"
+msgstr "* %s banlist <#nama_channel>"
+#: map_msg.conf::[1459]
+msgctxt "map_msg.conf"
+msgid "-- Lists all players banned from the specified channel."
+msgstr "-- Menampilkan daftar semua pemain yang diban dari channel yang ditentukan"
+#: map_msg.conf::[1460]
+msgctxt "map_msg.conf"
+msgid "* %s unban <#channel_name> <player>"
+msgstr "* %s unban <#nama_channel> <pemain>"
+#: map_msg.conf::[1461]
+msgctxt "map_msg.conf"
+msgid "-- Unbans the specified player from the channel."
+msgstr "-- Unban pemain yang ditentukan dari suatu channel."
+#: map_msg.conf::[1462]
+msgctxt "map_msg.conf"
+msgid "* %s setopt <#channel_name> <option> <value>"
+msgstr "* %s setopt <#nama_channel> <pilihan> <nilai>"
+#: map_msg.conf::[1463]
+msgctxt "map_msg.conf"
+msgid "-- Sets an option and value for the specified channel."
+msgstr "-- Mengatur sebuah pilihan dan nilainya dari channel yang ditentukan."
+#: map_msg.conf::[1464]
+msgctxt "map_msg.conf"
+msgid "Ban failed for player '%s'."
+msgstr "'Ban' gagal untuk pemain '%s'."
+#: map_msg.conf::[1465]
+msgctxt "map_msg.conf"
+msgid "Player '%s' is already banned from this channel."
+msgstr "Pemain '%s' sudah diban dari channel ini."
+#: map_msg.conf::[1466]
+msgctxt "map_msg.conf"
+msgid "Input the number of seconds (0-10) for the '%s' option."
+msgstr "Masukkan nilai beberapa detik (0-10) untuk pilihan '%s'."
+#: map_msg.conf::[1467]
+msgctxt "map_msg.conf"
+msgid "* %s unbanall <#channel_name>"
+msgstr "* %s unbanall <#nama_channel>"
+#: map_msg.conf::[1468]
+msgctxt "map_msg.conf"
+msgid "-- Clears all bans from the specified channel."
+msgstr "-- Membersihkan semua pemain yang diban dari channel yang ditentukan."
+#: map_msg.conf::[1469]
+msgctxt "map_msg.conf"
+msgid "* %s delete <#channel_name>"
+msgstr "* %s delete <#nama_channel>"
+#: map_msg.conf::[1470]
+msgctxt "map_msg.conf"
+msgid "-- Destroys the specified channel."
+msgstr "-- Memusnahkan channel yang ditentukan."
+#: map_msg.conf::[1471]
+msgctxt "map_msg.conf"
+msgid "* %s list mine"
+msgstr "* %s list mine"
+#: map_msg.conf::[1472]
+msgctxt "map_msg.conf"
+msgid "-- Lists all channels you have joined."
+msgstr "-- Menampilkan daftar semua channel yang kamu ikuti."
+#: map_msg.conf::[1473]
+msgctxt "map_msg.conf"
+msgid "* %s join <#channel_name> <channel_password>"
+msgstr "* %s join <#nama_channel> <password_channel>"
+#: map_msg.conf::[1474]
+msgctxt "map_msg.conf"
+msgid "-- Joins the specified channel."
+msgstr "-- Bergabung ke channel yang ditentukan."
+#: map_msg.conf::[1475]
+msgctxt "map_msg.conf"
+msgid "---- My Channels ----"
+msgstr "---- Channel yang diikuti ----"
+#: map_msg.conf::[1476]
+msgctxt "map_msg.conf"
+msgid "You have not joined any channels."
+msgstr "Kamu tidak bergabung ke channel manapun saat ini."
+#: map_msg.conf::[1477]
+msgctxt "map_msg.conf"
+msgid "Packet database has been reloaded."
+msgstr "Database paket telah dimuat ulang."
+#: map_msg.conf::[1478]
+msgctxt "map_msg.conf"
+msgid "Party share level range has been changed successfully."
+msgstr "Jarak level dalam party share telah diubah dengan sukses."
+#: map_msg.conf::[1479]
+msgctxt "map_msg.conf"
+msgid "Failed to update configuration. Character server is offline."
+msgstr "Gagal memperbaruhi pengaturan. Server karakter sedang offline."
+#: map_msg.conf::[1480]
+msgctxt "map_msg.conf"
+msgid "Item type not found."
+msgstr "Tipe item tidak ditemukan."
+#: map_msg.conf::[1481]
+msgctxt "map_msg.conf"
+msgid "You're already autolooting this item type."
+msgstr "Kamu sudah meng-autoloot tipe item ini."
+#: map_msg.conf::[1482]
+msgctxt "map_msg.conf"
+msgid "Your autoloottype list has all item types. You can remove some items with @autoloottype -<type name or ID>."
+msgstr "Daftar autoloottype-mu sudah memiliki semua tipe. Kamu dapat menghilangkan beberapa tipe item dengan @autoloottype -<nama atau ID item>."
+#: map_msg.conf::[1483]
+msgctxt "map_msg.conf"
+msgid "Autolooting item type: '%s' {%d}"
+msgstr "Meng-autoloot tipe item: '%s' {%d}"
+#: map_msg.conf::[1484]
+msgctxt "map_msg.conf"
+msgid "You're currently not autolooting this item type."
+msgstr "Kamu sudah tidak meng-autoloot tipe item ini."
+#: map_msg.conf::[1485]
+msgctxt "map_msg.conf"
+msgid "Removed item type: '%s' {%d} from your autoloottype list."
+msgstr "Tipe item: '%s' {%d} dihilangkan dari daftar autoloottype anda."
+#: map_msg.conf::[1486]
+msgctxt "map_msg.conf"
+msgid "To add an item type to the list, use \"@aloottype +<type name or ID>\". To remove an item type, use \"@aloottype -<type name or ID>\"."
+msgstr "Untuk menambahkan tipe item ke dalam daftar, gunakan \"@aloottype +<nama atau ID tipe>\". Untuk menghilangkan sebuah tipe item, gunakan \"@aloottype -<nama atau ID tipe>\"."
+#: map_msg.conf::[1487]
+msgctxt "map_msg.conf"
+msgid "Type List: healing = 0, usable = 2, etc = 3, armor = 4, weapon = 5, card = 6, petegg = 7, petarmor = 8, ammo = 10"
+msgstr "Daftar tipe: healing = 0, usable = 2, etc = 3, weapon = 4, armor = 5, card = 6, petegg = 7, petarmor = 8, ammo = 10"
+#: map_msg.conf::[1488]
+msgctxt "map_msg.conf"
+msgid "\"@aloottype reset\" will clear your autoloottype list."
+msgstr "\"@aloottype reset\" akan membersihkan daftar autoloottype anda."
+#: map_msg.conf::[1489]
+msgctxt "map_msg.conf"
+msgid "Your autoloottype list is empty."
+msgstr "Daftar autoloottype anda kosong."
+#: map_msg.conf::[1490]
+msgctxt "map_msg.conf"
+msgid "Item types on your autoloottype list:"
+msgstr "Tipe item yang berada di daftar autoloottype anda:"
+#: map_msg.conf::[1491]
+msgctxt "map_msg.conf"
+msgid "Your autoloottype list has been reset."
+msgstr "Daftar autoloottype anda telah direset."
+#: map_msg.conf::[1492]
+msgctxt "map_msg.conf"
+msgid "Usage: @dropall {<type>}"
+msgstr "Penggunaan: @dropall {<tipe>}"
+#: map_msg.conf::[1493]
+msgctxt "map_msg.conf"
+msgid "Type List: (default) all = -1, healing = 0, usable = 2, etc = 3, armor = 4, weapon = 5, card = 6, petegg = 7, petarmor = 8, ammo = 10"
+msgstr "Daftar 'tipe': (default) all = -1, healing = 0, usable = 2, etc = 3, weapon = 4, armor = 5, card = 6, petegg = 7, petarmor = 8, ammo = 10"
+#: map_msg.conf::[1494]
+msgctxt "map_msg.conf"
+msgid "%d items are dropped (%d skipped)!"
+msgstr "%d item telah dijatuhkan! (%d tidak bisa dijatuhkan)"
+#: map_msg.conf::[1495]
+msgctxt "map_msg.conf"
+msgid "You can't withdraw that much money"
+msgstr "Kamu tidak dapat mengambil uang sebanyak itu."
+#: map_msg.conf::[1496]
+msgctxt "map_msg.conf"
+msgid "Banking is disabled"
+msgstr "Fitur banking tidak sedang aktif."
+#: map_msg.conf::[1497]
+msgctxt "map_msg.conf"
+msgid "Roulette is disabled"
+msgstr "Roulette tidak tersedia."

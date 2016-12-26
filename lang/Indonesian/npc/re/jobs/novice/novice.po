@@ -1,0 +1,10 @@
+################## rAthenaID PO File ###################
+# Only Compatible with rAthena File Version:
+# 3d9c6e7763c3d257593ba159a18dffc435b5ff06
+########################################################
+
+#: npc/re/jobs/novice/novice.txt
+# mes "Hello there! Welcome to the World of Ragnarok Online. My name is Sprakki and I'm in charge of giving you basic gameplay tips.";
+msgctxt "Sprakki#newbe01::NvSprakkiA"
+msgid "Hello there! Welcome to the World of Ragnarok Online. My name is Sprakki and I'm in charge of giving you basic gameplay tips."
+msgstr "Halo! Selamat datang di Ragnarok Online. Namaku adalah Sprakki dan aku disini untuk membantumu mengenai pengetahuan dasar bermain."

@@ -1,0 +1,30 @@
+################## rAthenaID PO File ###################
+# Only Compatible with rAthena File Version:
+# 3d9c6e7763c3d257593ba159a18dffc435b5ff06
+########################################################
+
+#: npc/airports/airships.txt
+# mes "Oh, hello adventurer.";
+msgctxt "Zerta#01airplane"
+msgid "Oh, hello adventurer."
+msgstr "Oh, hai petualang."
+#: npc/airports/airships.txt
+# mes "I am currently on a";
+msgctxt "Zerta#01airplane"
+msgid "I am currently on a"
+msgstr "Saat ini saya sedang dalam"
+#: npc/airports/airships.txt
+# mes "sacred journey, offering";
+msgctxt "Zerta#01airplane"
+msgid "sacred journey, offering"
+msgstr "perjalanan suci,"
+#: npc/airports/airships.txt
+# mes "prayer for the sake of the";
+msgctxt "Zerta#01airplane"
+msgid "prayer for the sake of the"
+msgstr "untuk kepentingan"
+#: npc/airports/airships.txt
+# mes "Rune-Midgard continent.";
+msgctxt "Zerta#01airplane"
+msgid "Rune-Midgard continent."
+msgstr "Rune-Midgard"

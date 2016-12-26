@@ -1,0 +1,10 @@
+################## rAthenaID PO File ###################
+# Only Compatible with rAthena File Version:
+# 3d9c6e7763c3d257593ba159a18dffc435b5ff06
+########################################################
+
+#: npc/re/cities/malangdo.txt
+# mes "Did you have fun in Malangdo?";
+msgctxt "Kong#malang"
+msgid "Did you have fun in Malangdo?"
+msgstr "Apakah kamu bersenang-senang di Malangdo?"
